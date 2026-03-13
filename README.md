@@ -41,7 +41,7 @@ Fichiers JSON générés par un modèle de transcription automatique (style Whis
 ## Lancer l'application
 
 ```bash
-pip install streamlit pandas altair
+pip install -r requirements.txt
 streamlit run stats.py
 ```
 
