@@ -150,6 +150,22 @@ def compute_normalized_monthly(expression: str, transcriptions: dict, df: pd.Dat
 # ─────────────────────────────────────────────
 st.title("Wankil Studio - Statistiques")
 
+st.markdown("""
+Ce dashboard analyse le catalogue vidéo de **Wankil Studio - Laink et Terracid** à partir des
+métadonnées YouTube et des transcriptions automatiques des vidéos.
+
+**Fonctionnalités :**
+- 🏆 Classements par vues, durée, efficacité (vues/minute) et performance récente (vues/jour)
+- 📈 Évolution temporelle des vues, de la durée et de la cadence de publication
+- 📊 Distributions, corrélations et saisonnalité
+- 🔍 Recherche full-text dans les transcriptions avec horodatage et lien direct YouTube
+- 📊 Analyse comparative de mots et expressions dans le temps (avec normalisation et lissage LOESS)
+
+> Contact : [admiring_heyrovsky@yvan.navy](mailto:admiring_heyrovsky@yvan.navy)
+""")
+
+st.divider()
+
 if not os.path.isfile(CSV_FILE):
     st.error(f"Fichier CSV introuvable : `{CSV_FILE}`")
     st.stop()
