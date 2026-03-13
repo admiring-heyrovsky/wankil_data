@@ -1,0 +1,65 @@
+{
+  "text": "Allô? Ouais, pendant que t'es là-bas, est-ce que tu peux me rapporter du saucisson? Stupid. Bah ouais pas de soucis de toute façon je suis dans le rayon là. 32 au pire, parce que je pense pas qu'un seul ça va durer. Là je suis en train de chercher mais je crois pas qu'ils en aient aux noisettes. Juste au noir, c'est pas race, il n'y a pas noisette, tu vois. Ouais non mais même au noix, en fait je crois qu'ils ont juste pas de saucisson mec. Mais t'es sûr que t'es bien au supermarché? Ah mais pas du tout moi je suis occulturant en fait là.  Ouais mais vu qu'ils vendent que des trucs gotesques, je me suis dit qu'il les aurait certainement.",
+  "segments": [
+    {
+      "start": 0.578,
+      "end": 1.118,
+      "text": "Allô?"
+    },
+    {
+      "start": 1.602,
+      "end": 4.286,
+      "text": "Ouais, pendant que t'es là-bas, est-ce que tu peux me rapporter du saucisson?"
+    },
+    {
+      "start": 4.61,
+      "end": 4.894,
+      "text": "Stupid."
+    },
+    {
+      "start": 5.186,
+      "end": 7.006,
+      "text": "Bah ouais pas de soucis de toute façon je suis dans le rayon là."
+    },
+    {
+      "start": 7.586,
+      "end": 9.982,
+      "text": "32 au pire, parce que je pense pas qu'un seul ça va durer."
+    },
+    {
+      "start": 10.21,
+      "end": 13.118,
+      "text": "Là je suis en train de chercher mais je crois pas qu'ils en aient aux noisettes."
+    },
+    {
+      "start": 13.986,
+      "end": 16.062,
+      "text": "Juste au noir, c'est pas race, il n'y a pas noisette, tu vois."
+    },
+    {
+      "start": 16.258,
+      "end": 19.294,
+      "text": "Ouais non mais même au noix, en fait je crois qu'ils ont juste pas de saucisson mec."
+    },
+    {
+      "start": 19.714,
+      "end": 21.406,
+      "text": "Mais t'es sûr que t'es bien au supermarché?"
+    },
+    {
+      "start": 21.506,
+      "end": 23.358,
+      "text": "Ah mais pas du tout moi je suis occulturant en fait là."
+    },
+    {
+      "start": 25.09,
+      "end": 25.342,
+      "text": ""
+    },
+    {
+      "start": 26.05,
+      "end": 28.798,
+      "text": "Ouais mais vu qu'ils vendent que des trucs gotesques, je me suis dit qu'il les aurait certainement."
+    }
+  ]
+}

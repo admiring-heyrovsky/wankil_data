@@ -1,0 +1,80 @@
+{
+  "text": "Ça veut dire qu'il y a la voisine qui prend des photos de choses suspectes. Y'a quelqu'un devant la porte? Vas-y va voir. Oh. Puppy. Vous fermez la porte Et vous vous cachez dans votre chambre. Ne réponds pas à la porte, quoi qu'il fasse. Ok, je peux pas lui envoyer merci info téléphone! Je vais me cacher dans ma chambre. Et j'oublie qu'il l'a. T'as fermé la clé? J'ai peur de que quand je clique ça ouvre la porte, donc je j'y vais. Mais non mais c'est sûr. Enfin, si je descends, ça va ouvrir, j'aurais pas une action, je sais même pas l'action que ça va faire. Tu vois si je clique là ça va ouvrir. Et si t'ouvres il se passe quoi? Bah ton avis! Il est encore là? Non c'est bon tu peux ouvrir il est parti! Il est plus là. Effectivement, ça n'aurait pas fermé la porte à clé. On a d'autres des idées de merde.",
+  "segments": [
+    {
+      "start": 0.194,
+      "end": 4.478,
+      "text": "Ça veut dire qu'il y a la voisine qui prend des photos de choses suspectes."
+    },
+    {
+      "start": 5.154,
+      "end": 7.614,
+      "text": "Y'a quelqu'un devant la porte? Vas-y va voir."
+    },
+    {
+      "start": 11.074,
+      "end": 11.71,
+      "text": "Oh."
+    },
+    {
+      "start": 13.762,
+      "end": 14.238,
+      "text": "Puppy."
+    },
+    {
+      "start": 15.618,
+      "end": 17.374,
+      "text": "Vous fermez la porte"
+    },
+    {
+      "start": 17.57,
+      "end": 20.19,
+      "text": "Et vous vous cachez dans votre chambre. Ne réponds pas à la porte, quoi qu'il fasse."
+    },
+    {
+      "start": 20.77,
+      "end": 23.518,
+      "text": "Ok, je peux pas lui envoyer merci info téléphone!"
+    },
+    {
+      "start": 23.874,
+      "end": 24.766,
+      "text": "Je vais me cacher dans ma chambre."
+    },
+    {
+      "start": 25.218,
+      "end": 35.422,
+      "text": "Et j'oublie qu'il l'a. T'as fermé la clé? J'ai peur de que quand je clique ça ouvre la porte, donc je j'y vais. Mais non mais c'est sûr. Enfin, si je descends, ça va ouvrir, j'aurais pas une action, je sais même pas l'action que ça va faire."
+    },
+    {
+      "start": 35.522,
+      "end": 39.294,
+      "text": "Tu vois si je clique là ça va ouvrir. Et si t'ouvres il se passe quoi? Bah ton avis!"
+    },
+    {
+      "start": 39.906,
+      "end": 40.542,
+      "text": "Il est encore là?"
+    },
+    {
+      "start": 41.41,
+      "end": 42.782,
+      "text": "Non c'est bon tu peux ouvrir il est parti!"
+    },
+    {
+      "start": 42.882,
+      "end": 43.326,
+      "text": "Il est plus là."
+    },
+    {
+      "start": 46.626,
+      "end": 48.446,
+      "text": "Effectivement, ça n'aurait pas fermé la porte à clé."
+    },
+    {
+      "start": 51.426,
+      "end": 52.7093125,
+      "text": "On a d'autres des idées de merde."
+    }
+  ]
+}

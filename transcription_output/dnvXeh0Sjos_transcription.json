@@ -1,0 +1,45 @@
+{
+  "text": "Tu sais pas par hasard où on peut trouver le crash d'hélico qui est au sud de la station? Ok tu te reviens de donner des coordonnées là à peu près? Ça y est c'est ton meilleur pote Il faut trouver les libots craché. Et ensuite faut suivre qu'il est bavard et pas tomber sur la plus moche du carçu hein. Bah après il est gentil, il donne des bonnes infos. Je les ai pas écoutés, mais euh... Oh non t'es tombé sur le bavard! Moi j'ai rencontré un mec qui était trop sympa. Ah ouais? Qui commence à me raconter sa vie, en mode j'ai pas de sac à dos, machin. Mais il raconte trop sa vie, on s'en fout de son sac à dos! Hey il reparle! Non laisse-moi passer il me reparle! Je ferme! Euh alors moi non par contre mon collègue il peut t'expliquer exactement où le ramener parce qu'il l'a fait y'a même pas une heure. J'ai fermé la porte devant lui! Chef, tu peux le guider s'il te plaît?  Il est toujours là hein! Oh bah putain! J'allais le emmener quelque part et lui lancer une grenade. T'es genre bah va voir cette pièce!",
+  "segments": [
+    {
+      "start": 0.354,
+      "end": 9.15,
+      "text": "Tu sais pas par hasard où on peut trouver le crash d'hélico qui est au sud de la station? Ok tu te reviens de donner des coordonnées là à peu près? Ça y est c'est ton meilleur pote"
+    },
+    {
+      "start": 9.282,
+      "end": 10.846,
+      "text": "Il faut trouver les libots craché."
+    },
+    {
+      "start": 10.978,
+      "end": 21.246,
+      "text": "Et ensuite faut suivre qu'il est bavard et pas tomber sur la plus moche du carçu hein. Bah après il est gentil, il donne des bonnes infos. Je les ai pas écoutés, mais euh..."
+    },
+    {
+      "start": 21.666,
+      "end": 24.414,
+      "text": "Oh non t'es tombé sur le bavard! Moi j'ai rencontré un mec qui était trop sympa."
+    },
+    {
+      "start": 24.546,
+      "end": 43.87,
+      "text": "Ah ouais? Qui commence à me raconter sa vie, en mode j'ai pas de sac à dos, machin. Mais il raconte trop sa vie, on s'en fout de son sac à dos! Hey il reparle! Non laisse-moi passer il me reparle! Je ferme! Euh alors moi non par contre mon collègue il peut t'expliquer exactement où le ramener parce qu'il l'a fait y'a même pas une heure. J'ai fermé la porte devant lui!"
+    },
+    {
+      "start": 43.938,
+      "end": 47.358,
+      "text": "Chef, tu peux le guider s'il te plaît?"
+    },
+    {
+      "start": 47.458,
+      "end": 47.742,
+      "text": ""
+    },
+    {
+      "start": 51.906,
+      "end": 58.340125,
+      "text": "Il est toujours là hein! Oh bah putain! J'allais le emmener quelque part et lui lancer une grenade. T'es genre bah va voir cette pièce!"
+    }
+  ]
+}

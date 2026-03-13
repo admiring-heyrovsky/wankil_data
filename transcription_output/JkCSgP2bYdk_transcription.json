@@ -1,0 +1,105 @@
+{
+  "text": "Attention Stop tout droit si t'as des poules, si t'as vu une pointe. Five! Mm. Alors, oh c'est serré! Je comprends pas. Oh c'est serré. On est où là? Euh on est sur un parking et y'a plein de voitures garées sur le côté. On va racler un peu. Ah j'entends la peinture hein! Où sont où les voitures? Elles sont collées à droite. Ah ok. Non c'est le mur, bah c'est le mur ça! T'as un mur à gauche! Ah ouais c'est. Ouais t'as des couilles. Fonce! Il y avait Dodan. Oh c'est pas du Dodan. Eh il est pas légal hein. Quoi que tu fonces ce genre de Dodan? Avance! Attends, t'arrives devant une barrière en face, t'arrives de bonne barrière. Et je sais pas comment on l'avait parce que je vois pas de... Code! Ah y'avait un truc qui mentionnait un code! The code is always... Mais mais ça ne dit pas le code! Bah recule, essaye de reculer. Oh! 575! 575! Où ça tu vois le code? Le code c'est un 575 qui est au plafond. Et au plafond. Avance! Tu me dis quand je m'arrête? Ah ça stop! Ouais faut reculer là. Ah ouais je le vois d'accord. C'est bon? Je vais faire pas les touches. Oh non! Pourquoi le plus proche? Stop! Ouais c'est bon là! Y'a un timer! Fonce la vieille! Fonce! A droite, à droite la colonne! Gosh, gosh, ghost, gosh! Gosh, gosh, gosh! Bacagos! Putain putain non! Qu'est-ce que tu fais là? T'as tellement défoncé la bagnole que je pouvais pas. T'es triou! T'étais à l'avant! Faut que tu fasses la manœuvre pour être dans l'axe pour qu'on refasse le code Ah, tu vas taper. Merde. T'es prêt? Attends, attends, est-ce que je suis dans l'axe? Vas-y je suis prêt. T'es prêt? Ouais. Function. Set. 5 c'est parti! C'est parti! A droite un peu! Tout droit, tout droit, à droite et 3 à droite! Ah oui c'est au stop Fred!",
+  "segments": [
+    {
+      "start": 0.322,
+      "end": 3.806,
+      "text": "Attention Stop tout droit si t'as des poules, si t'as vu une pointe."
+    },
+    {
+      "start": 4.482,
+      "end": 5.342,
+      "text": "Five!"
+    },
+    {
+      "start": 6.114,
+      "end": 6.43,
+      "text": "Mm."
+    },
+    {
+      "start": 7.042,
+      "end": 13.886,
+      "text": "Alors, oh c'est serré! Je comprends pas. Oh c'est serré. On est où là? Euh on est sur un parking et y'a plein de voitures garées sur le côté. On va racler un peu."
+    },
+    {
+      "start": 14.178,
+      "end": 24.03,
+      "text": "Ah j'entends la peinture hein! Où sont où les voitures? Elles sont collées à droite. Ah ok. Non c'est le mur, bah c'est le mur ça! T'as un mur à gauche! Ah ouais c'est. Ouais t'as des couilles. Fonce!"
+    },
+    {
+      "start": 27.202,
+      "end": 31.838,
+      "text": "Il y avait Dodan. Oh c'est pas du Dodan. Eh il est pas légal hein. Quoi que tu fonces ce genre de Dodan? Avance!"
+    },
+    {
+      "start": 32.322,
+      "end": 39.934,
+      "text": "Attends, t'arrives devant une barrière en face, t'arrives de bonne barrière. Et je sais pas comment on l'avait parce que je vois pas de... Code! Ah y'avait un truc qui mentionnait un code! The code is always..."
+    },
+    {
+      "start": 40.034,
+      "end": 57.918,
+      "text": "Mais mais ça ne dit pas le code! Bah recule, essaye de reculer. Oh! 575! 575! Où ça tu vois le code? Le code c'est un 575 qui est au plafond. Et au plafond. Avance! Tu me dis quand je m'arrête? Ah ça stop! Ouais faut reculer là. Ah ouais je le vois d'accord. C'est bon? Je vais faire pas les touches. Oh non! Pourquoi le plus proche? Stop!"
+    },
+    {
+      "start": 58.658,
+      "end": 59.646,
+      "text": "Ouais c'est bon là!"
+    },
+    {
+      "start": 59.778,
+      "end": 64.062,
+      "text": "Y'a un timer! Fonce la vieille! Fonce! A droite, à droite la colonne!"
+    },
+    {
+      "start": 64.194,
+      "end": 65.662,
+      "text": "Gosh, gosh, ghost, gosh!"
+    },
+    {
+      "start": 65.794,
+      "end": 67.742,
+      "text": "Gosh, gosh, gosh!"
+    },
+    {
+      "start": 68.13,
+      "end": 69.214,
+      "text": "Bacagos!"
+    },
+    {
+      "start": 69.954,
+      "end": 78.494,
+      "text": "Putain putain non! Qu'est-ce que tu fais là? T'as tellement défoncé la bagnole que je pouvais pas. T'es triou!"
+    },
+    {
+      "start": 78.722,
+      "end": 82.782,
+      "text": "T'étais à l'avant! Faut que tu fasses la manœuvre pour être dans l'axe pour qu'on refasse le code"
+    },
+    {
+      "start": 83.138,
+      "end": 84.382,
+      "text": "Ah, tu vas taper."
+    },
+    {
+      "start": 84.962,
+      "end": 90.238,
+      "text": "Merde. T'es prêt? Attends, attends, est-ce que je suis dans l'axe? Vas-y je suis prêt. T'es prêt? Ouais."
+    },
+    {
+      "start": 90.53,
+      "end": 91.134,
+      "text": "Function."
+    },
+    {
+      "start": 91.298,
+      "end": 91.806,
+      "text": "Set."
+    },
+    {
+      "start": 92.514,
+      "end": 97.918,
+      "text": "5 c'est parti! C'est parti! A droite un peu! Tout droit, tout droit, à droite et 3 à droite! Ah oui c'est au stop Fred!"
+    }
+  ]
+}

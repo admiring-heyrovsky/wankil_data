@@ -1,0 +1,50 @@
+{
+  "text": "Il est 21h46, j'ai plus le droit de manger après 22h C'est une nouvelle règle? J'ai une prise de sang en deux! J'ai trop le sub! Attends, t'as raison, eux aussi, j'ai pris 200, attends. Mon dernier yaourt. Ouais, il y a quel aliment non brut qui met 100% des gens d'accord pour dire que c'est bon et j'ai pensé au Nutella. Genre hors allergie. Ou maladie qui fait que tu ne peux pas en manger. Quel aliment? Non brut, mais tout le monde d'accord. C'est rare que les gens aiment pas le pain. Un croissant, genre quelqu'un qui aime pas un croissant. Ouais genre un croissant. Est-ce qu'il y a vraiment des gens qui aiment vraiment pas? Qui sont en mode non moi les croissants j'aime pas. Non mais je veux dire, le Nutella, vous pouvez pas dire que vous aimez pas ça. Ouais moi je veux genre... Je veux bien que les gens disent Ouais ok. Moi je veux dire, est-ce qu'il y a des gens qui n'aiment pas? Genre en mode... On leur dit, tiens, il y a du Nutella dessus, c'est en mode ah non, ah non non j'aime pas ça. La différence entre genre pas trouver ça ouf et ne pas aimer dégueu Nutella. C'est vrai? Je déteste, mais je sais pas si vous faites des intéressants ou si c'est vrai. J'ai jamais rencontré quelqu'un de ma vie qui était en mode Bah cette délicieuse pâte au chocolat, bah je déteste, c'est trop bizarre. J'aime pas le bonheur, oui voilà c'est plus crédible comme ça. Les crêpes. Une crêpe, crêpe au sucre. Voilà, on prend la plus basique possible. Une crêpe au sucre. Ah non au suc c'est à chien. Ouais mais si je vais dire du tela, déjà je vais vous dire du téléla je passer. Tu veux te dire sucre? Un nichon ça met tout le monde d'accord. Alors tu n'as pas compris le débat. Ouais là c'est différent. Une bonne tartine de nichon. Allez deux gros divers, on est d'accord les mecs, ça met tout le monde d'accord. C'est génial.",
+  "segments": [
+    {
+      "start": 0.002,
+      "end": 5.47,
+      "text": "Il est 21h46, j'ai plus le droit de manger après 22h C'est une nouvelle règle? J'ai une prise de sang en deux!"
+    },
+    {
+      "start": 5.602,
+      "end": 10.11,
+      "text": "J'ai trop le sub! Attends, t'as raison, eux aussi, j'ai pris 200, attends."
+    },
+    {
+      "start": 10.21,
+      "end": 11.038,
+      "text": "Mon dernier yaourt."
+    },
+    {
+      "start": 11.266,
+      "end": 19.294,
+      "text": "Ouais, il y a quel aliment non brut qui met 100% des gens d'accord pour dire que c'est bon et j'ai pensé au Nutella. Genre hors allergie."
+    },
+    {
+      "start": 19.394,
+      "end": 22.078,
+      "text": "Ou maladie qui fait que tu ne peux pas en manger. Quel aliment?"
+    },
+    {
+      "start": 22.178,
+      "end": 39.23,
+      "text": "Non brut, mais tout le monde d'accord. C'est rare que les gens aiment pas le pain. Un croissant, genre quelqu'un qui aime pas un croissant. Ouais genre un croissant. Est-ce qu'il y a vraiment des gens qui aiment vraiment pas? Qui sont en mode non moi les croissants j'aime pas. Non mais je veux dire, le Nutella, vous pouvez pas dire que vous aimez pas ça. Ouais moi je veux genre... Je veux bien que les gens disent Ouais ok. Moi je veux dire, est-ce qu'il y a des gens qui n'aiment pas? Genre en mode..."
+    },
+    {
+      "start": 39.33,
+      "end": 56.478,
+      "text": "On leur dit, tiens, il y a du Nutella dessus, c'est en mode ah non, ah non non j'aime pas ça. La différence entre genre pas trouver ça ouf et ne pas aimer dégueu Nutella. C'est vrai? Je déteste, mais je sais pas si vous faites des intéressants ou si c'est vrai. J'ai jamais rencontré quelqu'un de ma vie qui était en mode Bah cette délicieuse pâte au chocolat, bah je déteste, c'est trop bizarre."
+    },
+    {
+      "start": 56.482,
+      "end": 66.27,
+      "text": "J'aime pas le bonheur, oui voilà c'est plus crédible comme ça. Les crêpes. Une crêpe, crêpe au sucre. Voilà, on prend la plus basique possible. Une crêpe au sucre. Ah non au suc c'est à chien. Ouais mais si je vais dire du tela, déjà je vais vous dire du téléla je passer."
+    },
+    {
+      "start": 66.37,
+      "end": 77.601125,
+      "text": "Tu veux te dire sucre? Un nichon ça met tout le monde d'accord. Alors tu n'as pas compris le débat. Ouais là c'est différent. Une bonne tartine de nichon. Allez deux gros divers, on est d'accord les mecs, ça met tout le monde d'accord. C'est génial."
+    }
+  ]
+}

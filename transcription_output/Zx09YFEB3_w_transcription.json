@@ -1,0 +1,125 @@
+{
+  "text": "Attention ne fais tomber aucune bouteille! Aucune bouteille! Ah si le but c'est de faire tomber toutes les bouteilles je pense. Bon bah ok. Si je les fais toutes tomber... No. Ouh! Wouah! Putain! Attends, ça sert absolument rien, non? Je pense toujours au succès caché. Comment y'aura pas de succès caché, comment c'est sûr? Uh La  Là, je suis un moine. Oh le cinéma! C'est incroyable! Non il tient en plus! Oh non mais... Oh là! La caméra qui tourne et tout! Au début le mec il s'est pas marché à la fin il fait ça Elle est tombée. C'est l'essentiel. Tu sais moi, le mardi, j'ai instauré quelque chose dans mon couple. Le mardi, c'est free. C'est une journée où on est en mode on mange rien de sain. On se fait plaisir. Et du coup, je lui propose plein de trucs hier. Des trucs bons à Indien. Chinois, burger, nan, kebab, bref, tout ça. Tu sais ce que j'ai fini par manger moi? Non. Pendant le mardi, pétage de bide. Un bon sac des oeufs durs. Ouais l'ambiance. Mais votre mardi il est déjà gâché en fait, c'est fini le concept. Moi la même journée était foutu hein. Ah mais t'as dit qu'il va jamais. A quoi bon on se levait le matin? Dis adieu à ton mardi gras, c'est terminé! Oh là attention tu feras gaffe à celle de gauche hein? Ah celle qui est tout au bord là? Ouais mais tu te rends compte qu'il va forcément se passer un truc. Bah fais attention! No me yan. Il y en a certaines, le cul il a accueilli le goulot. Je pense qu'il va absolument rien se passer, c'est dans ta p... It. C'est des sale fils de cotes.",
+  "segments": [
+    {
+      "start": 0.13,
+      "end": 1.822,
+      "text": "Attention ne fais tomber aucune bouteille!"
+    },
+    {
+      "start": 2.05,
+      "end": 7.198,
+      "text": "Aucune bouteille! Ah si le but c'est de faire tomber toutes les bouteilles je pense. Bon bah ok. Si je les fais toutes tomber..."
+    },
+    {
+      "start": 8.802,
+      "end": 9.086,
+      "text": "No."
+    },
+    {
+      "start": 9.218,
+      "end": 13.758,
+      "text": "Ouh! Wouah! Putain! Attends, ça sert absolument rien, non?"
+    },
+    {
+      "start": 14.018,
+      "end": 19.134,
+      "text": "Je pense toujours au succès caché. Comment y'aura pas de succès caché, comment c'est sûr?"
+    },
+    {
+      "start": 21.538,
+      "end": 21.982,
+      "text": "Uh"
+    },
+    {
+      "start": 22.274,
+      "end": 22.686,
+      "text": "La"
+    },
+    {
+      "start": 23.138,
+      "end": 23.422,
+      "text": ""
+    },
+    {
+      "start": 24.674,
+      "end": 32.51,
+      "text": "Là, je suis un moine. Oh le cinéma! C'est incroyable!"
+    },
+    {
+      "start": 32.93,
+      "end": 36.062,
+      "text": "Non il tient en plus! Oh non mais... Oh là!"
+    },
+    {
+      "start": 36.322,
+      "end": 38.558,
+      "text": "La caméra qui tourne et tout!"
+    },
+    {
+      "start": 38.69,
+      "end": 41.822,
+      "text": "Au début le mec il s'est pas marché à la fin il fait ça"
+    },
+    {
+      "start": 44.034,
+      "end": 44.99,
+      "text": "Elle est tombée."
+    },
+    {
+      "start": 45.186,
+      "end": 48.798,
+      "text": "C'est l'essentiel. Tu sais moi, le mardi, j'ai instauré quelque chose dans mon couple."
+    },
+    {
+      "start": 48.962,
+      "end": 56.67,
+      "text": "Le mardi, c'est free. C'est une journée où on est en mode on mange rien de sain. On se fait plaisir. Et du coup, je lui propose plein de trucs hier. Des trucs bons à Indien."
+    },
+    {
+      "start": 56.834,
+      "end": 62.334,
+      "text": "Chinois, burger, nan, kebab, bref, tout ça. Tu sais ce que j'ai fini par manger moi?"
+    },
+    {
+      "start": 62.466,
+      "end": 71.71,
+      "text": "Non. Pendant le mardi, pétage de bide. Un bon sac des oeufs durs. Ouais l'ambiance. Mais votre mardi il est déjà gâché en fait, c'est fini le concept. Moi la même journée était foutu hein."
+    },
+    {
+      "start": 71.842,
+      "end": 73.886,
+      "text": "Ah mais t'as dit qu'il va jamais. A quoi bon on se levait le matin?"
+    },
+    {
+      "start": 73.986,
+      "end": 77.086,
+      "text": "Dis adieu à ton mardi gras, c'est terminé!"
+    },
+    {
+      "start": 78.114,
+      "end": 84.702,
+      "text": "Oh là attention tu feras gaffe à celle de gauche hein? Ah celle qui est tout au bord là? Ouais mais tu te rends compte qu'il va forcément se passer un truc. Bah fais attention!"
+    },
+    {
+      "start": 84.898,
+      "end": 85.566,
+      "text": "No me yan."
+    },
+    {
+      "start": 85.762,
+      "end": 90.302,
+      "text": "Il y en a certaines, le cul il a accueilli le goulot. Je pense qu'il va absolument rien se passer, c'est dans ta p..."
+    },
+    {
+      "start": 92.578,
+      "end": 92.926,
+      "text": "It."
+    },
+    {
+      "start": 97.09,
+      "end": 98.174,
+      "text": "C'est des sale fils de cotes."
+    }
+  ]
+}

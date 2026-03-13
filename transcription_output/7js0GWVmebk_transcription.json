@@ -1,0 +1,65 @@
+{
+  "text": " Je suis bien hein, je suis bien aujourd'hui. Euh faudra que tu viennes où je suis parce que j'ai un truc pour toi. Pour combien tu vas à fond et tu fais le tremplin là? Je pense qu'elle va tellement pas assez vite. Pour deux, ok, trois, deux, un, go. Deux. Retour. Ok. 3, 2, 1, 2, 2. Vas-y on te regarde. Je vais me placer pour filmer ça tranquillement. Tu sais que je suis sûr à 100% de pas avoir la vitesse. Si si t'inquiète, vu d'ici ça paraît beaucoup plus faisable déjà. Vas-y. Attends y'a un piaf qui me ponce dessus. À fond hein! À fond, à fond, à fond! Donne tout! Ha ha ha ha! Y'a l'oiseau qui te suit! Je fais de peu de voix.",
+  "segments": [
+    {
+      "start": 0.482,
+      "end": 0.766,
+      "text": ""
+    },
+    {
+      "start": 2.754,
+      "end": 10.302,
+      "text": "Je suis bien hein, je suis bien aujourd'hui. Euh faudra que tu viennes où je suis parce que j'ai un truc pour toi. Pour combien tu vas à fond et tu fais le tremplin là?"
+    },
+    {
+      "start": 10.402,
+      "end": 12.638,
+      "text": "Je pense qu'elle va tellement pas assez vite."
+    },
+    {
+      "start": 12.738,
+      "end": 15.678,
+      "text": "Pour deux, ok, trois, deux, un, go."
+    },
+    {
+      "start": 15.778,
+      "end": 16.35,
+      "text": "Deux."
+    },
+    {
+      "start": 17.378,
+      "end": 26.526,
+      "text": "Retour. Ok. 3, 2, 1, 2, 2. Vas-y on te regarde. Je vais me placer pour filmer ça tranquillement. Tu sais que je suis sûr à 100% de pas avoir la vitesse."
+    },
+    {
+      "start": 26.626,
+      "end": 29.086,
+      "text": "Si si t'inquiète, vu d'ici ça paraît beaucoup plus faisable déjà."
+    },
+    {
+      "start": 29.218,
+      "end": 31.87,
+      "text": "Vas-y. Attends y'a un piaf qui me ponce dessus."
+    },
+    {
+      "start": 35.49,
+      "end": 38.334,
+      "text": "À fond hein! À fond, à fond, à fond! Donne tout!"
+    },
+    {
+      "start": 49.73,
+      "end": 50.622,
+      "text": "Ha ha ha ha!"
+    },
+    {
+      "start": 52.258,
+      "end": 53.47,
+      "text": "Y'a l'oiseau qui te suit!"
+    },
+    {
+      "start": 53.922,
+      "end": 55.166,
+      "text": "Je fais de peu de voix."
+    }
+  ]
+}

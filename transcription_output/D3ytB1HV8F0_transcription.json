@@ -1,0 +1,50 @@
+{
+  "text": "Ça dépend de plein de choses. Déjà, un, si on était en France on serait où? Il y a la montagne. Oh Louis. Ouais Grenoble. Grenoble c'est dans une enclave, c'est un trou d'entouré de montagne donc ça fonctionne. C'est quoi la spécialité culinaire de Grenoble? Les noix la plus populaire. Quoi? Les noix de Grenoble? Ouais les noix de Grenoble. Ils ont bien un truc, le poulet bite, non? Le tacos? C'est horrible! Oh le trou des enfers à Grenoble! Mais c'est horrible, ma spécialité c'est le tacos! C'est nul, genre le tacos français là, le truc au tacos! Le French tacos quoi! Non pas possible. Aïe aïe aïe aïe aïe, vous mangez mal! Ok donc on abandonne l'idée de s'inspirer de la spécialité culinaire de Grenoble. Malheureusement... On peut pas faire un fast-food de tacos. Mais là par contre, important le nom, quel nom on lui donne. Ah bah oui bah là... Alors toi il bras TV, tu s'appelles Black and White. Avec ça, smash burger. Oui bah ce niveau lent mais ce qu'on veut quoi. Voilà.  Ah ouais c'est peut-être plus que ce que j'ai mis là. Eat and fuck! Non mais je peux pas laisser ça par contre. Tu peux plus le changer? Si si si bah si ce sera horrible euh... Bienvenue au eat and fuck! Moi je veux qu'il y ait fat dedans, ou juice, ou gras, un truc où tu te dises avoir la chasse tu vois. Bah là tu vois je peux te proposer le Juicy Burger. Bah le Juicy Burger t'as envie d'y aller ça va, c'est bien. Putain t'as mis... c'est des flammes c'est quoi? C'est euh. c'est un peu enflammé, c'est le Juicy Burger. Ouah ça crame ici, c'est... Allez, on entre.",
+  "segments": [
+    {
+      "start": 0.13,
+      "end": 5.054,
+      "text": "Ça dépend de plein de choses. Déjà, un, si on était en France on serait où? Il y a la montagne."
+    },
+    {
+      "start": 5.314,
+      "end": 5.886,
+      "text": "Oh Louis."
+    },
+    {
+      "start": 7.33,
+      "end": 25.662,
+      "text": "Ouais Grenoble. Grenoble c'est dans une enclave, c'est un trou d'entouré de montagne donc ça fonctionne. C'est quoi la spécialité culinaire de Grenoble? Les noix la plus populaire. Quoi? Les noix de Grenoble? Ouais les noix de Grenoble. Ils ont bien un truc, le poulet bite, non? Le tacos?"
+    },
+    {
+      "start": 25.634,
+      "end": 42.75,
+      "text": "C'est horrible! Oh le trou des enfers à Grenoble! Mais c'est horrible, ma spécialité c'est le tacos! C'est nul, genre le tacos français là, le truc au tacos! Le French tacos quoi! Non pas possible. Aïe aïe aïe aïe aïe, vous mangez mal! Ok donc on abandonne l'idée de s'inspirer de la spécialité culinaire de Grenoble. Malheureusement..."
+    },
+    {
+      "start": 42.818,
+      "end": 54.238,
+      "text": "On peut pas faire un fast-food de tacos. Mais là par contre, important le nom, quel nom on lui donne. Ah bah oui bah là... Alors toi il bras TV, tu s'appelles Black and White. Avec ça, smash burger. Oui bah ce niveau lent mais ce qu'on veut quoi. Voilà."
+    },
+    {
+      "start": 54.722,
+      "end": 56.574,
+      "text": ""
+    },
+    {
+      "start": 56.674,
+      "end": 71.102,
+      "text": "Ah ouais c'est peut-être plus que ce que j'ai mis là. Eat and fuck! Non mais je peux pas laisser ça par contre. Tu peux plus le changer? Si si si bah si ce sera horrible euh... Bienvenue au eat and fuck! Moi je veux qu'il y ait fat dedans, ou juice, ou gras, un truc où tu te dises avoir la chasse tu vois."
+    },
+    {
+      "start": 71.522,
+      "end": 83.102,
+      "text": "Bah là tu vois je peux te proposer le Juicy Burger. Bah le Juicy Burger t'as envie d'y aller ça va, c'est bien. Putain t'as mis... c'est des flammes c'est quoi? C'est euh. c'est un peu enflammé, c'est le Juicy Burger. Ouah ça crame ici, c'est..."
+    },
+    {
+      "start": 83.778,
+      "end": 85.054,
+      "text": "Allez, on entre."
+    }
+  ]
+}

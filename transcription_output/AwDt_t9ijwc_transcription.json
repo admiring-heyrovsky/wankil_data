@@ -1,0 +1,25 @@
+{
+  "text": "Tu l'as depuis euh... Attends, je vais dire combien de... Combien de temps je suis à Sila? Je vais boire de l'eau. Je suis à Sila depuis deuxhente? Moi aussi je vais boire de l'eau. Arrête d'être salty parce que Hama il vient de donner cinq euros quand même. Merci, bye.",
+  "segments": [
+    {
+      "start": 0.258,
+      "end": 1.95,
+      "text": "Tu l'as depuis euh... Attends, je vais dire combien de..."
+    },
+    {
+      "start": 2.53,
+      "end": 7.07,
+      "text": "Combien de temps je suis à Sila? Je vais boire de l'eau. Je suis à Sila depuis deuxhente? Moi aussi je vais boire de l'eau."
+    },
+    {
+      "start": 8.13,
+      "end": 13.086,
+      "text": "Arrête d'être salty parce que Hama il vient de donner cinq euros quand même."
+    },
+    {
+      "start": 13.442,
+      "end": 14.686,
+      "text": "Merci, bye."
+    }
+  ]
+}

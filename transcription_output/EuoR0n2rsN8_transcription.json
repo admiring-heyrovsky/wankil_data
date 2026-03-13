@@ -1,0 +1,50 @@
+{
+  "text": "On juge les repas faits par les abonnés. Oh là! Mais à l'hôpital? Et figure-toi que c'est ça qui est terrible, sûrement pas. Euh probablement pas. C'est quoi du Bratélix? C'est une bonne question. Attends je vais aller regarder c'est quoi du Bratallique? Fais passer ça avec le Babybell et ça passe tout seul. C'est un antidépresseur. Ah bah tu m'étonnes avec leur pas que tu prends! J'allais dire bah... Tu peux commencer peut-être par... Va falloir engober plusieurs hein parce que là... Essaie de te faire un peu plus plaisir peut-être, ça peut passer par la cuisine. Mais le repli est gris! Oh les petites tranches de pommes là elles me font. Rends trop triste. Damn samo odput jest. Y'a que le sticker ce que je vais manger avec plaisir. Ouais. Ouais Babybelle c'est une insulte hein. Arrêtez les Babybelles. Ça c'est bon! Mais des pommes noisettes. Oh là là là là là là là. Ah elles ont l'air bonnes! Ouais. Le poulet est bien rôti, bien doré. Ça, super repas, bravo monsieur. T'aurais pu mettre une petite sauce, mais c'est pas grave, on t'en veut pas, moi Clément, je la mange comme ça.",
+  "segments": [
+    {
+      "start": 0.066,
+      "end": 3.742,
+      "text": "On juge les repas faits par les abonnés. Oh là! Mais à l'hôpital?"
+    },
+    {
+      "start": 3.874,
+      "end": 9.214,
+      "text": "Et figure-toi que c'est ça qui est terrible, sûrement pas. Euh probablement pas. C'est quoi du Bratélix?"
+    },
+    {
+      "start": 9.442,
+      "end": 28.702,
+      "text": "C'est une bonne question. Attends je vais aller regarder c'est quoi du Bratallique? Fais passer ça avec le Babybell et ça passe tout seul. C'est un antidépresseur. Ah bah tu m'étonnes avec leur pas que tu prends! J'allais dire bah... Tu peux commencer peut-être par... Va falloir engober plusieurs hein parce que là... Essaie de te faire un peu plus plaisir peut-être, ça peut passer par la cuisine."
+    },
+    {
+      "start": 29.186,
+      "end": 31.934,
+      "text": "Mais le repli est gris!"
+    },
+    {
+      "start": 33.154,
+      "end": 35.806,
+      "text": "Oh les petites tranches de pommes là elles me font."
+    },
+    {
+      "start": 36.034,
+      "end": 37.502,
+      "text": "Rends trop triste."
+    },
+    {
+      "start": 37.666,
+      "end": 38.942,
+      "text": "Damn samo odput jest."
+    },
+    {
+      "start": 39.042,
+      "end": 40.926,
+      "text": "Y'a que le sticker ce que je vais manger avec plaisir."
+    },
+    {
+      "start": 41.218,
+      "end": 58.11,
+      "text": "Ouais. Ouais Babybelle c'est une insulte hein. Arrêtez les Babybelles. Ça c'est bon! Mais des pommes noisettes. Oh là là là là là là là. Ah elles ont l'air bonnes! Ouais. Le poulet est bien rôti, bien doré. Ça, super repas, bravo monsieur. T'aurais pu mettre une petite sauce, mais c'est pas grave, on t'en veut pas, moi Clément, je la mange comme ça."
+    }
+  ]
+}

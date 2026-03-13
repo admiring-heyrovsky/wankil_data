@@ -1,0 +1,35 @@
+{
+  "text": "huit cent quarante-six avenue Roger Salle Grosse Salle Grosse C'est un peu sale en gros. Le fait qu'ils le disent deux fois! Ah du roger sale grosse! Sale gros sale grosse man! Attends en plus t'as vu le temps qu'il a mis? On est 22h30 La meuresse grosse Elle répond pas en plus Elle pendant 50 minutes Mais c'est qu'elle répond pas la grosse elle répond",
+  "segments": [
+    {
+      "start": 0.13,
+      "end": 8.158,
+      "text": "huit cent quarante-six avenue Roger Salle Grosse Salle Grosse"
+    },
+    {
+      "start": 8.322,
+      "end": 10.718,
+      "text": "C'est un peu sale en gros."
+    },
+    {
+      "start": 10.85,
+      "end": 13.502,
+      "text": "Le fait qu'ils le disent deux fois!"
+    },
+    {
+      "start": 13.762,
+      "end": 18.878,
+      "text": "Ah du roger sale grosse! Sale gros sale grosse man!"
+    },
+    {
+      "start": 19.682,
+      "end": 21.534,
+      "text": "Attends en plus t'as vu le temps qu'il a mis?"
+    },
+    {
+      "start": 21.634,
+      "end": 34.014,
+      "text": "On est 22h30 La meuresse grosse Elle répond pas en plus Elle pendant 50 minutes Mais c'est qu'elle répond pas la grosse elle répond"
+    }
+  ]
+}

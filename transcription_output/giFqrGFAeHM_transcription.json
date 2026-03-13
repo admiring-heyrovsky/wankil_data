@@ -1,0 +1,135 @@
+{
+  "text": "Ok, t'es prêt? Ça part. Wait. Vas-y. Oh. Mais j'ai l'impression que je peux faire gauche droite ça fait rien par contre Non non tu te dirigeras pas C'est au bon vouloir. Oh c'est trop stylé! Attends! Eh tu vas plus vite que moi! Ça va faire la caisse là! Ça va faire la caisse! J'ai pas ce que! Oh là là! J'ai basculé! Oh là c'est bon sur deux! Attends, attends, attends, attends! Oh non pas de coup! Oh tu t'es pris le panneau de plein fouet! On était côte à côte et t'as disparu quand t'as pris le panneau. Tu peux accrocher un treuil à la bouée. Oh! Attends, tu peux accrocher un truc à la bouée? Ah oui, tu peux être derrière! C'est pas tombé de l'or et d'un sourd le plan là. Ah ouais ouais. Allez, en route! Vas-y! Bon courage! Oh putain on va te faire enculer! J'ai pas regardé le rétro. Parce que ça démarre! Pour l'instant c'est plutôt lent, les sensations sont pas folles. Passe la deuxième, tu vas voir si les sensations sont pas folles. Wow wow wow là c'est super, il y a souvent un tremplin à droite Eh je vais te dépasser, je vais te dépasser! Je te dépasse là, je vais plus vite que toi! T'es où? T'es où? Je suis à toi! Куша Haha Putain! Putain quoi? Du coup je fais le tour du sapin! Uh What? Mais moi c'est...  Il est.  ",
+  "segments": [
+    {
+      "start": 0.066,
+      "end": 1.47,
+      "text": "Ok, t'es prêt? Ça part."
+    },
+    {
+      "start": 1.602,
+      "end": 1.982,
+      "text": "Wait."
+    },
+    {
+      "start": 2.306,
+      "end": 3.038,
+      "text": "Vas-y."
+    },
+    {
+      "start": 4.098,
+      "end": 4.798,
+      "text": "Oh."
+    },
+    {
+      "start": 4.898,
+      "end": 9.758,
+      "text": "Mais j'ai l'impression que je peux faire gauche droite ça fait rien par contre Non non tu te dirigeras pas"
+    },
+    {
+      "start": 9.89,
+      "end": 11.742,
+      "text": "C'est au bon vouloir. Oh c'est trop stylé!"
+    },
+    {
+      "start": 11.906,
+      "end": 21.31,
+      "text": "Attends! Eh tu vas plus vite que moi! Ça va faire la caisse là! Ça va faire la caisse! J'ai pas ce que! Oh là là! J'ai basculé! Oh là c'est bon sur deux! Attends, attends, attends, attends! Oh non pas de coup!"
+    },
+    {
+      "start": 21.442,
+      "end": 23.39,
+      "text": "Oh tu t'es pris le panneau de plein fouet!"
+    },
+    {
+      "start": 23.522,
+      "end": 30.622,
+      "text": "On était côte à côte et t'as disparu quand t'as pris le panneau. Tu peux accrocher un treuil à la bouée. Oh!"
+    },
+    {
+      "start": 30.85,
+      "end": 38.718,
+      "text": "Attends, tu peux accrocher un truc à la bouée? Ah oui, tu peux être derrière! C'est pas tombé de l'or et d'un sourd le plan là. Ah ouais ouais. Allez, en route! Vas-y! Bon courage!"
+    },
+    {
+      "start": 41.41,
+      "end": 42.686,
+      "text": "Oh putain on va te faire enculer!"
+    },
+    {
+      "start": 43.01,
+      "end": 44.062,
+      "text": "J'ai pas regardé le rétro."
+    },
+    {
+      "start": 44.354,
+      "end": 45.342,
+      "text": "Parce que ça démarre!"
+    },
+    {
+      "start": 45.666,
+      "end": 47.71,
+      "text": "Pour l'instant c'est plutôt lent, les sensations sont pas folles."
+    },
+    {
+      "start": 47.906,
+      "end": 52.862,
+      "text": "Passe la deuxième, tu vas voir si les sensations sont pas folles. Wow wow wow là c'est super, il y a souvent un tremplin à droite"
+    },
+    {
+      "start": 53.026,
+      "end": 58.398,
+      "text": "Eh je vais te dépasser, je vais te dépasser! Je te dépasse là, je vais plus vite que toi! T'es où? T'es où? Je suis à toi!"
+    },
+    {
+      "start": 58.626,
+      "end": 59.39,
+      "text": "Куша"
+    },
+    {
+      "start": 59.554,
+      "end": 60.958,
+      "text": "Haha"
+    },
+    {
+      "start": 61.122,
+      "end": 63.646,
+      "text": "Putain! Putain quoi? Du coup je fais le tour du sapin!"
+    },
+    {
+      "start": 64.418,
+      "end": 64.862,
+      "text": "Uh"
+    },
+    {
+      "start": 65.57,
+      "end": 65.854,
+      "text": "What?"
+    },
+    {
+      "start": 66.082,
+      "end": 67.742,
+      "text": "Mais moi c'est..."
+    },
+    {
+      "start": 67.842,
+      "end": 68.51,
+      "text": ""
+    },
+    {
+      "start": 68.642,
+      "end": 69.342,
+      "text": "Il est."
+    },
+    {
+      "start": 70.082,
+      "end": 71.486,
+      "text": ""
+    },
+    {
+      "start": 71.586,
+      "end": 72.862,
+      "text": ""
+    }
+  ]
+}

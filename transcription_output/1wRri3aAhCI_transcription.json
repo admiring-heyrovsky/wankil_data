@@ -1,0 +1,50 @@
+{
+  "text": "Uh. Est-ce que l'agide la meuf elle est fraîche et tout? Un fan beauf quoi, genre seulement une meuf normale et pseudo fraîche. T'es au resto, c'est ton premier rendez-vous avec elle. Et euh... Tout se passe bien, tu sais, t'es grave normal. Je suis grave normal. Ça fait moins deux heures tu vois. Et d'un coup, tu pètes, ça s'entend de ouf, tu fais... Pardon! Est-ce que tu penses que c'est un no go ou ça peut quand même encore se jouer? Ah ça dépend de la meuf. Je lui fais une vanne, tu vois je fais une vanne genre. Non non non non! Désolé tout est normal depuis le début, même un peu séducteur, mais juste à un moment donné tu décolles une fesse du ciel, je fais pfff Et après tu redeviens normal Bah moi je pense que ça passe Tu crois Je pense ça passe Je sais pas!  Non mais c'est dur, clairement c'est dur, c'est pas idéal Et elle le racontera à tout le monde En fait Elle peut être que dans l'embarras parce que si la meuf elle est en mode ok là c'est plus possible Elle fait comment? Elle peut pas dire euh... Tu vois genre assuré, on saurait tous les deux que je pense pas qu'elle part, tu vois. Je vais y aller parce que t'as pété! Ah ouais tu vois, donc ce serait un peu gênant. D'avouer que c'est le P qui te fait que t'es parti.",
+  "segments": [
+    {
+      "start": 0.098,
+      "end": 0.478,
+      "text": "Uh."
+    },
+    {
+      "start": 0.802,
+      "end": 2.558,
+      "text": "Est-ce que l'agide la meuf elle est fraîche et tout?"
+    },
+    {
+      "start": 2.658,
+      "end": 22.366,
+      "text": "Un fan beauf quoi, genre seulement une meuf normale et pseudo fraîche. T'es au resto, c'est ton premier rendez-vous avec elle. Et euh... Tout se passe bien, tu sais, t'es grave normal. Je suis grave normal. Ça fait moins deux heures tu vois. Et d'un coup, tu pètes, ça s'entend de ouf, tu fais... Pardon! Est-ce que tu penses que c'est un no go ou ça peut quand même encore se jouer?"
+    },
+    {
+      "start": 22.402,
+      "end": 39.358,
+      "text": "Ah ça dépend de la meuf. Je lui fais une vanne, tu vois je fais une vanne genre. Non non non non! Désolé tout est normal depuis le début, même un peu séducteur, mais juste à un moment donné tu décolles une fesse du ciel, je fais pfff Et après tu redeviens normal Bah moi je pense que ça passe Tu crois Je pense ça passe"
+    },
+    {
+      "start": 39.746,
+      "end": 40.51,
+      "text": "Je sais pas!"
+    },
+    {
+      "start": 40.93,
+      "end": 41.182,
+      "text": ""
+    },
+    {
+      "start": 41.314,
+      "end": 48.958,
+      "text": "Non mais c'est dur, clairement c'est dur, c'est pas idéal Et elle le racontera à tout le monde En fait Elle peut être que dans l'embarras parce que si la meuf elle est en mode ok là c'est plus possible"
+    },
+    {
+      "start": 49.058,
+      "end": 57.95,
+      "text": "Elle fait comment? Elle peut pas dire euh... Tu vois genre assuré, on saurait tous les deux que je pense pas qu'elle part, tu vois. Je vais y aller parce que t'as pété! Ah ouais tu vois, donc ce serait un peu gênant."
+    },
+    {
+      "start": 58.114,
+      "end": 59.977125,
+      "text": "D'avouer que c'est le P qui te fait que t'es parti."
+    }
+  ]
+}

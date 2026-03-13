@@ -1,0 +1,60 @@
+{
+  "text": "Une bonne purée saucisse. Oh le pied! Ah le gros doigt de pied là! Ça, ça donne pas faim. Enfin, pour moi, ça, c'est t'es à l'hôpital ou alors t'es en maison de retraite en fin de vie. Et ils ont rien à foutre de ce qu'ils vont te faire manger, parce que tu vas mourir d'ici deux jours. Oh le tweet il est kata. J'ai raté un purée. J'ai raté un puré. Voici des frites avec du cordon bleu. Attends, il sait ce que c'est un cordon bleu ou pas? On est d'accord que là c'est la dingue? Bah pourquoi tu dis du cordon bleu? Fais attention quand même, moi moi qui par contre concerné par les cordons bleus, attention à ce qu'on dit! Attention à ce qu'on dit! C'en est pas un! Bon, oh là alors y'a du monde! Qu'est-ce que c'est? Alors je te jure c'est des cookies. Bah c'est des cookies boisilles à gauche. Moi je suis... Prêt à le risque. Ok, attends. On est en convention. Il se ramène avec ses cookies là? Ah non! Ok, tu vas sur ta grand-mère, tu sais qu'elle est un peu sénile. Et là, elle tient un coquille! Tu le manges plus tard! Tu le mets dans ma poche et si je le mangerai plus tard!",
+  "segments": [
+    {
+      "start": 0.034,
+      "end": 3.422,
+      "text": "Une bonne purée saucisse. Oh le pied!"
+    },
+    {
+      "start": 3.618,
+      "end": 5.214,
+      "text": "Ah le gros doigt de pied là!"
+    },
+    {
+      "start": 5.506,
+      "end": 20.19,
+      "text": "Ça, ça donne pas faim. Enfin, pour moi, ça, c'est t'es à l'hôpital ou alors t'es en maison de retraite en fin de vie. Et ils ont rien à foutre de ce qu'ils vont te faire manger, parce que tu vas mourir d'ici deux jours. Oh le tweet il est kata. J'ai raté un purée. J'ai raté un puré."
+    },
+    {
+      "start": 20.354,
+      "end": 22.334,
+      "text": "Voici des frites avec du cordon bleu."
+    },
+    {
+      "start": 22.434,
+      "end": 27.646,
+      "text": "Attends, il sait ce que c'est un cordon bleu ou pas? On est d'accord que là c'est la dingue?"
+    },
+    {
+      "start": 27.746,
+      "end": 36.958,
+      "text": "Bah pourquoi tu dis du cordon bleu? Fais attention quand même, moi moi qui par contre concerné par les cordons bleus, attention à ce qu'on dit! Attention à ce qu'on dit! C'en est pas un! Bon, oh là alors y'a du monde!"
+    },
+    {
+      "start": 37.186,
+      "end": 43.198,
+      "text": "Qu'est-ce que c'est? Alors je te jure c'est des cookies. Bah c'est des cookies boisilles à gauche. Moi je suis..."
+    },
+    {
+      "start": 43.298,
+      "end": 44.894,
+      "text": "Prêt à le risque. Ok, attends."
+    },
+    {
+      "start": 44.994,
+      "end": 45.854,
+      "text": "On est en convention."
+    },
+    {
+      "start": 46.018,
+      "end": 47.262,
+      "text": "Il se ramène avec ses cookies là?"
+    },
+    {
+      "start": 47.49,
+      "end": 57.4578125,
+      "text": "Ah non! Ok, tu vas sur ta grand-mère, tu sais qu'elle est un peu sénile. Et là, elle tient un coquille! Tu le manges plus tard! Tu le mets dans ma poche et si je le mangerai plus tard!"
+    }
+  ]
+}

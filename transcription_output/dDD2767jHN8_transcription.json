@@ -1,0 +1,85 @@
+{
+  "text": "Alors, contexte, c'est notre premier date et ça tombe le soir du 14 juillet, c'est parti! Uh T'as dit. Jimmy en slow. Ah ouais? Ça va pas tarder là, ça devrait pas tarder. Quand tu dis slow, c'est-à-dire... Bah là ça devrait pas tarder à se lancer. Ah c'est bon, regarde, ça part, ça part! Oh. Whoa. Oh. Uh Oh Attends... Aaaaaah Attends et je crois qu'il reste un truc.",
+  "segments": [
+    {
+      "start": 0.066,
+      "end": 5.822,
+      "text": "Alors, contexte, c'est notre premier date et ça tombe le soir du 14 juillet, c'est parti!"
+    },
+    {
+      "start": 10.05,
+      "end": 10.494,
+      "text": "Uh"
+    },
+    {
+      "start": 11.33,
+      "end": 11.87,
+      "text": "T'as dit."
+    },
+    {
+      "start": 11.97,
+      "end": 12.67,
+      "text": "Jimmy en slow."
+    },
+    {
+      "start": 13.314,
+      "end": 13.822,
+      "text": "Ah ouais?"
+    },
+    {
+      "start": 15.906,
+      "end": 19.55,
+      "text": "Ça va pas tarder là, ça devrait pas tarder."
+    },
+    {
+      "start": 21.282,
+      "end": 22.846,
+      "text": "Quand tu dis slow, c'est-à-dire..."
+    },
+    {
+      "start": 23.234,
+      "end": 26.846,
+      "text": "Bah là ça devrait pas tarder à se lancer. Ah c'est bon, regarde, ça part, ça part!"
+    },
+    {
+      "start": 27.298,
+      "end": 27.998,
+      "text": "Oh."
+    },
+    {
+      "start": 29.09,
+      "end": 29.758,
+      "text": "Whoa."
+    },
+    {
+      "start": 31.426,
+      "end": 31.742,
+      "text": "Oh."
+    },
+    {
+      "start": 32.258,
+      "end": 32.51,
+      "text": "Uh"
+    },
+    {
+      "start": 33.186,
+      "end": 33.694,
+      "text": "Oh"
+    },
+    {
+      "start": 34.722,
+      "end": 35.998,
+      "text": "Attends..."
+    },
+    {
+      "start": 36.834,
+      "end": 38.238,
+      "text": "Aaaaaah"
+    },
+    {
+      "start": 40.162,
+      "end": 41.502,
+      "text": "Attends et je crois qu'il reste un truc."
+    }
+  ]
+}

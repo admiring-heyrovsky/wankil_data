@@ -1,0 +1,35 @@
+{
+  "text": "Yeah Tu nettoies tes toilettes? Bah elles sont propres, j'avais besoin de les nettoyer. Tu nettoies pas tes toilettes. Bah par là pour le coup j'ai jamais nettoyé mes toilettes parce que... Ouais tu les nettoies avec ton caca tu fais que comment ça elles sont toutes propres à l'autre? Comment ça vous nettoyez vos toilettes? Ah bah ouais! Parce que tu dois mettre ton liquide autour des toilettes là pour nettoyer un petit peu. Mais moi y'a pas de calcaire, pas de tracé, c'est... c'est blanc immaculé comme si je venais dans mes dames. Comme au premier jour! Bah ouais! Non mais un petit coup de canard WC tu sais, t'as pas le canard WC che toi là? Le fric avec le bec? Bah parce que c'est on y fait pipi et caca! Le fond des toilettes, la brosse, mais tu fais pas caca sur les parois? Mais tu fais pipi sur les parois! Alors non on fait pipi dans mon lavabo! Ah oui d'accord, non mais j'ai oublié on était sur un degré différent qui change tout et que déjà y'a un problème de base. Bah non c'est pas un problème du coup c'est tout propre. Ah oui c'est tout propre. Alors du coup tu nettoies ton évier. Ah oui mon lavabo je... Arrête de dire ici parce que les gens pensent que je pisse dans mon évier. Et je... Oui je nettoie mon lavabo. D'accord.",
+  "segments": [
+    {
+      "start": 0.002,
+      "end": 0.606,
+      "text": "Yeah"
+    },
+    {
+      "start": 0.77,
+      "end": 8.382,
+      "text": "Tu nettoies tes toilettes? Bah elles sont propres, j'avais besoin de les nettoyer. Tu nettoies pas tes toilettes. Bah par là pour le coup j'ai jamais nettoyé mes toilettes parce que..."
+    },
+    {
+      "start": 8.738,
+      "end": 26.014,
+      "text": "Ouais tu les nettoies avec ton caca tu fais que comment ça elles sont toutes propres à l'autre? Comment ça vous nettoyez vos toilettes? Ah bah ouais! Parce que tu dois mettre ton liquide autour des toilettes là pour nettoyer un petit peu. Mais moi y'a pas de calcaire, pas de tracé, c'est... c'est blanc immaculé comme si je venais dans mes dames. Comme au premier jour! Bah ouais!"
+    },
+    {
+      "start": 26.018,
+      "end": 39.198,
+      "text": "Non mais un petit coup de canard WC tu sais, t'as pas le canard WC che toi là? Le fric avec le bec? Bah parce que c'est on y fait pipi et caca! Le fond des toilettes, la brosse, mais tu fais pas caca sur les parois? Mais tu fais pipi sur les parois! Alors non on fait pipi dans mon lavabo!"
+    },
+    {
+      "start": 39.458,
+      "end": 58.91,
+      "text": "Ah oui d'accord, non mais j'ai oublié on était sur un degré différent qui change tout et que déjà y'a un problème de base. Bah non c'est pas un problème du coup c'est tout propre. Ah oui c'est tout propre. Alors du coup tu nettoies ton évier. Ah oui mon lavabo je... Arrête de dire ici parce que les gens pensent que je pisse dans mon évier. Et je... Oui je nettoie mon lavabo."
+    },
+    {
+      "start": 59.202,
+      "end": 59.806,
+      "text": "D'accord."
+    }
+  ]
+}

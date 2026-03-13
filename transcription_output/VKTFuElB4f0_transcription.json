@@ -1,0 +1,35 @@
+{
+  "text": "Je te dis ce que je veux! Pas mon père Je m'appelle Terrassi, j'ai 6 ans et demi. Ouais, mais justement, je m'en bats les couilles. Que je vois! ",
+  "segments": [
+    {
+      "start": 17.218,
+      "end": 18.526,
+      "text": "Je te dis ce que je veux!"
+    },
+    {
+      "start": 20.002,
+      "end": 21.534,
+      "text": "Pas mon père"
+    },
+    {
+      "start": 31.106,
+      "end": 32.638,
+      "text": "Je m'appelle Terrassi, j'ai 6 ans et demi."
+    },
+    {
+      "start": 33.122,
+      "end": 35.614,
+      "text": "Ouais, mais justement, je m'en bats les couilles."
+    },
+    {
+      "start": 37.922,
+      "end": 38.814,
+      "text": "Que je vois!"
+    },
+    {
+      "start": 48.962,
+      "end": 49.214,
+      "text": ""
+    }
+  ]
+}

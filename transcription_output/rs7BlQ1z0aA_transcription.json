@@ -1,0 +1,50 @@
+{
+  "text": "Hello there! Salut! Quel est ton nom? I have never heard of that name before! To qua Thomas le juif de Galilée! Oh j'ai... Oh! Marc Mar juste Thomas juif alors. Si tu avais un super pouvoir, qu'est-ce que ce serait? Moi ce serait... Euh c'est sûrement triste, genre savoir ce que pensent les autres. Ah non, c'est horrible! Faut pas le savoir. Se téléporter, voler, euh... Pour moi c'est pas mal se téléporter niveau pratique mec. Si t'as besoin de poster une lettre à la poste, tu vois tu peux y aller. Ouais pour moi. Tu vois le genre de délire. Ok, tournage, ok. Tu claques des doigts comme animatique, paf, t'y es et paf, tu reviens chez toi. Bon si tu deviens. T'as envie de faire caca, tu te téléportes aux toilettes. Où que tu sois. Ouais mais là tu du coup physiquement tu deviens un port euh... Mon mot favori! Oh là tu peux pas le marquer sur ce pitchlunk! Euh non alors le deuxième favori du coup, prends le deuxième préféré parce que...",
+  "segments": [
+    {
+      "start": 0.098,
+      "end": 9.15,
+      "text": "Hello there! Salut! Quel est ton nom? I have never heard of that name before!"
+    },
+    {
+      "start": 9.474,
+      "end": 10.11,
+      "text": "To qua"
+    },
+    {
+      "start": 10.594,
+      "end": 16.19,
+      "text": "Thomas le juif de Galilée! Oh j'ai... Oh! Marc Mar juste Thomas juif alors."
+    },
+    {
+      "start": 16.418,
+      "end": 18.686,
+      "text": "Si tu avais un super pouvoir, qu'est-ce que ce serait?"
+    },
+    {
+      "start": 18.786,
+      "end": 20.67,
+      "text": "Moi ce serait..."
+    },
+    {
+      "start": 20.834,
+      "end": 28.926,
+      "text": "Euh c'est sûrement triste, genre savoir ce que pensent les autres. Ah non, c'est horrible! Faut pas le savoir. Se téléporter, voler, euh..."
+    },
+    {
+      "start": 29.154,
+      "end": 48.158,
+      "text": "Pour moi c'est pas mal se téléporter niveau pratique mec. Si t'as besoin de poster une lettre à la poste, tu vois tu peux y aller. Ouais pour moi. Tu vois le genre de délire. Ok, tournage, ok. Tu claques des doigts comme animatique, paf, t'y es et paf, tu reviens chez toi. Bon si tu deviens. T'as envie de faire caca, tu te téléportes aux toilettes. Où que tu sois."
+    },
+    {
+      "start": 48.13,
+      "end": 53.982,
+      "text": "Ouais mais là tu du coup physiquement tu deviens un port euh... Mon mot favori! Oh là tu peux pas le marquer sur ce pitchlunk!"
+    },
+    {
+      "start": 54.21,
+      "end": 59.6636875,
+      "text": "Euh non alors le deuxième favori du coup, prends le deuxième préféré parce que..."
+    }
+  ]
+}

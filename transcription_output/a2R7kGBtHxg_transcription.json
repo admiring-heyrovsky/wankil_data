@@ -1,0 +1,45 @@
+{
+  "text": "Besoin d'une culotte connectée? Mesdames, est-ce que vous avez besoin de la culotte connectée? On peut pas parler en vêtement mais vite intéressé par l'offre. Première application intelligente qui vous permet de suivre vos cycles menstruels et de vivre la toute première expérience personnalisée de la culotte menstruelle connectée. T'as besoin d'une appli pour te le dire c'est que t'es un peu crado quoi. Alors les applis pour euh. pour suivre euh... Oui C'est cycluel, évidemment, ça c'est important. Mais pour connaître l'état de ta culotte, je veux dire, regarde là, sinon je veux dire, euh... Mesdames, on est d'accord que quand vous vous faites dessus, pardon j'ai pas d'autre expression, mais quand vous sentez que... Vous savez, d'un coup c'est... Okay. Vous le sentez, y'a pas besoin d'une culotte connectée pour vous le dire. T'as une petite notif, vous êtes sales! T'as un petit emoji avec un truc qui se passe le nez. Bah c'est l'heure! Faut changer tout ça, bah... La petite fou t'a fait une photo de l'état de ta culotte, t'as te l'envoie sur ton smartphone. Regarde le bazar! Regarde bien! Tu trouves que c'est normal, elle est blanche de base la culotte hein! Non mais ça sert à rien! Sick was bought in.",
+  "segments": [
+    {
+      "start": 0.066,
+      "end": 1.47,
+      "text": "Besoin d'une culotte connectée?"
+    },
+    {
+      "start": 1.986,
+      "end": 21.918,
+      "text": "Mesdames, est-ce que vous avez besoin de la culotte connectée? On peut pas parler en vêtement mais vite intéressé par l'offre. Première application intelligente qui vous permet de suivre vos cycles menstruels et de vivre la toute première expérience personnalisée de la culotte menstruelle connectée. T'as besoin d'une appli pour te le dire c'est que t'es un peu crado quoi. Alors les applis pour euh. pour suivre euh... Oui"
+    },
+    {
+      "start": 21.922,
+      "end": 35.038,
+      "text": "C'est cycluel, évidemment, ça c'est important. Mais pour connaître l'état de ta culotte, je veux dire, regarde là, sinon je veux dire, euh... Mesdames, on est d'accord que quand vous vous faites dessus, pardon j'ai pas d'autre expression, mais quand vous sentez que... Vous savez, d'un coup c'est..."
+    },
+    {
+      "start": 35.778,
+      "end": 36.35,
+      "text": "Okay."
+    },
+    {
+      "start": 36.45,
+      "end": 42.558,
+      "text": "Vous le sentez, y'a pas besoin d'une culotte connectée pour vous le dire. T'as une petite notif, vous êtes sales!"
+    },
+    {
+      "start": 42.786,
+      "end": 58.878,
+      "text": "T'as un petit emoji avec un truc qui se passe le nez. Bah c'est l'heure! Faut changer tout ça, bah... La petite fou t'a fait une photo de l'état de ta culotte, t'as te l'envoie sur ton smartphone. Regarde le bazar! Regarde bien!"
+    },
+    {
+      "start": 59.426,
+      "end": 63.358,
+      "text": "Tu trouves que c'est normal, elle est blanche de base la culotte hein! Non mais ça sert à rien!"
+    },
+    {
+      "start": 63.522,
+      "end": 64.539875,
+      "text": "Sick was bought in."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "text": "Est-ce que s'il y a quelqu'un qui sonne chez toi et qui a l'air vraiment genre hyper sincère? Genre t'es sûr à 200% que c'est pas quelqu'un qui te piège ou va te faire du mal ou quoi, bref la personne elle est sincère et y'a pas de... Voilà, elle est là, tu vois que genre elle transpire un peu, il se tient un peu partout, tu vois qu'il est un peu recourbé, il se tient le ventre et se dit, excusez-moi, il faut absolument que j'utilise vos toilettes. Comment ça il est sautille un peu? Genre t'es bas sur le ventre, transpirant, genre... Ouais il a full chasse, il a full chasse. Qu'est-ce que tu lui dis? Je crois que je le laisse parce que c'est terrible, ce pauvre gars il veut juste se libérer du mal tu vois c'est. Mais par contre ce côté sûr c'est qu'il va te pourrir tes chiottes. Ouais bah ouais, ça c'est sûr mais bon. Ah non j'ai le cœur sur la main, j'aurais gagné. Et qu'il fasse vite hein, mais. Non, il est super sympa machin. Par contre, il aura tellement honte de ce qu'il a fait qu'il va partir sans rien nettoyer. Il va tirer la chasse et crois-moi ce sera pas suffisant. Ah non, non, non, ça c'est pas bien. Non ça c'est respectueux. Du coup là ça devient une personne pas bien. Mais là je ne l'accepte pas chez moi. Non c'est une question de honte. Et justement la honte c'est de laisser, c'est ça la honte.",
+  "segments": [
+    {
+      "start": 0.034,
+      "end": 19.678,
+      "text": "Est-ce que s'il y a quelqu'un qui sonne chez toi et qui a l'air vraiment genre hyper sincère? Genre t'es sûr à 200% que c'est pas quelqu'un qui te piège ou va te faire du mal ou quoi, bref la personne elle est sincère et y'a pas de... Voilà, elle est là, tu vois que genre elle transpire un peu, il se tient un peu partout, tu vois qu'il est un peu recourbé, il se tient le ventre et se dit, excusez-moi, il faut absolument que j'utilise vos toilettes."
+    },
+    {
+      "start": 19.906,
+      "end": 25.022,
+      "text": "Comment ça il est sautille un peu? Genre t'es bas sur le ventre, transpirant, genre..."
+    },
+    {
+      "start": 25.154,
+      "end": 28.126,
+      "text": "Ouais il a full chasse, il a full chasse. Qu'est-ce que tu lui dis?"
+    },
+    {
+      "start": 28.258,
+      "end": 42.59,
+      "text": "Je crois que je le laisse parce que c'est terrible, ce pauvre gars il veut juste se libérer du mal tu vois c'est. Mais par contre ce côté sûr c'est qu'il va te pourrir tes chiottes. Ouais bah ouais, ça c'est sûr mais bon. Ah non j'ai le cœur sur la main, j'aurais gagné. Et qu'il fasse vite hein, mais."
+    },
+    {
+      "start": 42.594,
+      "end": 54.718,
+      "text": "Non, il est super sympa machin. Par contre, il aura tellement honte de ce qu'il a fait qu'il va partir sans rien nettoyer. Il va tirer la chasse et crois-moi ce sera pas suffisant. Ah non, non, non, ça c'est pas bien. Non ça c'est respectueux. Du coup là ça devient une personne pas bien."
+    },
+    {
+      "start": 55.042,
+      "end": 59.977125,
+      "text": "Mais là je ne l'accepte pas chez moi. Non c'est une question de honte. Et justement la honte c'est de laisser, c'est ça la honte."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "text": "J'ai plus de papier! Y'a plus de papier! Il est où le papier? Je commande du papier en urgence. Y'a plus de papier arabe? J'ai commandé. Y'en a une qui veut un burger! Alors prépare-toi! Un burger avec... Putain! Un burger avec du ketchup? Oh je suis daltonien, ouais tu vois là la bouteille sur l'écran, c'est le ketchup non? Attends qu'est-ce que... Tu vas voir la commande? Ouais c'est du ketchup, t'as tape d'Altonien de merde! Non non mais ça va j'aurais pas de problème maintenant que je sais ça. Attends j'en ai jamais fait ça encore, c'est sur le dessus du... Le mec qui panique! Attends j'ai jamais mis de sauce dans un burger donc... Attends et bah simple, euh hamburger simple avec juste des ketchup! J'ai des papiers, c'est bon on a full papier, y'a plus de panique. Ah monsieur, monsieur, on a encore un ketchup à venir là. Je. Je le mets le... Pourquoi ça fait rien? T'inquiète pas, je vais leur expliquer que le cuisinier cherche comment mettre de la sauce. Mais je sais pas comment on met? Je leur explique, ils vont sûrement pas mal le prendre. On n'a plus de ketchup! On a plus de catch-up! La bouteille est vide! Oh non on peut pas passer une commande parce que le camion est en route. Attends qu'est-ce qu'il faut de lui? Ah il veut double dose de ketchup en plus! Un double hamburger ketchup! Je spam, je spam! Ils veulent tous du catch-up! Ils veulent tous du catch-up! Ok c'est mort, les simples c'est débile, tout le monde a compris que c'est ça le futur. J'ai deux simples qui traînent et des burgers j'en aurai pas assez, faut que ça reparte en cuisson! La commande était à 14h48, allez quand même 18h17 quoi! Ça fait 4h Attends je leur fais parfaitement là sur du stack en ça ils vont se dire putain j'ai attendu mais ça valait le coup Une grosse conserve de ketchup ici. Ok alors attends, en urgence, un burger simple avec une seule dose. La 17 il est parti. Non non non non bah non je l'ai fait pour rien! Ah c'est le bordel là. Oh! C'est cramé! C'est cramé! C'est cramé! Ah ouais c'est cramé! C'est noir charbon! La 6, c'est qui la 6? Mais ils sont partis, ils sont partis aussi! Un burger simple, tiens, y'en a un des simples là, hop, la une! Elle est où la lune? Pardon! Non non non ne partez pas! Partez pas! J'ai pas de burger! J'en peux plus! Ah il est 21h. Oh ça va, ça va, on en ira demain. Aujourd'hui, on a appris les sauces. Mais lui il l'a pas touché, le 15, il l'a pas touché! Non mais aujourd'hui on a eu un retard de livraison, faut se le dire.",
+  "segments": [
+    {
+      "start": 0.066,
+      "end": 9.342,
+      "text": "J'ai plus de papier! Y'a plus de papier! Il est où le papier? Je commande du papier en urgence. Y'a plus de papier arabe? J'ai commandé. Y'en a une qui veut un burger! Alors prépare-toi! Un burger avec... Putain!"
+    },
+    {
+      "start": 9.378,
+      "end": 21.566,
+      "text": "Un burger avec du ketchup? Oh je suis daltonien, ouais tu vois là la bouteille sur l'écran, c'est le ketchup non? Attends qu'est-ce que... Tu vas voir la commande? Ouais c'est du ketchup, t'as tape d'Altonien de merde! Non non mais ça va j'aurais pas de problème maintenant que je sais ça. Attends j'en ai jamais fait ça encore, c'est sur le dessus du..."
+    },
+    {
+      "start": 21.922,
+      "end": 37.534,
+      "text": "Le mec qui panique! Attends j'ai jamais mis de sauce dans un burger donc... Attends et bah simple, euh hamburger simple avec juste des ketchup! J'ai des papiers, c'est bon on a full papier, y'a plus de panique. Ah monsieur, monsieur, on a encore un ketchup à venir là. Je. Je le mets le... Pourquoi ça fait rien? T'inquiète pas, je vais leur expliquer que le cuisinier cherche comment mettre de la sauce. Mais je sais pas comment on met?"
+    },
+    {
+      "start": 37.506,
+      "end": 52.734,
+      "text": "Je leur explique, ils vont sûrement pas mal le prendre. On n'a plus de ketchup! On a plus de catch-up! La bouteille est vide! Oh non on peut pas passer une commande parce que le camion est en route. Attends qu'est-ce qu'il faut de lui? Ah il veut double dose de ketchup en plus! Un double hamburger ketchup! Je spam, je spam!"
+    },
+    {
+      "start": 52.77,
+      "end": 69.95,
+      "text": "Ils veulent tous du catch-up! Ils veulent tous du catch-up! Ok c'est mort, les simples c'est débile, tout le monde a compris que c'est ça le futur. J'ai deux simples qui traînent et des burgers j'en aurai pas assez, faut que ça reparte en cuisson! La commande était à 14h48, allez quand même 18h17 quoi! Ça fait 4h Attends je leur fais parfaitement là sur du stack en ça ils vont se dire putain j'ai attendu mais ça valait le coup"
+    },
+    {
+      "start": 69.922,
+      "end": 89.822,
+      "text": "Une grosse conserve de ketchup ici. Ok alors attends, en urgence, un burger simple avec une seule dose. La 17 il est parti. Non non non non bah non je l'ai fait pour rien! Ah c'est le bordel là. Oh! C'est cramé! C'est cramé! C'est cramé! Ah ouais c'est cramé! C'est noir charbon! La 6, c'est qui la 6? Mais ils sont partis, ils sont partis aussi! Un burger simple, tiens, y'en a un des simples là, hop, la une!"
+    },
+    {
+      "start": 89.826,
+      "end": 103.944125,
+      "text": "Elle est où la lune? Pardon! Non non non ne partez pas! Partez pas! J'ai pas de burger! J'en peux plus! Ah il est 21h. Oh ça va, ça va, on en ira demain. Aujourd'hui, on a appris les sauces. Mais lui il l'a pas touché, le 15, il l'a pas touché! Non mais aujourd'hui on a eu un retard de livraison, faut se le dire."
+    }
+  ]
+}

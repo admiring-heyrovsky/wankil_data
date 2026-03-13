@@ -1,0 +1,25 @@
+{
+  "text": "I used to be an adventor like you before. Take a bullet in the knee. Don't give a fuck, man. MY NA",
+  "segments": [
+    {
+      "start": 26.402,
+      "end": 28.702,
+      "text": "I used to be an adventor like you before."
+    },
+    {
+      "start": 68.098,
+      "end": 69.214,
+      "text": "Take a bullet in the knee."
+    },
+    {
+      "start": 71.042,
+      "end": 72.222,
+      "text": "Don't give a fuck, man."
+    },
+    {
+      "start": 75.778,
+      "end": 76.606,
+      "text": "MY NA"
+    }
+  ]
+}

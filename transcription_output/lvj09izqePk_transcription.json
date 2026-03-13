@@ -1,0 +1,20 @@
+{
+  "text": "Whoa! Oh Oh.",
+  "segments": [
+    {
+      "start": 2.658,
+      "end": 3.518,
+      "text": "Whoa!"
+    },
+    {
+      "start": 3.81,
+      "end": 4.382,
+      "text": "Oh"
+    },
+    {
+      "start": 5.314,
+      "end": 5.566,
+      "text": "Oh."
+    }
+  ]
+}

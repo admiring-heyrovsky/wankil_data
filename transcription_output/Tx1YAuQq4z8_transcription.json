@@ -1,0 +1,30 @@
+{
+  "text": "Attends, y'a personne dans ce village de mort! Oh que c'est chiant! Faut que je prenne un Doliprane, j'arrive. Euh il faut que je prenne un madeleine avec des pépites de chocolat, j'arrive. Je comprends pas ce que j'ai, depuis deux jours j'ai de la fièvre. C'est quoi d'être malade avec juste un peu de fièvre et rien d'autre? Un petit Covid? J'espère, je l'ai jamais eu. Parce que t'as vu de plus en plus de mecs sur euh... Je dirais principalement Twitzer, parce qu'il est des oeufs. Ha! Il doit l'air, il doit l'avoir. Attends, j'arrive pas à parler. Il doit avoir... Attends. Eh je vais te raconter une histoire, Tjois, je vais te raconter une histoire. Attends, non. Elle arrive, elle arrive. Ils doivent avoir cons les vacciner. Ah ouais? Ouais. Pourquoi? Bah parce qu'en fait, ils disent maintenant que. La chatte! Il y a de l'eau! T'es tombé pile de poêle dans la petite roue là? Oui! Bon y'a plus 80 autres villages! Et des trucs des vaccins, mais j'ai fini mon histoire. C'est juste qu'ils disent Ah bah alors on a l'air cons les mecs qui se sont vaccinés hein. Maintenant que le Covid et bah il fait beaucoup moins de dégâts à tout doit te comprendre que c'est grâce à la campagne de vaccination. Ouais, c'est juste ça.",
+  "segments": [
+    {
+      "start": 0.098,
+      "end": 4.926,
+      "text": "Attends, y'a personne dans ce village de mort! Oh que c'est chiant! Faut que je prenne un Doliprane, j'arrive."
+    },
+    {
+      "start": 5.25,
+      "end": 21.15,
+      "text": "Euh il faut que je prenne un madeleine avec des pépites de chocolat, j'arrive. Je comprends pas ce que j'ai, depuis deux jours j'ai de la fièvre. C'est quoi d'être malade avec juste un peu de fièvre et rien d'autre? Un petit Covid? J'espère, je l'ai jamais eu. Parce que t'as vu de plus en plus de mecs sur euh... Je dirais principalement Twitzer, parce qu'il est des oeufs. Ha!"
+    },
+    {
+      "start": 21.122,
+      "end": 37.598,
+      "text": "Il doit l'air, il doit l'avoir. Attends, j'arrive pas à parler. Il doit avoir... Attends. Eh je vais te raconter une histoire, Tjois, je vais te raconter une histoire. Attends, non. Elle arrive, elle arrive. Ils doivent avoir cons les vacciner. Ah ouais? Ouais. Pourquoi? Bah parce qu'en fait, ils disent maintenant que."
+    },
+    {
+      "start": 38.946,
+      "end": 44.414,
+      "text": "La chatte! Il y a de l'eau! T'es tombé pile de poêle dans la petite roue là? Oui! Bon y'a plus 80 autres villages!"
+    },
+    {
+      "start": 46.274,
+      "end": 59.82625,
+      "text": "Et des trucs des vaccins, mais j'ai fini mon histoire. C'est juste qu'ils disent Ah bah alors on a l'air cons les mecs qui se sont vaccinés hein. Maintenant que le Covid et bah il fait beaucoup moins de dégâts à tout doit te comprendre que c'est grâce à la campagne de vaccination. Ouais, c'est juste ça."
+    }
+  ]
+}

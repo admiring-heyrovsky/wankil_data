@@ -1,0 +1,35 @@
+{
+  "text": "Yeah. Yeah. Top!  Yeah. Lá vem cá.",
+  "segments": [
+    {
+      "start": 5.25,
+      "end": 5.534,
+      "text": "Yeah."
+    },
+    {
+      "start": 5.666,
+      "end": 6.046,
+      "text": "Yeah."
+    },
+    {
+      "start": 7.074,
+      "end": 7.998,
+      "text": "Top!"
+    },
+    {
+      "start": 8.45,
+      "end": 8.734,
+      "text": ""
+    },
+    {
+      "start": 15.522,
+      "end": 16.062,
+      "text": "Yeah."
+    },
+    {
+      "start": 17.73,
+      "end": 19.358,
+      "text": "Lá vem cá."
+    }
+  ]
+}

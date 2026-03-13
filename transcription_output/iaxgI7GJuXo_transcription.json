@@ -1,0 +1,35 @@
+{
+  "text": "Passez à pro pour continuer à jouer à GeoGesser. Pendant plus de dix ans, les joueurs de Geogacer ont pu jouer gratuitement. Nous avons décidé de ne plus offrir cette possibilité à compter du 1er février 2024. Ah mais les API Google ça coûte très cher quand même. Et Bernard Roger! Faut savoir que c'est pas à lui tout ça, hein, c'est de la valeur boursière. Bienvenue sur Jogesseur Pro. Je pense que je suis obligé de faire un nouveau voyage. Non, rien ne marche en fait. T'as payé, ça marche pas. Avec votre compte pro basique, vous pouvez jouer gratuitement durant 5 minutes, toutes les 15 minutes. Bon alors là j'arrête de les défendre! C'est quoi ces fils de pute? Je viens de payer, je viens de sortir ma carte! Tu veux pas non plus que je te suce la bite? Faut que tu upgrades. Comment c'est possible? Non mais faut savoir que les API Google... Ça coûte un truc! Comment je paye plus? Elles ont pour d'où les API Google? Attends parce que quand tu vas payer le supplément, il faut que tu ne sais pas. Il va me dire que cette fois vous pouvez payer mais vous n'avez que la boîte de l'écran! Vous n'avez droit qu'à 3 pays! Oh!",
+  "segments": [
+    {
+      "start": 0.066,
+      "end": 16.734,
+      "text": "Passez à pro pour continuer à jouer à GeoGesser. Pendant plus de dix ans, les joueurs de Geogacer ont pu jouer gratuitement. Nous avons décidé de ne plus offrir cette possibilité à compter du 1er février 2024. Ah mais les API Google ça coûte très cher quand même. Et Bernard Roger!"
+    },
+    {
+      "start": 16.706,
+      "end": 36.126,
+      "text": "Faut savoir que c'est pas à lui tout ça, hein, c'est de la valeur boursière. Bienvenue sur Jogesseur Pro. Je pense que je suis obligé de faire un nouveau voyage. Non, rien ne marche en fait. T'as payé, ça marche pas. Avec votre compte pro basique, vous pouvez jouer gratuitement durant 5 minutes, toutes les 15 minutes. Bon alors là j'arrête de les défendre! C'est quoi ces fils de pute? Je viens de payer, je viens de sortir ma carte!"
+    },
+    {
+      "start": 36.13,
+      "end": 38.11,
+      "text": "Tu veux pas non plus que je te suce la bite?"
+    },
+    {
+      "start": 38.562,
+      "end": 44.286,
+      "text": "Faut que tu upgrades. Comment c'est possible? Non mais faut savoir que les API Google..."
+    },
+    {
+      "start": 44.45,
+      "end": 46.558,
+      "text": "Ça coûte un truc!"
+    },
+    {
+      "start": 46.786,
+      "end": 59.82625,
+      "text": "Comment je paye plus? Elles ont pour d'où les API Google? Attends parce que quand tu vas payer le supplément, il faut que tu ne sais pas. Il va me dire que cette fois vous pouvez payer mais vous n'avez que la boîte de l'écran! Vous n'avez droit qu'à 3 pays! Oh!"
+    }
+  ]
+}

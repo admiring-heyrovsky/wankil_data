@@ -1,0 +1,50 @@
+{
+  "text": "La carte que je détruis, euh j'étalerai de la saucisse dessus. J'ai des petits bouts de saucisses là. Ah non tu découpes en plus d'étaler de la saucisse. En plus! Elle est encore sauvable la carte! Va tremper une carte là-dedans, elle est pas sauvable hein! Je pensais pas que c'était comme ça. Ok, on va faire d'abord étalage de saucisses, plus découpage après, puis tu auras le reveal. Ah bah putain j'ai pas envie d'être la carte hein. Mais moi je vais les manger, je vais les finir sur plat. C'est pas hygiénique. T'étales bien comme il faut. Allez, et t'étales bien hein. Tu sais, tu patauges. Tu relèves, tu t'en... Voilà, voilà. Comme si t'étais en train d'étaler une bonne texture. La vilaine lentille! Ha ha ha. Voilà. Bonsoir! Oh Carlito, je suis désolé Carlito! Oh Carlito! Carlito il a pris de la lentille et un peu de saucisse. En même temps... A table! Et on n'a pas fait ça parce que t'as toujours pas ouvert le kit influenceur qui coûte une banque qu'on t'a envoyé. Ah non! Je pense qu'il le respecte tellement qu'il doit le garder son scellé hein. C'est juste du hasard, on a pris une carte au pif et ça t'a fait. Ah c'est dégueulasse! Désolé, mais vraiment là... Ah ça sent bon ça se fait pas",
+  "segments": [
+    {
+      "start": 0.066,
+      "end": 6.526,
+      "text": "La carte que je détruis, euh j'étalerai de la saucisse dessus. J'ai des petits bouts de saucisses là. Ah non tu découpes en plus d'étaler de la saucisse."
+    },
+    {
+      "start": 6.626,
+      "end": 12.702,
+      "text": "En plus! Elle est encore sauvable la carte! Va tremper une carte là-dedans, elle est pas sauvable hein!"
+    },
+    {
+      "start": 12.834,
+      "end": 31.07,
+      "text": "Je pensais pas que c'était comme ça. Ok, on va faire d'abord étalage de saucisses, plus découpage après, puis tu auras le reveal. Ah bah putain j'ai pas envie d'être la carte hein. Mais moi je vais les manger, je vais les finir sur plat. C'est pas hygiénique. T'étales bien comme il faut. Allez, et t'étales bien hein. Tu sais, tu patauges. Tu relèves, tu t'en... Voilà, voilà. Comme si t'étais en train d'étaler une bonne texture."
+    },
+    {
+      "start": 31.234,
+      "end": 32.862,
+      "text": "La vilaine lentille!"
+    },
+    {
+      "start": 33.058,
+      "end": 33.982,
+      "text": "Ha ha ha."
+    },
+    {
+      "start": 34.082,
+      "end": 35.55,
+      "text": "Voilà. Bonsoir!"
+    },
+    {
+      "start": 35.682,
+      "end": 55.518,
+      "text": "Oh Carlito, je suis désolé Carlito! Oh Carlito! Carlito il a pris de la lentille et un peu de saucisse. En même temps... A table! Et on n'a pas fait ça parce que t'as toujours pas ouvert le kit influenceur qui coûte une banque qu'on t'a envoyé. Ah non! Je pense qu'il le respecte tellement qu'il doit le garder son scellé hein. C'est juste du hasard, on a pris une carte au pif et ça t'a fait. Ah c'est dégueulasse!"
+    },
+    {
+      "start": 55.522,
+      "end": 57.182,
+      "text": "Désolé, mais vraiment là..."
+    },
+    {
+      "start": 57.346,
+      "end": 60.0106875,
+      "text": "Ah ça sent bon ça se fait pas"
+    }
+  ]
+}

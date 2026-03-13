@@ -1,0 +1,40 @@
+{
+  "text": "Oula c'est pas un champ de mine ça, y'a un panneau, ça veut pas dire c'est un champ de mine? Regarde s'il y a marqué dessus, je vois rien là aussi. Bah je vois une tête de mort. On va instant exploser hein. Mec c'est. Qui essaye? Bah Zim Zamzou. Bah Zim Zamzou. Ah bah attends on peut passer là regarde Ah ouais ouais ouais t'as raison C'est bon y'a pas de mine les gars C'est maintenant qu'il faut décider Ok Zip Zazoo y'a raison alors Zip Zazoom Avec l'arme On la lève ou on la baisse Ok ça marche Vous êtes prêts? Oui. Zim, zom, zoom. Oh attends c'est moi. T'as tiré fils de pute! Allez c'est toi qui part! C'est toi qui part! C'est toi, c'est toi! T'as tiré, t'as tiré, on va se faire repérer! Yoooooooo j'ai trop vite! Attends on peut le dissuasif! Oh Jenkins dissuasif! Tout va tout ça!",
+  "segments": [
+    {
+      "start": 0.034,
+      "end": 11.006,
+      "text": "Oula c'est pas un champ de mine ça, y'a un panneau, ça veut pas dire c'est un champ de mine? Regarde s'il y a marqué dessus, je vois rien là aussi. Bah je vois une tête de mort. On va instant exploser hein. Mec c'est. Qui essaye? Bah Zim Zamzou. Bah Zim Zamzou."
+    },
+    {
+      "start": 11.138,
+      "end": 24.99,
+      "text": "Ah bah attends on peut passer là regarde Ah ouais ouais ouais t'as raison C'est bon y'a pas de mine les gars C'est maintenant qu'il faut décider Ok Zip Zazoo y'a raison alors Zip Zazoom Avec l'arme On la lève ou on la baisse Ok ça marche"
+    },
+    {
+      "start": 25.314,
+      "end": 27.582,
+      "text": "Vous êtes prêts? Oui. Zim, zom, zoom."
+    },
+    {
+      "start": 29.218,
+      "end": 35.838,
+      "text": "Oh attends c'est moi. T'as tiré fils de pute! Allez c'est toi qui part! C'est toi qui part! C'est toi, c'est toi! T'as tiré, t'as tiré, on va se faire repérer!"
+    },
+    {
+      "start": 36.354,
+      "end": 38.11,
+      "text": "Yoooooooo j'ai trop vite!"
+    },
+    {
+      "start": 38.402,
+      "end": 47.358,
+      "text": "Attends on peut le dissuasif! Oh Jenkins dissuasif!"
+    },
+    {
+      "start": 48.098,
+      "end": 49.3075625,
+      "text": "Tout va tout ça!"
+    }
+  ]
+}

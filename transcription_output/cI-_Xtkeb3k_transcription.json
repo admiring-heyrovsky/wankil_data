@@ -1,0 +1,70 @@
+{
+  "text": "Right. C'est quoi la route pour aller là-bas? Allez, on verra. Attends parce que moi j'ai pas la SSR. T'aimes rien conduire une moto. Euh... Trop trop peur. Moi aussi j'ai peur. Ah mais si j'avais pas peur de la mort pour de se foncer dans un platane de tomber ou quoi, ce serait avec grand plaisir parce que la sensation est dingue, surtout du valier je pense que c'est kiffant. Ok c'est derrière ça. Pourquoi ne pas prendre les routes finalement? C'est pas le route hein? Euh... Et là on va sauter. Oh une rampe! C'est fait pour, c'est fait pour! Aïe! Yeah. That's just. Ta moto, ça va, je re encore avec. J'ai l'armée droite. Ouah elle est rouge! Oh putain. Euh à ne pas refaire. Mais y'avait une rampe! Moi je me suis dit c'est forcément bon. Euh ça brûle ma moto là hein! Il va péter ma moto, allez péter ta moto toi, elle est morte ta moto.",
+  "segments": [
+    {
+      "start": 0.034,
+      "end": 0.382,
+      "text": "Right."
+    },
+    {
+      "start": 0.706,
+      "end": 13.438,
+      "text": "C'est quoi la route pour aller là-bas? Allez, on verra. Attends parce que moi j'ai pas la SSR. T'aimes rien conduire une moto. Euh... Trop trop peur. Moi aussi j'ai peur."
+    },
+    {
+      "start": 13.506,
+      "end": 25.502,
+      "text": "Ah mais si j'avais pas peur de la mort pour de se foncer dans un platane de tomber ou quoi, ce serait avec grand plaisir parce que la sensation est dingue, surtout du valier je pense que c'est kiffant."
+    },
+    {
+      "start": 25.89,
+      "end": 28.51,
+      "text": "Ok c'est derrière ça. Pourquoi ne pas prendre les routes finalement?"
+    },
+    {
+      "start": 28.674,
+      "end": 31.774,
+      "text": "C'est pas le route hein? Euh... Et là on va sauter."
+    },
+    {
+      "start": 31.97,
+      "end": 35.134,
+      "text": "Oh une rampe! C'est fait pour, c'est fait pour!"
+    },
+    {
+      "start": 36.93,
+      "end": 37.406,
+      "text": "Aïe!"
+    },
+    {
+      "start": 37.954,
+      "end": 38.206,
+      "text": "Yeah."
+    },
+    {
+      "start": 39.298,
+      "end": 40.158,
+      "text": "That's just."
+    },
+    {
+      "start": 42.21,
+      "end": 45.758,
+      "text": "Ta moto, ça va, je re encore avec. J'ai l'armée droite. Ouah elle est rouge!"
+    },
+    {
+      "start": 45.986,
+      "end": 46.494,
+      "text": "Oh putain."
+    },
+    {
+      "start": 46.914,
+      "end": 51.934,
+      "text": "Euh à ne pas refaire. Mais y'avait une rampe! Moi je me suis dit c'est forcément bon. Euh ça brûle ma moto là hein!"
+    },
+    {
+      "start": 52.514,
+      "end": 55.774,
+      "text": "Il va péter ma moto, allez péter ta moto toi, elle est morte ta moto."
+    }
+  ]
+}

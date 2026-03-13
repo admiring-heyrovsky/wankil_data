@@ -1,0 +1,30 @@
+{
+  "text": "Bonjour. En ce moment la mode sur YouTube c'est d'avoir le plus de pouces bleus possible. Nous vous demandons de mettre des pouces bleus sur cette vidéo car elle est bien. Mm. Mm-hmm. Mm-hmm.",
+  "segments": [
+    {
+      "start": 0.578,
+      "end": 1.598,
+      "text": "Bonjour."
+    },
+    {
+      "start": 1.826,
+      "end": 7.262,
+      "text": "En ce moment la mode sur YouTube c'est d'avoir le plus de pouces bleus possible. Nous vous demandons de mettre des pouces bleus sur cette vidéo car elle est bien."
+    },
+    {
+      "start": 8.322,
+      "end": 8.67,
+      "text": "Mm."
+    },
+    {
+      "start": 9.922,
+      "end": 10.27,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 15.234,
+      "end": 15.71,
+      "text": "Mm-hmm."
+    }
+  ]
+}

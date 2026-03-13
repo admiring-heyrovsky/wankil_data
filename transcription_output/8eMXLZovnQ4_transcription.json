@@ -1,0 +1,30 @@
+{
+  "text": "Est-ce que si jamais regarde t'achètes un paquet de gâteaux, t'arrives chez toi et tu vois que le paquet de gâteaux il est péré depuis 6 mois Est-ce que tu y retournes un magasin pour le dire? Euh... Non mais par pure flemme, par contre je n'aurais aucun problème à leur dire. Et parce qu'ils sont bats les couilles, ils s'en bat les couilles en vrai. Ils sont trop gênés. Je sais très bien qu'il me dirait ok on vous le remplace tu vois genre pas sans souci Mais je suis trop gêné donc ce que je fais c'est que je me dis ok j'ai acheté un truc périmé Bah dans ce cas là Je reviens. Et je vole le produit. Je t'en suis. Alors là je m'y attendais pas. Le volet me met moins mal à l'aise que d'interpeller quelqu'un de plancher pour dire que j'ai acheté un truc qui était périmé depuis X temps et qu'ils dans le rayon ils vendent des produits périmés alors que c'est illégal. En fait je me dis, ça va mener à rien parce que de toute façon le gars il va ça va rien changer. J'ai vu cette maladèse, le gars il va pas m'aimer, ça va mener à rien. Se lâche",
+  "segments": [
+    {
+      "start": 0.002,
+      "end": 16.702,
+      "text": "Est-ce que si jamais regarde t'achètes un paquet de gâteaux, t'arrives chez toi et tu vois que le paquet de gâteaux il est péré depuis 6 mois Est-ce que tu y retournes un magasin pour le dire? Euh... Non mais par pure flemme, par contre je n'aurais aucun problème à leur dire. Et parce qu'ils sont bats les couilles, ils s'en bat les couilles en vrai. Ils sont trop gênés."
+    },
+    {
+      "start": 16.802,
+      "end": 25.726,
+      "text": "Je sais très bien qu'il me dirait ok on vous le remplace tu vois genre pas sans souci Mais je suis trop gêné donc ce que je fais c'est que je me dis ok j'ai acheté un truc périmé Bah dans ce cas là"
+    },
+    {
+      "start": 26.498,
+      "end": 27.39,
+      "text": "Je reviens."
+    },
+    {
+      "start": 27.842,
+      "end": 47.262,
+      "text": "Et je vole le produit. Je t'en suis. Alors là je m'y attendais pas. Le volet me met moins mal à l'aise que d'interpeller quelqu'un de plancher pour dire que j'ai acheté un truc qui était périmé depuis X temps et qu'ils dans le rayon ils vendent des produits périmés alors que c'est illégal."
+    },
+    {
+      "start": 47.362,
+      "end": 55.437625,
+      "text": "En fait je me dis, ça va mener à rien parce que de toute façon le gars il va ça va rien changer. J'ai vu cette maladèse, le gars il va pas m'aimer, ça va mener à rien. Se lâche"
+    }
+  ]
+}

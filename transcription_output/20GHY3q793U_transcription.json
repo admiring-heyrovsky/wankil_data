@@ -1,0 +1,75 @@
+{
+  "text": "Mais qui t'as dit de mettre mes steaks sur les pains toi? Il fait trop de steaks la bonne! Eh arrête de faire des steaks c'est qui qui va les payer? Tu vas les jeter la poubelle! Quand t'auras fini de rangil, j'aimerais que tu me fasses les deux pots parce que tu sais euh... Les pots de quoi? Les pots de ketchup et de mayonnaise! Puis tu me remplis tout ce qui est fondiment également. Et les chiottes tu me les réécures à la langue! Pourquoi il parle comme un patron alors qu'il te fait les burgers lui? Tu me fais ça propre hein! Putain! Ah c'est parce que c'est de la moutarde je suis rien idée mais l'inc la moutarde tu la vois de quelle couleur? Non non mais t'inquiète c'est bon t'inquiète pas t'inquiète pas erreur d'inattention probablement tu la vois d'une autre couleur ou pas la moutarde? Non non alors on est bon là, la moutarde elle est là, elle est bien jaune Bah la moutarde c'est bleu non? Putain tu me passes le pont bleu s'il te plaît? J'adore celui-ci Tu me passes le coca vert c'est nouveau! Et je fais quoi de tous les steaks qui sont cuits maintenant là? Sachant que c'est fermé le magasin? Eh bah ce serait peut-être la faute de con là! Hein? Bon bah par contre les ouais bah les steaks c'est bah c'est mort. Combien sont morts? Bah mec, deux plateaux entiers! Deux plateaux entiers! Je te dis dans le jeu pour euh... Ouais ouais. Ok. Euh To! Ouais! Vu que t'es qu'un con, à partir de l'antan je m'occupe de la question des steaks et des frites! Ça marche. Non? Ah c'est pour la remarque hein! Oh! Oui! Vu que t'es une sale merde reculée qui fichie tout le monde, ça va pas te déranger de faire ça, non? Mais non tranquille. Ah par contre, qui a mis des boîtes de frites ici? La connerie en barre. Eh toi, t'es con pour les cornets de frites là. Ok aucun problème. Ok je suis le salope. Tô, vous avez chié dans des châtiques en plein service, vous êtes virés. C'est normal. Qu'est-ce que t'as dit de toucher toi, sac la merde? Ah ça coûte cher hein! On a un cuisson. Un cuiston! Un custo qui a une pince et un autre qui fait pas assez. Bah custo il rigole en regardant les steaks, le gros débile. Bah ouais c'est vrai. C'est chaud? Mm-hmm. Ha ha ha. Ha ha",
+  "segments": [
+    {
+      "start": 0.418,
+      "end": 11.582,
+      "text": "Mais qui t'as dit de mettre mes steaks sur les pains toi? Il fait trop de steaks la bonne! Eh arrête de faire des steaks c'est qui qui va les payer? Tu vas les jeter la poubelle! Quand t'auras fini de rangil, j'aimerais que tu me fasses les deux pots parce que tu sais euh..."
+    },
+    {
+      "start": 11.682,
+      "end": 22.27,
+      "text": "Les pots de quoi? Les pots de ketchup et de mayonnaise! Puis tu me remplis tout ce qui est fondiment également. Et les chiottes tu me les réécures à la langue! Pourquoi il parle comme un patron alors qu'il te fait les burgers lui? Tu me fais ça propre hein! Putain!"
+    },
+    {
+      "start": 22.306,
+      "end": 37.47,
+      "text": "Ah c'est parce que c'est de la moutarde je suis rien idée mais l'inc la moutarde tu la vois de quelle couleur? Non non mais t'inquiète c'est bon t'inquiète pas t'inquiète pas erreur d'inattention probablement tu la vois d'une autre couleur ou pas la moutarde? Non non alors on est bon là, la moutarde elle est là, elle est bien jaune Bah la moutarde c'est bleu non?"
+    },
+    {
+      "start": 37.602,
+      "end": 51.678,
+      "text": "Putain tu me passes le pont bleu s'il te plaît? J'adore celui-ci Tu me passes le coca vert c'est nouveau! Et je fais quoi de tous les steaks qui sont cuits maintenant là? Sachant que c'est fermé le magasin? Eh bah ce serait peut-être la faute de con là! Hein? Bon bah par contre les ouais bah les steaks c'est bah c'est mort. Combien sont morts?"
+    },
+    {
+      "start": 51.65,
+      "end": 61.502,
+      "text": "Bah mec, deux plateaux entiers! Deux plateaux entiers! Je te dis dans le jeu pour euh... Ouais ouais. Ok. Euh To! Ouais! Vu que t'es qu'un con, à partir de l'antan je m'occupe de la question des steaks et des frites!"
+    },
+    {
+      "start": 61.602,
+      "end": 62.174,
+      "text": "Ça marche."
+    },
+    {
+      "start": 62.338,
+      "end": 82.078,
+      "text": "Non? Ah c'est pour la remarque hein! Oh! Oui! Vu que t'es une sale merde reculée qui fichie tout le monde, ça va pas te déranger de faire ça, non? Mais non tranquille. Ah par contre, qui a mis des boîtes de frites ici? La connerie en barre. Eh toi, t'es con pour les cornets de frites là. Ok aucun problème. Ok je suis le salope."
+    },
+    {
+      "start": 82.114,
+      "end": 89.822,
+      "text": "Tô, vous avez chié dans des châtiques en plein service, vous êtes virés. C'est normal. Qu'est-ce que t'as dit de toucher toi, sac la merde?"
+    },
+    {
+      "start": 91.394,
+      "end": 95.934,
+      "text": "Ah ça coûte cher hein!"
+    },
+    {
+      "start": 96.994,
+      "end": 100.19,
+      "text": "On a un cuisson. Un cuiston!"
+    },
+    {
+      "start": 100.29,
+      "end": 108.798,
+      "text": "Un custo qui a une pince et un autre qui fait pas assez. Bah custo il rigole en regardant les steaks, le gros débile. Bah ouais c'est vrai. C'est chaud?"
+    },
+    {
+      "start": 108.93,
+      "end": 109.566,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 109.698,
+      "end": 110.494,
+      "text": "Ha ha ha."
+    },
+    {
+      "start": 111.298,
+      "end": 111.742,
+      "text": "Ha ha"
+    }
+  ]
+}

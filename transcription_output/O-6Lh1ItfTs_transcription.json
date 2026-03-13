@@ -1,0 +1,30 @@
+{
+  "text": "Ça c'est très bon et Biredi quand même hein. Oh des madeleines, toujours une valeur sûre. Un délice. Moi j'ai vu un petit bagel maison qui m'attend. Oh mon bagel maison carrément. Daila elle a fait des pains maison du bagel. Ouais, je suis dégoûté. Moi j'ai compris hein, une copine qui aime pas faire à manger. J'ai acheté des machines pour faire à manger, elle fait à manger. Une machine à pain, allez hop, vas-y c'est parti, je te fais pain aux olives, pain au fromage, mais tu te jure, achète-toi un thermomix, moi ça ma vie a changé depuis. J'adore la discussion de mec, hé, achète-toi un thermomix à ta grosette, tu vois, elle va cuisiner! Mais non S! C'est vachement bien correct parce que moi elle aimait pas cuisiner. Et depuis, elle se nourrit vachement bien. Et juste que j'en profite en ricochet parce qu'elle fait des grandes quantités. Depuis je rentre à 20h, le dîner est servi. Il y a plus de 14 personnes! Hier le pain était pas maison, je lui ai fait une remarque. la soupe la c'est big",
+  "segments": [
+    {
+      "start": 0.066,
+      "end": 16.126,
+      "text": "Ça c'est très bon et Biredi quand même hein. Oh des madeleines, toujours une valeur sûre. Un délice. Moi j'ai vu un petit bagel maison qui m'attend. Oh mon bagel maison carrément. Daila elle a fait des pains maison du bagel. Ouais, je suis dégoûté."
+    },
+    {
+      "start": 16.226,
+      "end": 35.038,
+      "text": "Moi j'ai compris hein, une copine qui aime pas faire à manger. J'ai acheté des machines pour faire à manger, elle fait à manger. Une machine à pain, allez hop, vas-y c'est parti, je te fais pain aux olives, pain au fromage, mais tu te jure, achète-toi un thermomix, moi ça ma vie a changé depuis. J'adore la discussion de mec, hé, achète-toi un thermomix à ta grosette, tu vois, elle va cuisiner!"
+    },
+    {
+      "start": 35.042,
+      "end": 53.118,
+      "text": "Mais non S! C'est vachement bien correct parce que moi elle aimait pas cuisiner. Et depuis, elle se nourrit vachement bien. Et juste que j'en profite en ricochet parce qu'elle fait des grandes quantités. Depuis je rentre à 20h, le dîner est servi. Il y a plus de 14 personnes!"
+    },
+    {
+      "start": 53.154,
+      "end": 55.646,
+      "text": "Hier le pain était pas maison, je lui ai fait une remarque."
+    },
+    {
+      "start": 58.082,
+      "end": 59.977125,
+      "text": "la soupe la c'est big"
+    }
+  ]
+}

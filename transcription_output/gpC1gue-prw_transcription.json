@@ -1,0 +1,35 @@
+{
+  "text": "Tu vois, il pleut un peu. Ouais. Ils ont développé dans leur moteur graphique une fonctionnalité dans le détail que personne ne voit. Mais par exemple, admettons, tu signes quelque part. Ouais, je suis sur le bras. La pluie tombe. La pluie qui va couler le long de ton bras, elle se mélange au sang, elle va se diluer et parcourir tes vêtements, ton corps. Ça le nerde. Je vois le même dans la boîte de nuit avec le mec qui parle à l'oreille de la meuf. Eh bah figure-toi qu'ils ont ajouté au moteur un système de diluement! Non mais quand tu passeras par exemple devant une voiture, regarde les gouttes d'eau qui tombent sur les véhicules et la façon dont t'es comportent en fonction de là où elles tombent. Mais c'est sur PS4! C'est fantastique hein! Non parce que quand tu vas te branler avec tes 150 heures de jeu sur le nouveau Pokémon qui ressemble à rien, pense au fait qu'ils te freinent bien pour un fils de pute, les devs. Non mais Pokémon c'est... c'est spécial Pokémon. C'est moche, ça pue, tu vois, c'est... C'est vraiment comme... Come? Baiser une vieille pute ta honte! T'as honte mais bon",
+  "segments": [
+    {
+      "start": 0.674,
+      "end": 10.622,
+      "text": "Tu vois, il pleut un peu. Ouais. Ils ont développé dans leur moteur graphique une fonctionnalité dans le détail que personne ne voit. Mais par exemple, admettons, tu signes quelque part. Ouais, je suis sur le bras."
+    },
+    {
+      "start": 10.722,
+      "end": 18.398,
+      "text": "La pluie tombe. La pluie qui va couler le long de ton bras, elle se mélange au sang, elle va se diluer et parcourir tes vêtements, ton corps. Ça le nerde."
+    },
+    {
+      "start": 18.658,
+      "end": 36.894,
+      "text": "Je vois le même dans la boîte de nuit avec le mec qui parle à l'oreille de la meuf. Eh bah figure-toi qu'ils ont ajouté au moteur un système de diluement! Non mais quand tu passeras par exemple devant une voiture, regarde les gouttes d'eau qui tombent sur les véhicules et la façon dont t'es comportent en fonction de là où elles tombent. Mais c'est sur PS4!"
+    },
+    {
+      "start": 37.09,
+      "end": 50.782,
+      "text": "C'est fantastique hein! Non parce que quand tu vas te branler avec tes 150 heures de jeu sur le nouveau Pokémon qui ressemble à rien, pense au fait qu'ils te freinent bien pour un fils de pute, les devs. Non mais Pokémon c'est... c'est spécial Pokémon. C'est moche, ça pue, tu vois, c'est... C'est vraiment comme..."
+    },
+    {
+      "start": 51.298,
+      "end": 52.062,
+      "text": "Come?"
+    },
+    {
+      "start": 52.386,
+      "end": 57.50425,
+      "text": "Baiser une vieille pute ta honte! T'as honte mais bon"
+    }
+  ]
+}

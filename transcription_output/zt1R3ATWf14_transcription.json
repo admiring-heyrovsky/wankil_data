@@ -1,0 +1,85 @@
+{
+  "text": "Y'a des soldes dans la boutique de skin. Dans les World Invasion? Y'a une salopette qui est gratuite, si tu veux. Ok. Je la prends. T'as une salopette? Bah ouais, j'ai une. T'as vraiment acheté? Elle était gratuite. T'as vraiment acheté? Bah oui elle était gratuite. Non j'ai acheté gratuitement. T'as dépensé de l'argent? Non, j'ai dépensé autre chose mais je sais pas comment le... Eh dites moi comment je peux faire des emotes. Il a acheté des émotes? Eh ouais mais je peux pas le faire, je sais pas comment ça marche. Faut que je te roule, faut que j'ai des trucs pour toi. Ah je t'ai trouvé! Tu vas être très content, tu vas être bien heureux quand je vais te dropper ce que je dois te dropper. Ça va salopette, c'est pas possible. Oui mais regarde. Yeah.  Faites d'abord. Mais t'as c'était tap, vas-y va te faire. Triple zab. Triple zabed, dabed. Mais il a pas d'âme! Yeah. C'est drôle encore aujourd'hui, non? Ha ha. Hmm. I love it. Vous allez être sauvé là? Oui. S'il te plaît.",
+  "segments": [
+    {
+      "start": 0.034,
+      "end": 10.206,
+      "text": "Y'a des soldes dans la boutique de skin. Dans les World Invasion? Y'a une salopette qui est gratuite, si tu veux. Ok. Je la prends. T'as une salopette? Bah ouais, j'ai une. T'as vraiment acheté?"
+    },
+    {
+      "start": 10.306,
+      "end": 23.454,
+      "text": "Elle était gratuite. T'as vraiment acheté? Bah oui elle était gratuite. Non j'ai acheté gratuitement. T'as dépensé de l'argent? Non, j'ai dépensé autre chose mais je sais pas comment le... Eh dites moi comment je peux faire des emotes. Il a acheté des émotes? Eh ouais mais je peux pas le faire, je sais pas comment ça marche."
+    },
+    {
+      "start": 25.89,
+      "end": 34.878,
+      "text": "Faut que je te roule, faut que j'ai des trucs pour toi. Ah je t'ai trouvé! Tu vas être très content, tu vas être bien heureux quand je vais te dropper ce que je dois te dropper. Ça va salopette, c'est pas possible. Oui mais regarde."
+    },
+    {
+      "start": 35.01,
+      "end": 35.326,
+      "text": "Yeah."
+    },
+    {
+      "start": 35.426,
+      "end": 35.902,
+      "text": ""
+    },
+    {
+      "start": 36.898,
+      "end": 37.694,
+      "text": "Faites d'abord."
+    },
+    {
+      "start": 37.986,
+      "end": 39.454,
+      "text": "Mais t'as c'était tap, vas-y va te faire."
+    },
+    {
+      "start": 39.714,
+      "end": 45.438,
+      "text": "Triple zab. Triple zabed, dabed."
+    },
+    {
+      "start": 45.73,
+      "end": 48.51,
+      "text": "Mais il a pas d'âme!"
+    },
+    {
+      "start": 48.674,
+      "end": 49.118,
+      "text": "Yeah."
+    },
+    {
+      "start": 49.378,
+      "end": 51.07,
+      "text": "C'est drôle encore aujourd'hui, non?"
+    },
+    {
+      "start": 51.65,
+      "end": 52.062,
+      "text": "Ha ha."
+    },
+    {
+      "start": 52.642,
+      "end": 53.086,
+      "text": "Hmm."
+    },
+    {
+      "start": 54.626,
+      "end": 55.262,
+      "text": "I love it."
+    },
+    {
+      "start": 56.546,
+      "end": 57.982,
+      "text": "Vous allez être sauvé là? Oui."
+    },
+    {
+      "start": 58.274,
+      "end": 58.734875,
+      "text": "S'il te plaît."
+    }
+  ]
+}

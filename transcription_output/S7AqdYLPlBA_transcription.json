@@ -1,0 +1,85 @@
+{
+  "text": "Uh Ah ouais? Batté! Ouais pâté, c'est vrai ou pas? Non, mais presque. Ouais mais on est pas loin sur certains skins. Elle vaut 4€. Donc je te chopé une arme qui est plutôt rare par rapport à la caisse, qui vaut 4€ alors qu'elle est neuve. Donc c'est ça mon vrai bilan? En 250€ d'ouverture de caisse, mon petit gros skin c'est 4€. Ça rembourse deux clés! Bon vas-y j'achète. Oh non faut que je rajoute 100€ encore. C'est pas pour rien que vous achetez des subs hein, on réinvestit. On réinvestit, c'est comme ça ici. Impossible de procéder à votre achat. Les informations relatives à vos cartes bancaires ont été refusées. T'as mis une limite? Moi elle me la met limite sur ma carte elle est. Il va... Non je pense pas que ce soit une question de limite. Je pense que c'est un truc genre fraude ou un truc comme ça. Ah ouais, mais moi il m'empêche pas de payer quand ça se fait. Ça va vous être sûr, c'est vous. Ouais il est pas content. C'est vous euh XAMSTER là, les 600€ là. Oui c'est moi. Ah oui c'est moi, dépêchez-vous. Libérez le compte, vite! Vite, je vais finir! Pourquoi tu es bloqué, je ne peux pas finir, dépêchez-vous! Vite, je dois avoir la vidéo en 4K! Dépêchez-vous, l'instant je ne pourrai pas finir!",
+  "segments": [
+    {
+      "start": 2.946,
+      "end": 3.454,
+      "text": "Uh"
+    },
+    {
+      "start": 4.482,
+      "end": 5.598,
+      "text": "Ah ouais? Batté!"
+    },
+    {
+      "start": 5.954,
+      "end": 10.014,
+      "text": "Ouais pâté, c'est vrai ou pas? Non, mais presque."
+    },
+    {
+      "start": 10.114,
+      "end": 11.838,
+      "text": "Ouais mais on est pas loin sur certains skins."
+    },
+    {
+      "start": 11.938,
+      "end": 17.118,
+      "text": "Elle vaut 4€. Donc je te chopé une arme qui est plutôt rare par rapport à la caisse, qui vaut 4€ alors qu'elle est neuve."
+    },
+    {
+      "start": 17.218,
+      "end": 18.526,
+      "text": "Donc c'est ça mon vrai bilan?"
+    },
+    {
+      "start": 18.658,
+      "end": 25.214,
+      "text": "En 250€ d'ouverture de caisse, mon petit gros skin c'est 4€. Ça rembourse deux clés!"
+    },
+    {
+      "start": 25.378,
+      "end": 26.654,
+      "text": "Bon vas-y j'achète."
+    },
+    {
+      "start": 27.81,
+      "end": 29.438,
+      "text": "Oh non faut que je rajoute 100€ encore."
+    },
+    {
+      "start": 29.602,
+      "end": 35.198,
+      "text": "C'est pas pour rien que vous achetez des subs hein, on réinvestit. On réinvestit, c'est comme ça ici."
+    },
+    {
+      "start": 35.33,
+      "end": 37.118,
+      "text": "Impossible de procéder à votre achat."
+    },
+    {
+      "start": 37.25,
+      "end": 46.622,
+      "text": "Les informations relatives à vos cartes bancaires ont été refusées. T'as mis une limite? Moi elle me la met limite sur ma carte elle est."
+    },
+    {
+      "start": 46.85,
+      "end": 65.342,
+      "text": "Il va... Non je pense pas que ce soit une question de limite. Je pense que c'est un truc genre fraude ou un truc comme ça. Ah ouais, mais moi il m'empêche pas de payer quand ça se fait. Ça va vous être sûr, c'est vous. Ouais il est pas content. C'est vous euh XAMSTER là, les 600€ là. Oui c'est moi. Ah oui c'est moi, dépêchez-vous."
+    },
+    {
+      "start": 65.826,
+      "end": 70.334,
+      "text": "Libérez le compte, vite! Vite, je vais finir!"
+    },
+    {
+      "start": 70.498,
+      "end": 76.318,
+      "text": "Pourquoi tu es bloqué, je ne peux pas finir, dépêchez-vous! Vite, je dois avoir la vidéo en 4K!"
+    },
+    {
+      "start": 76.642,
+      "end": 79.742,
+      "text": "Dépêchez-vous, l'instant je ne pourrai pas finir!"
+    }
+  ]
+}

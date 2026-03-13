@@ -1,0 +1,30 @@
+{
+  "text": "Hola. C'est fatigant comme t-shirt ça. Oh c'est pas beau hein! Il m'épuise! Oh ouais! Je perds toute mon énergie là! Oh je me sens faible! Il est trop complexe en fait, je suis en sueur! Même la couette derrière, oh y'a tout qui... Oh il est là... On dirait une image que feld up il pourra analyser là, c'est quoi cette histoire? Bah mais il me fait des effets secondaires ce compte! Oh NON arrête non!",
+  "segments": [
+    {
+      "start": 0.098,
+      "end": 0.542,
+      "text": "Hola."
+    },
+    {
+      "start": 0.77,
+      "end": 20.734,
+      "text": "C'est fatigant comme t-shirt ça. Oh c'est pas beau hein! Il m'épuise! Oh ouais! Je perds toute mon énergie là! Oh je me sens faible! Il est trop complexe en fait, je suis en sueur! Même la couette derrière, oh y'a tout qui..."
+    },
+    {
+      "start": 20.77,
+      "end": 28.766,
+      "text": "Oh il est là... On dirait une image que feld up il pourra analyser là, c'est quoi cette histoire? Bah mais il me fait des effets secondaires ce compte!"
+    },
+    {
+      "start": 29.218,
+      "end": 29.918,
+      "text": "Oh"
+    },
+    {
+      "start": 30.658,
+      "end": 32.391875,
+      "text": "NON arrête non!"
+    }
+  ]
+}

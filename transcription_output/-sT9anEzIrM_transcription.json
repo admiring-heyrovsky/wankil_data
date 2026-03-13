@@ -1,0 +1,100 @@
+{
+  "text": "Oh de l'or! De l'or! J'ai plus de torches! Putain! Au moment où c'est dans l'or, la pute. Vas-y je te remplace. T'es redescendu ou pas? No. Tu peux vendre avant de redescendre? Bien sûr? L'entrepôt est plein. La dynamite c'est quand même pas si mal. Mais t'es passé par où toi? Comment ça se fait que t'es plus bas? Ne creuse pas, l'entrepôt est plein. Ah merde! Alors euh j'avais pris pour rien. J'ai augmenté deux fois l'entrepôt encore. Ah oui, j'ai vu puisqu'il nous restait 300 dollars donc euh j'ai compris. Oh! Qu'est-ce qui s'est passé? Qu'est-ce qui s'est passé? Quoi? Non mais attends. T'as fait quoi? Ouais c'est pas possible. Qu'est-ce que t'as fait? Bah j'ai découvert la bite. Non mais d'accord mais regarde où je suis! T'es où? Regarde dehors? Mais non! Tricheur! Mais quoi? Quoi t'es chez le voisin? Mais pourquoi qu'est-ce que t'as fait pour que je sois là? J'étais en train de creuser tranquille! J'ai atterri dans le ciel! Mais j'ai rien fait du tout! Qu'est-ce que tu fous chez le voisin? Reviens! C'est quoi cette connerie? Oh la TP! Faut pas sortir vos jeux quand ils sont comme ça hein!",
+  "segments": [
+    {
+      "start": 0.354,
+      "end": 3.838,
+      "text": "Oh de l'or! De l'or! J'ai plus de torches! Putain!"
+    },
+    {
+      "start": 3.938,
+      "end": 5.47,
+      "text": "Au moment où c'est dans l'or, la pute."
+    },
+    {
+      "start": 5.634,
+      "end": 6.494,
+      "text": "Vas-y je te remplace."
+    },
+    {
+      "start": 12.994,
+      "end": 13.79,
+      "text": "T'es redescendu ou pas?"
+    },
+    {
+      "start": 13.89,
+      "end": 14.302,
+      "text": "No."
+    },
+    {
+      "start": 14.402,
+      "end": 17.086,
+      "text": "Tu peux vendre avant de redescendre? Bien sûr? L'entrepôt est plein."
+    },
+    {
+      "start": 17.474,
+      "end": 19.07,
+      "text": "La dynamite c'est quand même pas si mal."
+    },
+    {
+      "start": 21.474,
+      "end": 23.71,
+      "text": "Mais t'es passé par où toi? Comment ça se fait que t'es plus bas?"
+    },
+    {
+      "start": 23.81,
+      "end": 32.862,
+      "text": "Ne creuse pas, l'entrepôt est plein. Ah merde! Alors euh j'avais pris pour rien. J'ai augmenté deux fois l'entrepôt encore. Ah oui, j'ai vu puisqu'il nous restait 300 dollars donc euh j'ai compris."
+    },
+    {
+      "start": 34.082,
+      "end": 36.862,
+      "text": "Oh! Qu'est-ce qui s'est passé? Qu'est-ce qui s'est passé? Quoi?"
+    },
+    {
+      "start": 36.994,
+      "end": 37.566,
+      "text": "Non mais attends."
+    },
+    {
+      "start": 37.826,
+      "end": 38.366,
+      "text": "T'as fait quoi?"
+    },
+    {
+      "start": 40.13,
+      "end": 41.63,
+      "text": "Ouais c'est pas possible. Qu'est-ce que t'as fait?"
+    },
+    {
+      "start": 43.522,
+      "end": 45.118,
+      "text": "Bah j'ai découvert la bite."
+    },
+    {
+      "start": 45.218,
+      "end": 48.318,
+      "text": "Non mais d'accord mais regarde où je suis! T'es où?"
+    },
+    {
+      "start": 48.418,
+      "end": 49.118,
+      "text": "Regarde dehors?"
+    },
+    {
+      "start": 49.474,
+      "end": 49.886,
+      "text": "Mais non!"
+    },
+    {
+      "start": 49.986,
+      "end": 60.19,
+      "text": "Tricheur! Mais quoi? Quoi t'es chez le voisin? Mais pourquoi qu'est-ce que t'as fait pour que je sois là? J'étais en train de creuser tranquille! J'ai atterri dans le ciel! Mais j'ai rien fait du tout! Qu'est-ce que tu fous chez le voisin? Reviens!"
+    },
+    {
+      "start": 60.29,
+      "end": 63.936125,
+      "text": "C'est quoi cette connerie? Oh la TP! Faut pas sortir vos jeux quand ils sont comme ça hein!"
+    }
+  ]
+}

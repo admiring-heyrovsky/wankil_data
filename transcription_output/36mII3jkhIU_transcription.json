@@ -1,0 +1,30 @@
+{
+  "text": "Des parfums à la frites. Et c'est quoi le rapport avec la journée des droits des femmes? Bah parce que les femmes elles mettent des parfums. Non, en fait il n'y a aucun problème. A l'occasion de la journée mondiale des droits des femmes, la division Japon du gérant de fast-food McDonald's propose une série limitée de trois parfums basée sur l'odeur de ces frites. C'est quoi le rapport avec la journée des droits des femmes? Ah mesdames. Mais je pense pas que mes dames peuvent se parfumer à l'odeur de frites! Bah attends, t'as pas demandé pourquoi tu parles à la place des femmes. Pardon. C'est dingue ça! Le mansplaining de Terracide qui explique aux femmes qu'elles n'ont pas envie de se parfumer à la fritite. Je suis grave toxique. Attends, laisse les parler! Pardon mesdames, voudrouillez-vous vous parfumer à l'odeur de frites. J'aime beaucoup frites! Voilà, elles disent toutes voilà, vous dites toutes que ça vous plaît. Ouais c'est vrai que t'arrives à la baraque, t'as grosé, c'est sans la frites, j'ai faim, j'ai. Je te boufferais tout.",
+  "segments": [
+    {
+      "start": 0.642,
+      "end": 17.63,
+      "text": "Des parfums à la frites. Et c'est quoi le rapport avec la journée des droits des femmes? Bah parce que les femmes elles mettent des parfums. Non, en fait il n'y a aucun problème. A l'occasion de la journée mondiale des droits des femmes, la division Japon du gérant de fast-food McDonald's propose une série limitée de trois parfums basée sur l'odeur de ces frites. C'est quoi le rapport avec la journée des droits des femmes?"
+    },
+    {
+      "start": 17.922,
+      "end": 18.846,
+      "text": "Ah mesdames."
+    },
+    {
+      "start": 19.458,
+      "end": 32.35,
+      "text": "Mais je pense pas que mes dames peuvent se parfumer à l'odeur de frites! Bah attends, t'as pas demandé pourquoi tu parles à la place des femmes. Pardon. C'est dingue ça! Le mansplaining de Terracide qui explique aux femmes qu'elles n'ont pas envie de se parfumer à la fritite. Je suis grave toxique."
+    },
+    {
+      "start": 32.45,
+      "end": 41.438,
+      "text": "Attends, laisse les parler! Pardon mesdames, voudrouillez-vous vous parfumer à l'odeur de frites. J'aime beaucoup frites!"
+    },
+    {
+      "start": 41.666,
+      "end": 49.438,
+      "text": "Voilà, elles disent toutes voilà, vous dites toutes que ça vous plaît. Ouais c'est vrai que t'arrives à la baraque, t'as grosé, c'est sans la frites, j'ai faim, j'ai. Je te boufferais tout."
+    }
+  ]
+}

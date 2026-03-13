@@ -1,0 +1,40 @@
+{
+  "text": "Oh il les vole et coulante les vols et ça se met où la coulante? Eh ben tu te prends ton pied. Ah bah c'est un peu de temps. Bah ouais tu prends ton top, sale idiot, j'allais te le dire. Ah son père il lui a pas appris à bricoler. Ou sa mère, qu'est-ce que je disais? Ouais bah trop tard, hein, trop tard! Parce qu'une femme est en capable de bricoler donc c'est forcément mon père qui aurait dû m'apprendre. C'était le début de ma phrase, j'allais continuer. Oui et t'allais continuer? Cette salle p... Incapable de bricoler? Non, c'est pas tout ce que j'allais dire. Je l'adore. Ah bon? Françoise. Frontal. Dommage t'es raté! Bon bah José, t'as ouvert! T'as oublié le nom de ma mère! T'es pas vraiment un ami. C'est Santal! C'est Christelle. C'est marrant parce qu'il sait que c'est un C mais il l'a pas. Arrête, ta cueuse. Bah tant pis hein. Toi c'est... A partir du moment où c'est des femmes, le nom passe au-dessus de la tête quoi, c'est pas important. Par contre José, ah ça José il l'a retenu! Mais parce que quand je vois ton père c'est bonjour José, et quand je vois ta mère c'est bonjour bébé. Ça sonnait hyper ringard mais je suis quand même vexé",
+  "segments": [
+    {
+      "start": 0.066,
+      "end": 19.102,
+      "text": "Oh il les vole et coulante les vols et ça se met où la coulante? Eh ben tu te prends ton pied. Ah bah c'est un peu de temps. Bah ouais tu prends ton top, sale idiot, j'allais te le dire. Ah son père il lui a pas appris à bricoler. Ou sa mère, qu'est-ce que je disais? Ouais bah trop tard, hein, trop tard! Parce qu'une femme est en capable de bricoler donc c'est forcément mon père qui aurait dû m'apprendre. C'était le début de ma phrase, j'allais continuer. Oui et t'allais continuer? Cette salle p..."
+    },
+    {
+      "start": 19.298,
+      "end": 24.318,
+      "text": "Incapable de bricoler? Non, c'est pas tout ce que j'allais dire. Je l'adore. Ah bon? Françoise."
+    },
+    {
+      "start": 25.122,
+      "end": 25.79,
+      "text": "Frontal."
+    },
+    {
+      "start": 25.954,
+      "end": 30.622,
+      "text": "Dommage t'es raté! Bon bah José, t'as ouvert! T'as oublié le nom de ma mère!"
+    },
+    {
+      "start": 30.722,
+      "end": 33.054,
+      "text": "T'es pas vraiment un ami. C'est Santal!"
+    },
+    {
+      "start": 33.346,
+      "end": 47.71,
+      "text": "C'est Christelle. C'est marrant parce qu'il sait que c'est un C mais il l'a pas. Arrête, ta cueuse. Bah tant pis hein. Toi c'est... A partir du moment où c'est des femmes, le nom passe au-dessus de la tête quoi, c'est pas important. Par contre José, ah ça José il l'a retenu! Mais parce que quand je vois ton père c'est bonjour José, et quand je vois ta mère c'est bonjour bébé."
+    },
+    {
+      "start": 49.058,
+      "end": 53.0111875,
+      "text": "Ça sonnait hyper ringard mais je suis quand même vexé"
+    }
+  ]
+}

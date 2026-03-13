@@ -1,0 +1,35 @@
+{
+  "text": "Ah j'ai pas mangé. Bah tu manges des trucs qui traînent. Ouais un Kinder Bono je pense. J'ai pas mangé pendant bon bah trois jours. Ouais. Dans le hubber, arrivé à 10 minutes de chez moi je craque. Je sors de mon sac à dos des cracottes. Bon, et bah j'en mange une et ma meuf me regarde elle me dit. T'as bien, pas dans la voiture! Et moi je dis... Mais c'est des miettes! J'ai dit un peu à vôtre, mais non mais elles font pas de miettes celle-là. C'est pas vrai évidemment. Si y'en avait sur moi, je l'ai jeté dehors, tu vois. En disant ça, les 10 minutes de trajet restante, le mec me regardait dans le rétro avec un regard... Oh il t'a mis deux sur dix! Ah je regarde ma note, je pense qu'en vrai elle a baissé, je pense qu'il voulait me tuer, il voulait me faire comprendre genre arrête de la manger, arrête. Tu arrêtes, tu lâches! On peut voir sa note sur euh... Ok. Il a voulu me tuer mais euh... Non c'est bon. Je suis à 4,75 sur Abar. Combien t'as dit? 4,75. 4,77, mais c'est parce qu'un jour y'a un mec à l'aéroport, il m'a mis zéro En fait pour le trouver il a pris une amende et du coup après il me l'a dit ouais bah vous savez quoi j'ai eu une amende T'aurais dû rembourser l'amende Ouais c'est non c'est son problème et il est pas clair On en sait rien c'était il y a trop longtemps J'ai un deuil comme un doute.",
+  "segments": [
+    {
+      "start": 0.226,
+      "end": 13.566,
+      "text": "Ah j'ai pas mangé. Bah tu manges des trucs qui traînent. Ouais un Kinder Bono je pense. J'ai pas mangé pendant bon bah trois jours. Ouais. Dans le hubber, arrivé à 10 minutes de chez moi je craque. Je sors de mon sac à dos des cracottes. Bon, et bah j'en mange une et ma meuf me regarde elle me dit."
+    },
+    {
+      "start": 13.698,
+      "end": 16.126,
+      "text": "T'as bien, pas dans la voiture! Et moi je dis..."
+    },
+    {
+      "start": 16.258,
+      "end": 29.726,
+      "text": "Mais c'est des miettes! J'ai dit un peu à vôtre, mais non mais elles font pas de miettes celle-là. C'est pas vrai évidemment. Si y'en avait sur moi, je l'ai jeté dehors, tu vois. En disant ça, les 10 minutes de trajet restante, le mec me regardait dans le rétro avec un regard... Oh il t'a mis deux sur dix!"
+    },
+    {
+      "start": 29.698,
+      "end": 44.766,
+      "text": "Ah je regarde ma note, je pense qu'en vrai elle a baissé, je pense qu'il voulait me tuer, il voulait me faire comprendre genre arrête de la manger, arrête. Tu arrêtes, tu lâches! On peut voir sa note sur euh... Ok. Il a voulu me tuer mais euh... Non c'est bon. Je suis à 4,75 sur Abar. Combien t'as dit? 4,75."
+    },
+    {
+      "start": 44.77,
+      "end": 57.886,
+      "text": "4,77, mais c'est parce qu'un jour y'a un mec à l'aéroport, il m'a mis zéro En fait pour le trouver il a pris une amende et du coup après il me l'a dit ouais bah vous savez quoi j'ai eu une amende T'aurais dû rembourser l'amende Ouais c'est non c'est son problème et il est pas clair On en sait rien c'était il y a trop longtemps"
+    },
+    {
+      "start": 57.986,
+      "end": 59.61725,
+      "text": "J'ai un deuil comme un doute."
+    }
+  ]
+}

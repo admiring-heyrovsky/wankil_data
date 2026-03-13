@@ -1,0 +1,95 @@
+{
+  "text": "Y'a une lampe torche sur l'établi. Et puis il y a un dernier truc qu'il faut qu'on prenne... Voyage, sinon on va tomber affamé. Vous savez ce qui va se passer hein, c'est que ça a bugué, on va tout perdre et on va regretter ce qui vient de se passer. Oh là là là là. Eh regarde celle-là! Oh putain! T'as trouvé ça où? Bah au-dessus de la porte du garage y'en a même d'autres si tu veux. Ouais mais il se clique sur la voiture hein! Oh non! Non non non ça fait trop longtemps. Faire attention avec ça hein! Oh oui je l'avais pas vu! Oui, vraiment. Ah ouais, faut faire gaffe. Arrête si de plus, j'ai pas voulu le faire. Allez! Ah oui oui t'as rien, t'as pas vu, t'as vu comment tu me re... Comment t'as pu faire ça? J'étais là-bas, j'étais là! Là-bas! Là-bas sur la voiture! NON! Là-bas à gauche, ça a transpercé tout! Ça n'a aucun sens! Y'a plus rien, tout a explosé! Ok, on recommence et si tu bosses et que je bosse, ça va aller très vite, allez c'est bon. Radiateur ouvert surchauffe au rupteur. N'importe quoi, elles sont pas ouverts. J'ai entendu un bouchon se fermer là. C'est pas normal que tout soit ouvert. J'ai peur que y'a un truc qui surchauffe ou... C'est ce bruit du moteur qui m'intrigue, tu sais! J'ai eu une fatale erreur. Une fatale erreur? Yeah. Y'a pas de radiateur là? Où est le radiateur? Y'a plus de radiateur. Mais on est foutu. Sans radiateur c'est mort. Elle roule encore un peu. On roule sans radiateur, euh ça se passe bien. C'est de l'essence là le voyant rouge? A gauche? Alors là j'ai envie de dire un truc. Ah y'a un truc à péter. Alors là pour moi c'est dessus. Bon moi là on a crevé. Oh ça c'est. Oh là non ça c'est pas qu'on a crevé! Ah bah là ouais! Ah bah regarde moi ça là il est mort. Aïe aïe aïe aïe aïe! Y'a une casse hein, y'a une casse, hein, ça va au coup t'es bonbon hein! Et puis là pour faire venir la pièce y'en a pour une semaine hein! Dans ces cas-là c'est... Tiens attends, bouge pas, j'ai une solution pour la bagnole. Voilà. Ok, je vais essayer de la redémarrer. J'ai pu le contacter. Attends bah, ça va essayer un coup pour voir. Oh no.",
+  "segments": [
+    {
+      "start": 0.13,
+      "end": 1.406,
+      "text": "Y'a une lampe torche sur l'établi."
+    },
+    {
+      "start": 1.506,
+      "end": 3.678,
+      "text": "Et puis il y a un dernier truc qu'il faut qu'on prenne..."
+    },
+    {
+      "start": 4.578,
+      "end": 11.518,
+      "text": "Voyage, sinon on va tomber affamé. Vous savez ce qui va se passer hein, c'est que ça a bugué, on va tout perdre et on va regretter ce qui vient de se passer. Oh là là là là."
+    },
+    {
+      "start": 11.682,
+      "end": 13.63,
+      "text": "Eh regarde celle-là! Oh putain!"
+    },
+    {
+      "start": 15.65,
+      "end": 26.27,
+      "text": "T'as trouvé ça où? Bah au-dessus de la porte du garage y'en a même d'autres si tu veux. Ouais mais il se clique sur la voiture hein! Oh non! Non non non ça fait trop longtemps. Faire attention avec ça hein! Oh oui je l'avais pas vu!"
+    },
+    {
+      "start": 26.402,
+      "end": 26.846,
+      "text": "Oui, vraiment."
+    },
+    {
+      "start": 27.074,
+      "end": 28.222,
+      "text": "Ah ouais, faut faire gaffe."
+    },
+    {
+      "start": 28.802,
+      "end": 33.406,
+      "text": "Arrête si de plus, j'ai pas voulu le faire. Allez! Ah oui oui t'as rien, t'as pas vu, t'as vu comment tu me re..."
+    },
+    {
+      "start": 33.826,
+      "end": 48.99,
+      "text": "Comment t'as pu faire ça? J'étais là-bas, j'étais là! Là-bas! Là-bas sur la voiture! NON! Là-bas à gauche, ça a transpercé tout! Ça n'a aucun sens! Y'a plus rien, tout a explosé! Ok, on recommence et si tu bosses et que je bosse, ça va aller très vite, allez c'est bon. Radiateur ouvert surchauffe au rupteur."
+    },
+    {
+      "start": 49.09,
+      "end": 50.878,
+      "text": "N'importe quoi, elles sont pas ouverts."
+    },
+    {
+      "start": 51.234,
+      "end": 61.118,
+      "text": "J'ai entendu un bouchon se fermer là. C'est pas normal que tout soit ouvert. J'ai peur que y'a un truc qui surchauffe ou... C'est ce bruit du moteur qui m'intrigue, tu sais! J'ai eu une fatale erreur. Une fatale erreur?"
+    },
+    {
+      "start": 62.658,
+      "end": 63.006,
+      "text": "Yeah."
+    },
+    {
+      "start": 63.138,
+      "end": 83.102,
+      "text": "Y'a pas de radiateur là? Où est le radiateur? Y'a plus de radiateur. Mais on est foutu. Sans radiateur c'est mort. Elle roule encore un peu. On roule sans radiateur, euh ça se passe bien. C'est de l'essence là le voyant rouge? A gauche? Alors là j'ai envie de dire un truc. Ah y'a un truc à péter. Alors là pour moi c'est dessus. Bon moi là on a crevé. Oh ça c'est. Oh là non ça c'est pas qu'on a crevé! Ah bah là ouais! Ah bah regarde moi ça là il est mort. Aïe aïe aïe aïe aïe!"
+    },
+    {
+      "start": 83.138,
+      "end": 90.974,
+      "text": "Y'a une casse hein, y'a une casse, hein, ça va au coup t'es bonbon hein! Et puis là pour faire venir la pièce y'en a pour une semaine hein! Dans ces cas-là c'est... Tiens attends, bouge pas, j'ai une solution pour la bagnole."
+    },
+    {
+      "start": 93.314,
+      "end": 95.326,
+      "text": "Voilà. Ok, je vais essayer de la redémarrer."
+    },
+    {
+      "start": 96.13,
+      "end": 97.918,
+      "text": "J'ai pu le contacter."
+    },
+    {
+      "start": 98.53,
+      "end": 100.414,
+      "text": "Attends bah, ça va essayer un coup pour voir."
+    },
+    {
+      "start": 101.026,
+      "end": 101.694,
+      "text": "Oh no."
+    }
+  ]
+}

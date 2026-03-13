@@ -1,0 +1,45 @@
+{
+  "text": "C'est littéralement ça. Ah d'accord. Ah c'est du pâté! C'est pas beau du tout, ça donne pas fort. Ah c'est de l'âme! On dirait mon chat il a vomi et je l'ai mis dans une shift molle. C'est désagréable. C'est délicieux, trop bon. En gros, les gens qui n'ont jamais goûté sont en mode Oh c'est pas beau! Oh non! Et les autres qui ont déjà goûté savent que c'est trop bon. Voilà normalement c'est présenté comme ça. Bon... Oh mais là... Non mais... La plaie de pâté de chat qu'on a mal axé et on en a fait peut-être petit. Allez dans un restaurant de Dimsum genre. Arrête, déjà tu sais même pas ce que tu es en train de raconter Dimsoum, t'inventes des trucs. C'est des raviolis japonais! Attends, je rêve ou t'as jamais été dans un bar de Bianbianga? Non mais regarde, c'est des trucs comme ça un beauté! Mais c'est pas ce que c'est tes trucs! Mais des raviolis comme ça, t'as déjà vu tu sais des trucs comme ça là! Ici c'est cocovin! Cojolet et morceau de pain! J'ai craché tout mon rave-violis partout! Thank you. PEPPOR! PEP BORGINO! Oh Et ratatouille!",
+  "segments": [
+    {
+      "start": 0.034,
+      "end": 6.814,
+      "text": "C'est littéralement ça. Ah d'accord. Ah c'est du pâté! C'est pas beau du tout, ça donne pas fort. Ah c'est de l'âme!"
+    },
+    {
+      "start": 7.49,
+      "end": 22.238,
+      "text": "On dirait mon chat il a vomi et je l'ai mis dans une shift molle. C'est désagréable. C'est délicieux, trop bon. En gros, les gens qui n'ont jamais goûté sont en mode Oh c'est pas beau! Oh non! Et les autres qui ont déjà goûté savent que c'est trop bon. Voilà normalement c'est présenté comme ça. Bon... Oh mais là... Non mais..."
+    },
+    {
+      "start": 22.21,
+      "end": 37.054,
+      "text": "La plaie de pâté de chat qu'on a mal axé et on en a fait peut-être petit. Allez dans un restaurant de Dimsum genre. Arrête, déjà tu sais même pas ce que tu es en train de raconter Dimsoum, t'inventes des trucs. C'est des raviolis japonais! Attends, je rêve ou t'as jamais été dans un bar de Bianbianga? Non mais regarde, c'est des trucs comme ça un beauté!"
+    },
+    {
+      "start": 37.058,
+      "end": 47.998,
+      "text": "Mais c'est pas ce que c'est tes trucs! Mais des raviolis comme ça, t'as déjà vu tu sais des trucs comme ça là! Ici c'est cocovin! Cojolet et morceau de pain! J'ai craché tout mon rave-violis partout!"
+    },
+    {
+      "start": 48.418,
+      "end": 50.75,
+      "text": "Thank you."
+    },
+    {
+      "start": 51.842,
+      "end": 53.982,
+      "text": "PEPPOR! PEP BORGINO!"
+    },
+    {
+      "start": 54.274,
+      "end": 54.718,
+      "text": "Oh"
+    },
+    {
+      "start": 55.586,
+      "end": 56.8773125,
+      "text": "Et ratatouille!"
+    }
+  ]
+}

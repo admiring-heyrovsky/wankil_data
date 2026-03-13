@@ -1,0 +1,35 @@
+{
+  "text": "Ah oui! Le four, t'es censé retourner à mi-cuisson. Ah, là je dois... Oh putain! Remulle tout quoi! Ouais faut que tu remues tout là. Avec tes mains c'est bon, t'es une fiotasse ou quoi là? C'est bon c'est un peu chaud et alors? T'es un malade toi! Tu prends tes mains et tu secoues! Putain mais toi on t'emmènera pas au front en fait! Je suis en train de faire des trous avec le couteau! Ah vas-y! Non mais non c'est une blague! Mais c'est une blague! C'est une blague! Il est trop... Oh! Ah! C'est bon, je vais pas culpabiliser, ça fait pas poil, je lui dis que c'était une blague. J'ai rien senti, c'est bon. Ok, bon, tu me bats ton œuf. Alors, pour battre un œuf, autre astuce, avec ta main droite, tu vas faire comme si ta main droite c'était une pelle, et tu saisis le jaune d'œuf. T'es en train d'inventer? En saisissant le jeu d'œuf, tu tournes un peu. Mais c'est des conneries, tu veux juste que j'aille me laver les mains, tu casses les coudes. Regarde mais ça sinon. Putain je me dis y'a un monde où je faudra réussir à te le faire faire ça me casse les couilles Eh ouais vous faisiez le chat avec moi Oh putain mais vous cassez les couilles Je t'aurais vraiment vu avec tes mains faire une pince et commencer à secouer le truc dans tous les sens En vrai j'aurais pu le faire Eh je suis en train de faire une omelette là Ça donne trop faim",
+  "segments": [
+    {
+      "start": 0.45,
+      "end": 0.83,
+      "text": "Ah oui!"
+    },
+    {
+      "start": 0.93,
+      "end": 4.83,
+      "text": "Le four, t'es censé retourner à mi-cuisson. Ah, là je dois... Oh putain!"
+    },
+    {
+      "start": 5.026,
+      "end": 24.382,
+      "text": "Remulle tout quoi! Ouais faut que tu remues tout là. Avec tes mains c'est bon, t'es une fiotasse ou quoi là? C'est bon c'est un peu chaud et alors? T'es un malade toi! Tu prends tes mains et tu secoues! Putain mais toi on t'emmènera pas au front en fait! Je suis en train de faire des trous avec le couteau! Ah vas-y! Non mais non c'est une blague! Mais c'est une blague! C'est une blague! Il est trop..."
+    },
+    {
+      "start": 24.386,
+      "end": 40.542,
+      "text": "Oh! Ah! C'est bon, je vais pas culpabiliser, ça fait pas poil, je lui dis que c'était une blague. J'ai rien senti, c'est bon. Ok, bon, tu me bats ton œuf. Alors, pour battre un œuf, autre astuce, avec ta main droite, tu vas faire comme si ta main droite c'était une pelle, et tu saisis le jaune d'œuf. T'es en train d'inventer?"
+    },
+    {
+      "start": 40.514,
+      "end": 44.798,
+      "text": "En saisissant le jeu d'œuf, tu tournes un peu. Mais c'est des conneries, tu veux juste que j'aille me laver les mains, tu casses les coudes."
+    },
+    {
+      "start": 45.026,
+      "end": 59.61725,
+      "text": "Regarde mais ça sinon. Putain je me dis y'a un monde où je faudra réussir à te le faire faire ça me casse les couilles Eh ouais vous faisiez le chat avec moi Oh putain mais vous cassez les couilles Je t'aurais vraiment vu avec tes mains faire une pince et commencer à secouer le truc dans tous les sens En vrai j'aurais pu le faire Eh je suis en train de faire une omelette là Ça donne trop faim"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "text": "Y'a un film Sault, y'a un patient, il a genre euh... le cerveau qui gonfle dans sa boîte crânienne, tu vois, ça lui fait une douleur atroce. Et dans le film, il y a une meuf, elle lui retire un énorme morceau de crâne pour que ça puisse entre guillemets respirer genre qu'il y ait de la place. Ouais ouais c'est une crinictomie décompressive, ouais. C'est des trucs où en fait on est obligé d'enlever la moitié du crâne pour laisser de la place au cerveau parce que bah oui mais on fait quoi après? Bah ensuite soit l'os il est viable, on le garde dans ce qu'on appelle une banque d'os où en fait l'os il est congelé et quelques mois plus tard quand le cerveau il a repris sa... Non mais attends, tu m'as pas compris, le mec il a pas un casque de moto sur la tête en attendant? Non, non, on repose juste la peau au-dessus. Quoi? Attends! Ah! Il a plus de crâne le mec! Non. AAAAAAAH et donc il a un truc tout mou au-dessus du crâne genre si quelqu'un lui fait une blague en disant Ah tiens je te tapote au-dessus du crâne il touche son cerveau faire attention ouais faut faire attention Faut faire attention hein putain Ouais mais ça leur sauve la vie parfois Donc y'a des gens ils peuvent tousser leur cerveau au-dessus de la peau en tapotant le crâne Oui bah après c'est pas conseil Genre attends Genre là s'il se gratte la tête il gratte un peu son cerveau Ouais voilà ouais",
+  "segments": [
+    {
+      "start": 0.034,
+      "end": 15.358,
+      "text": "Y'a un film Sault, y'a un patient, il a genre euh... le cerveau qui gonfle dans sa boîte crânienne, tu vois, ça lui fait une douleur atroce. Et dans le film, il y a une meuf, elle lui retire un énorme morceau de crâne pour que ça puisse entre guillemets respirer genre qu'il y ait de la place. Ouais ouais c'est une crinictomie décompressive, ouais."
+    },
+    {
+      "start": 15.362,
+      "end": 33.342,
+      "text": "C'est des trucs où en fait on est obligé d'enlever la moitié du crâne pour laisser de la place au cerveau parce que bah oui mais on fait quoi après? Bah ensuite soit l'os il est viable, on le garde dans ce qu'on appelle une banque d'os où en fait l'os il est congelé et quelques mois plus tard quand le cerveau il a repris sa... Non mais attends, tu m'as pas compris, le mec il a pas un casque de moto sur la tête en attendant?"
+    },
+    {
+      "start": 33.41,
+      "end": 35.55,
+      "text": "Non, non, on repose juste la peau au-dessus."
+    },
+    {
+      "start": 35.906,
+      "end": 39.582,
+      "text": "Quoi? Attends! Ah! Il a plus de crâne le mec! Non."
+    },
+    {
+      "start": 39.778,
+      "end": 59.678,
+      "text": "AAAAAAAH et donc il a un truc tout mou au-dessus du crâne genre si quelqu'un lui fait une blague en disant Ah tiens je te tapote au-dessus du crâne il touche son cerveau faire attention ouais faut faire attention Faut faire attention hein putain Ouais mais ça leur sauve la vie parfois Donc y'a des gens ils peuvent tousser leur cerveau au-dessus de la peau en tapotant le crâne Oui bah après c'est pas conseil Genre attends Genre là s'il se gratte la tête il gratte un peu son cerveau Ouais voilà ouais"
+    }
+  ]
+}

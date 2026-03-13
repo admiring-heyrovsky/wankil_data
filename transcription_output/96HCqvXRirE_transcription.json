@@ -1,0 +1,80 @@
+{
+  "text": "Bon le parc. Ah bah c'est le coup. Ah c'est le bar c'est le parc. Qu'est-ce que c'est? Ah c'est. Ah mais c'est Belzébut!  On dirait un mec qui connaît dans la vie, tu sais. Il va au bowling. Ça prête à faire un sacré strike. Bonjour monsieur! Eh bonjour! Bonjour monsieur! Bonjour, enchanté, je me présente. Richard Pastel, DRH. Par contre excusez moi messieurs je vous entends très peu. Ah bon? Ouais les oreilles c'est comme le cul ça savait mon con! Ouais bien dit Richard! Ouais faut les excuser Richard c'est un déconneur! Oh là on voulait on voulait venir chez Rebelle voir si ça déconne un peu quoi! Whoo! Mec comment on fait, comment on fait? Mais regarde elle avance, elle avance! Oh non! Elle avance! Elle va plutôt vers toi. Arrête non elle va pas faire là! Elle va vers elle va au métro elle va à Châtelet. Oh ouais, attends c'est bon! Ok elle retourne à la maison! Ok bah voilà! Oh no J'ai oublié mes habits! Just at the same time. Vous avez les dortoirs. On verra ça après. Ah les dortoirs. Et on fait quoi? C'est chacun sa chambre ou c'est la déconne ou qu'est-ce qu'on fait? Eh moi je vous ferai rien que je pète hein! Ça dépend de ce que nous avons bu lors de l'apéritif. Ah l'apéro! Eh c'est pas l'air d'un petit jaune! Okay.",
+  "segments": [
+    {
+      "start": 0.066,
+      "end": 2.942,
+      "text": "Bon le parc. Ah bah c'est le coup. Ah c'est le bar c'est le parc."
+    },
+    {
+      "start": 3.074,
+      "end": 5.95,
+      "text": "Qu'est-ce que c'est? Ah c'est. Ah mais c'est Belzébut!"
+    },
+    {
+      "start": 6.178,
+      "end": 6.59,
+      "text": ""
+    },
+    {
+      "start": 6.85,
+      "end": 12.254,
+      "text": "On dirait un mec qui connaît dans la vie, tu sais. Il va au bowling."
+    },
+    {
+      "start": 12.514,
+      "end": 15.294,
+      "text": "Ça prête à faire un sacré strike."
+    },
+    {
+      "start": 15.586,
+      "end": 21.342,
+      "text": "Bonjour monsieur! Eh bonjour! Bonjour monsieur! Bonjour, enchanté, je me présente. Richard Pastel, DRH."
+    },
+    {
+      "start": 21.442,
+      "end": 34.334,
+      "text": "Par contre excusez moi messieurs je vous entends très peu. Ah bon? Ouais les oreilles c'est comme le cul ça savait mon con! Ouais bien dit Richard! Ouais faut les excuser Richard c'est un déconneur! Oh là on voulait on voulait venir chez Rebelle voir si ça déconne un peu quoi!"
+    },
+    {
+      "start": 36.29,
+      "end": 37.022,
+      "text": "Whoo!"
+    },
+    {
+      "start": 38.338,
+      "end": 51.454,
+      "text": "Mec comment on fait, comment on fait? Mais regarde elle avance, elle avance! Oh non! Elle avance! Elle va plutôt vers toi. Arrête non elle va pas faire là! Elle va vers elle va au métro elle va à Châtelet. Oh ouais, attends c'est bon! Ok elle retourne à la maison! Ok bah voilà!"
+    },
+    {
+      "start": 51.618,
+      "end": 53.598,
+      "text": "Oh no"
+    },
+    {
+      "start": 54.594,
+      "end": 56.734,
+      "text": "J'ai oublié mes habits!"
+    },
+    {
+      "start": 56.866,
+      "end": 57.822,
+      "text": "Just at the same time."
+    },
+    {
+      "start": 58.242,
+      "end": 65.086,
+      "text": "Vous avez les dortoirs. On verra ça après. Ah les dortoirs. Et on fait quoi? C'est chacun sa chambre ou c'est la déconne ou qu'est-ce qu'on fait?"
+    },
+    {
+      "start": 66.178,
+      "end": 75.998,
+      "text": "Eh moi je vous ferai rien que je pète hein! Ça dépend de ce que nous avons bu lors de l'apéritif. Ah l'apéro! Eh c'est pas l'air d'un petit jaune!"
+    },
+    {
+      "start": 77.25,
+      "end": 77.63,
+      "text": "Okay."
+    }
+  ]
+}

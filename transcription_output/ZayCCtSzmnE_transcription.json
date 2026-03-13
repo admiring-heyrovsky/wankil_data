@@ -1,0 +1,75 @@
+{
+  "text": "Et c'était vrai pour l'explosion chimique ou pas du coup? A Paris? Ouais Bah là si tu le sauras déjà forcément. Ça doit être une blague. Ok ça va alors. Ouais ça va ça va. Mais femme ta fenêtre quand même. Stresse pas. Est-ce que je peux avoir à manger? Je veux juste manger. Après je serais heureux dans la run. Ah putain j'ai faim aussi. Ouais je les ai tués le peu KV. Faut aller sur l'autre île là-bas. Euuuuh T'as des couilles ou pas? Uh  Ah cela, ça c'est parfait ici. Ok, j'ai deux potions, ma gauche ou ma droite? Ça va pas, ça va pas? Ça fait quoi? J'vois rien. Ah d'accord, attends. Je vois tout blanc. Ok on recommence le jeu. Ok, main gauche ou main droite? What C'est pas connard, c'est toi! C'était soit potion de chance, soit potion de malchance, à chaque fois t'as sélectionné malchance!",
+  "segments": [
+    {
+      "start": 0.098,
+      "end": 4.702,
+      "text": "Et c'était vrai pour l'explosion chimique ou pas du coup? A Paris? Ouais Bah là si tu le sauras déjà forcément."
+    },
+    {
+      "start": 4.834,
+      "end": 11.166,
+      "text": "Ça doit être une blague. Ok ça va alors. Ouais ça va ça va. Mais femme ta fenêtre quand même. Stresse pas. Est-ce que je peux avoir à manger?"
+    },
+    {
+      "start": 11.266,
+      "end": 12.83,
+      "text": "Je veux juste manger."
+    },
+    {
+      "start": 12.962,
+      "end": 20.446,
+      "text": "Après je serais heureux dans la run. Ah putain j'ai faim aussi. Ouais je les ai tués le peu KV. Faut aller sur l'autre île là-bas."
+    },
+    {
+      "start": 21.154,
+      "end": 23.294,
+      "text": "Euuuuh T'as des couilles ou pas?"
+    },
+    {
+      "start": 23.522,
+      "end": 23.774,
+      "text": "Uh"
+    },
+    {
+      "start": 24.514,
+      "end": 28.062,
+      "text": ""
+    },
+    {
+      "start": 28.258,
+      "end": 29.534,
+      "text": "Ah cela, ça c'est parfait ici."
+    },
+    {
+      "start": 29.666,
+      "end": 32.574,
+      "text": "Ok, j'ai deux potions, ma gauche ou ma droite?"
+    },
+    {
+      "start": 35.138,
+      "end": 36.606,
+      "text": "Ça va pas, ça va pas?"
+    },
+    {
+      "start": 36.738,
+      "end": 37.502,
+      "text": "Ça fait quoi?"
+    },
+    {
+      "start": 37.73,
+      "end": 43.006,
+      "text": "J'vois rien. Ah d'accord, attends. Je vois tout blanc. Ok on recommence le jeu. Ok, main gauche ou main droite?"
+    },
+    {
+      "start": 43.522,
+      "end": 44.158,
+      "text": "What"
+    },
+    {
+      "start": 47.746,
+      "end": 55.4144375,
+      "text": "C'est pas connard, c'est toi! C'était soit potion de chance, soit potion de malchance, à chaque fois t'as sélectionné malchance!"
+    }
+  ]
+}

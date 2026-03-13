@@ -1,0 +1,100 @@
+{
+  "text": "Putain y'a encore un mec! Ouais la journée est finie là! Ah non ça continue, ça continue, il est à l'heure de fermeture! Salade, tomate, kebab, biorte à boire! Est-ce que t'as dit? salope! Salade! Salade! Oh I'm not eating that. Whoop! Pourquoi? J'ai. J'ai chié! T'as fait quoi? Pas de viande. Quoi? T'as oublié la viande! Wow, ça c'est chaud par contre. On sent que c'était la fin de journée. Après le mec qui abuse sur juste... Oui bah pardon ça arrive les erreurs juste en torfé 1 kévab avec ta juste. On t'en refait un, c'est y'a pas... Le mec nous attaque en justice, euh... Qu'est-ce qu'ils veulent? Ouais mais on fait quoi ça? C'est gâché? Uh Attends, je nous fais un nouveau tapis pour l'entrée, regarde. Oh c'est très chaud Home sweet home. Yeah. Eh, bonne nouvelle, mon tapis de sol! Bon alors les animaux ont périmé mais le pain il est nickel donc je te le mets sur la table Pour le réutiliser. Bah écoute. C'est réutilisable, c'est responsable. C'est quoi ça? Ah c'est des petites brochettes ça! Oh j'ai un petit peu mal au ventre et j'ai fait un P qui pue vachement. Ça sert à l'argent. D'expérience, j'aime pas ce qui se passe. Ça annonce rien de bon généralement. Ah ouais. Oh ces vilains là. Tu t'inquiètes de ton trou de balle? Ouais ouais bah il est chaud hein. Bah sinon je vais euh... je vais essayer de gérer en cuisine ou je vais fermer t'emparateur. Sans ce fan de fermeture exceptionnelle, je vais pas juste dire pourquoi au client parce que sinon ils viendront plus ranger ici. Mm-hmm. De que j'ai décalé la chasse, franchement je vais pas bouffer dans le resto. Ouais non évite, évitons.",
+  "segments": [
+    {
+      "start": 0.162,
+      "end": 13.022,
+      "text": "Putain y'a encore un mec! Ouais la journée est finie là! Ah non ça continue, ça continue, il est à l'heure de fermeture! Salade, tomate, kebab, biorte à boire! Est-ce que t'as dit? salope! Salade! Salade!"
+    },
+    {
+      "start": 13.122,
+      "end": 13.79,
+      "text": "Oh"
+    },
+    {
+      "start": 14.594,
+      "end": 16.19,
+      "text": "I'm not eating that."
+    },
+    {
+      "start": 16.29,
+      "end": 16.606,
+      "text": "Whoop!"
+    },
+    {
+      "start": 16.77,
+      "end": 21.694,
+      "text": "Pourquoi? J'ai. J'ai chié! T'as fait quoi? Pas de viande. Quoi? T'as oublié la viande!"
+    },
+    {
+      "start": 21.794,
+      "end": 23.07,
+      "text": "Wow, ça c'est chaud par contre."
+    },
+    {
+      "start": 23.17,
+      "end": 34.302,
+      "text": "On sent que c'était la fin de journée. Après le mec qui abuse sur juste... Oui bah pardon ça arrive les erreurs juste en torfé 1 kévab avec ta juste. On t'en refait un, c'est y'a pas... Le mec nous attaque en justice, euh... Qu'est-ce qu'ils veulent? Ouais mais on fait quoi ça? C'est gâché?"
+    },
+    {
+      "start": 34.434,
+      "end": 34.846,
+      "text": "Uh"
+    },
+    {
+      "start": 35.138,
+      "end": 39.07,
+      "text": "Attends, je nous fais un nouveau tapis pour l'entrée, regarde."
+    },
+    {
+      "start": 39.202,
+      "end": 41.726,
+      "text": "Oh c'est très chaud"
+    },
+    {
+      "start": 42.338,
+      "end": 43.486,
+      "text": "Home sweet home."
+    },
+    {
+      "start": 43.682,
+      "end": 44.126,
+      "text": "Yeah."
+    },
+    {
+      "start": 44.738,
+      "end": 46.75,
+      "text": "Eh, bonne nouvelle, mon tapis de sol!"
+    },
+    {
+      "start": 46.882,
+      "end": 50.59,
+      "text": "Bon alors les animaux ont périmé mais le pain il est nickel donc je te le mets sur la table"
+    },
+    {
+      "start": 50.722,
+      "end": 52.094,
+      "text": "Pour le réutiliser. Bah écoute."
+    },
+    {
+      "start": 52.226,
+      "end": 58.078,
+      "text": "C'est réutilisable, c'est responsable. C'est quoi ça? Ah c'est des petites brochettes ça! Oh j'ai un petit peu mal au ventre et j'ai fait un P qui pue vachement."
+    },
+    {
+      "start": 59.65,
+      "end": 78.974,
+      "text": "Ça sert à l'argent. D'expérience, j'aime pas ce qui se passe. Ça annonce rien de bon généralement. Ah ouais. Oh ces vilains là. Tu t'inquiètes de ton trou de balle? Ouais ouais bah il est chaud hein. Bah sinon je vais euh... je vais essayer de gérer en cuisine ou je vais fermer t'emparateur. Sans ce fan de fermeture exceptionnelle, je vais pas juste dire pourquoi au client parce que sinon ils viendront plus ranger ici."
+    },
+    {
+      "start": 79.362,
+      "end": 79.71,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 80.418,
+      "end": 84.67,
+      "text": "De que j'ai décalé la chasse, franchement je vais pas bouffer dans le resto. Ouais non évite, évitons."
+    }
+  ]
+}

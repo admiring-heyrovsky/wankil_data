@@ -1,0 +1,65 @@
+{
+  "text": "J'ouvre la boutique maintenant ou pas? Non non non Tu peux proposer salade tomate au client Je crois qu'il y a le menu là Ah c'est bon c'est déjà proposé par défaut On propose juste Kevab salade tomate avec un yaourt à boire Et vous avez pas des oignons? Nan Le kebab de merde On a même pas pu se chercher Changer! On avait pas pu chercher! Pourquoi on peut pas changer le nom de la boutique? Uh Non je l'avais vraiment fait, je l'avais appelé e coli. Icoli? Ecoli, c'est la bactérie de la viande qui pourrit. Chiaïchakoli? Yeah. C'est pas ça. C'est pas ça. Alors! Tu sais le e.colis t'as jamais vu? Ouais si si je vois ce que tu veux dire, mais... C'est pas une bonne idée. Ouais. Non ça faisait geek, tu sais comme email. Ah ouais ouais boy. La 9 elle est bonne Euh... Eh t'as entendu hein. Oh mais merde! J'ai plus l'habitude d'être en cuisine! Elle est pas servie la 2 hein! La 2 vous la faites là? Non elle est pas servie. Bah non il manque les frites! Tu lui diras que euh... que Too en cuisine s'excuse. Euh je lui ai mis ton numéro de téléphone sur son plateau, je lui dis c'est de la part du cuisinier. Je vais rien qu'on va réagir. Le beau gosse là-bas. Ha ha ha. Attends, imagine, elle te voit et t'es comme ça. C'est de la part du cuisinier. Oh bah elle est partie. Ça n'a pas eu des fées pensées.",
+  "segments": [
+    {
+      "start": 1.474,
+      "end": 14.75,
+      "text": "J'ouvre la boutique maintenant ou pas? Non non non Tu peux proposer salade tomate au client Je crois qu'il y a le menu là Ah c'est bon c'est déjà proposé par défaut On propose juste Kevab salade tomate avec un yaourt à boire Et vous avez pas des oignons? Nan Le kebab de merde On a même pas pu se chercher"
+    },
+    {
+      "start": 14.882,
+      "end": 18.238,
+      "text": "Changer! On avait pas pu chercher! Pourquoi on peut pas changer le nom de la boutique?"
+    },
+    {
+      "start": 18.37,
+      "end": 18.878,
+      "text": "Uh"
+    },
+    {
+      "start": 19.074,
+      "end": 20.862,
+      "text": "Non je l'avais vraiment fait, je l'avais appelé e coli."
+    },
+    {
+      "start": 20.994,
+      "end": 24.702,
+      "text": "Icoli? Ecoli, c'est la bactérie de la viande qui pourrit. Chiaïchakoli?"
+    },
+    {
+      "start": 24.802,
+      "end": 25.054,
+      "text": "Yeah."
+    },
+    {
+      "start": 25.218,
+      "end": 34.334,
+      "text": "C'est pas ça. C'est pas ça. Alors! Tu sais le e.colis t'as jamais vu? Ouais si si je vois ce que tu veux dire, mais... C'est pas une bonne idée. Ouais. Non ça faisait geek, tu sais comme email."
+    },
+    {
+      "start": 34.498,
+      "end": 35.358,
+      "text": "Ah ouais ouais boy."
+    },
+    {
+      "start": 38.338,
+      "end": 39.39,
+      "text": "La 9 elle est bonne"
+    },
+    {
+      "start": 39.49,
+      "end": 59.454,
+      "text": "Euh... Eh t'as entendu hein. Oh mais merde! J'ai plus l'habitude d'être en cuisine! Elle est pas servie la 2 hein! La 2 vous la faites là? Non elle est pas servie. Bah non il manque les frites! Tu lui diras que euh... que Too en cuisine s'excuse. Euh je lui ai mis ton numéro de téléphone sur son plateau, je lui dis c'est de la part du cuisinier. Je vais rien qu'on va réagir. Le beau gosse là-bas."
+    },
+    {
+      "start": 59.97,
+      "end": 60.862,
+      "text": "Ha ha ha."
+    },
+    {
+      "start": 60.994,
+      "end": 75.7086875,
+      "text": "Attends, imagine, elle te voit et t'es comme ça. C'est de la part du cuisinier. Oh bah elle est partie. Ça n'a pas eu des fées pensées."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "text": "On réagit au subredit Kizar. Stupide. C'est des gosses, qui font des trucs stupides. Ok vous avez cru que je fais t j'étais euh... Non ça va pas c'est bon c'est bon c'est bon je me permets Ouais non mais là c'est pas possible d'être con comme ça là. Ah j'ai un peu des miettes du coup je leur enlève. Le problème de ce biscuit c'est que ça fait des miettes, voilà, ça c'est le principal défaut. En plus désolé mais. Yeah. Le costume est ridicule hein, il est vraiment nul Il a une grosse tête! Quand tu retires... Ah bah c'est chiant parce que ça fait des guettes hein! Putain! Ah j'arrive pas à manger proprement mais c'est bon Je sais pas il doit sentir un tout petit peu de sucre ou quoi? Ouais là mais je sais même pas ce qu'il sent, j'ai... Genre ça abîme un peu le tissu, il sent du biscuit, genre c'est bon, ça fonctionne. Il y revient!",
+  "segments": [
+    {
+      "start": 0.098,
+      "end": 1.63,
+      "text": "On réagit au subredit Kizar."
+    },
+    {
+      "start": 1.762,
+      "end": 2.59,
+      "text": "Stupide."
+    },
+    {
+      "start": 2.722,
+      "end": 5.182,
+      "text": "C'est des gosses, qui font des trucs stupides."
+    },
+    {
+      "start": 6.402,
+      "end": 11.198,
+      "text": "Ok vous avez cru que je fais t j'étais euh... Non ça va pas c'est bon c'est bon c'est bon je me permets"
+    },
+    {
+      "start": 15.074,
+      "end": 29.214,
+      "text": "Ouais non mais là c'est pas possible d'être con comme ça là. Ah j'ai un peu des miettes du coup je leur enlève. Le problème de ce biscuit c'est que ça fait des miettes, voilà, ça c'est le principal défaut. En plus désolé mais."
+    },
+    {
+      "start": 29.346,
+      "end": 29.63,
+      "text": "Yeah."
+    },
+    {
+      "start": 29.922,
+      "end": 33.758,
+      "text": "Le costume est ridicule hein, il est vraiment nul"
+    },
+    {
+      "start": 33.858,
+      "end": 38.43,
+      "text": "Il a une grosse tête! Quand tu retires... Ah bah c'est chiant parce que ça fait des guettes hein! Putain!"
+    },
+    {
+      "start": 38.594,
+      "end": 41.47,
+      "text": "Ah j'arrive pas à manger proprement mais c'est bon"
+    },
+    {
+      "start": 41.89,
+      "end": 50.6543125,
+      "text": "Je sais pas il doit sentir un tout petit peu de sucre ou quoi? Ouais là mais je sais même pas ce qu'il sent, j'ai... Genre ça abîme un peu le tissu, il sent du biscuit, genre c'est bon, ça fonctionne. Il y revient!"
+    }
+  ]
+}

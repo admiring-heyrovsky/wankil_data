@@ -1,0 +1,50 @@
+{
+  "text": "Oh no Et l'autre qui fait un cinéma pas possible. C'est bon. On dirait moi quand je faisais semblant d'être malade le matin avant d'aller au collège. De fièvre je pense. D'ailleurs j'en pensais une fois où j'ai fait semblant de... De faire une fuite dans les escaliers, mais je suis vraiment tombé dans les escaliers, genre. J'ai fait semblant de pas faire étoile tomber dans l'escalier, mais je suis vraiment tombé dans l'escalier. T'es un grand malade, elle a juste à mettre son front contre le radiateur. Il est fou lui. Tu l'as déjà fait. Je t'ai déjà check le truc. Allez cette fois-ci je vais minciser au niveau de l'abdomen. Ah maman je peux pas aller en cours! Mais non mais j'avais fait ça pour rien, je m'en souviens très bien. J'avais dégringolé l'escalier. Jusqu'au bout il y avait une porte, donc je me suis pris la porte. Ça m'a fait un mort de bruit, ma soeur elle est venue en panique, donc je lui dis que je suis dans l'escalier, elle en avait rien à foutre avec eux qui devait emmener à l'école, bah elle m'emmenait quand même. Donc je me suis fait mal pour rien. Bon allez on est à faire une radio ce soir mais là il y a cours de maths donc euh... Allez.",
+  "segments": [
+    {
+      "start": 0.002,
+      "end": 0.798,
+      "text": "Oh no"
+    },
+    {
+      "start": 0.93,
+      "end": 3.518,
+      "text": "Et l'autre qui fait un cinéma pas possible."
+    },
+    {
+      "start": 3.746,
+      "end": 4.35,
+      "text": "C'est bon."
+    },
+    {
+      "start": 4.578,
+      "end": 9.342,
+      "text": "On dirait moi quand je faisais semblant d'être malade le matin avant d'aller au collège."
+    },
+    {
+      "start": 10.05,
+      "end": 13.566,
+      "text": "De fièvre je pense. D'ailleurs j'en pensais une fois où j'ai fait semblant de..."
+    },
+    {
+      "start": 13.666,
+      "end": 23.646,
+      "text": "De faire une fuite dans les escaliers, mais je suis vraiment tombé dans les escaliers, genre. J'ai fait semblant de pas faire étoile tomber dans l'escalier, mais je suis vraiment tombé dans l'escalier. T'es un grand malade, elle a juste à mettre son front contre le radiateur. Il est fou lui. Tu l'as déjà fait."
+    },
+    {
+      "start": 24.002,
+      "end": 30.654,
+      "text": "Je t'ai déjà check le truc. Allez cette fois-ci je vais minciser au niveau de l'abdomen. Ah maman je peux pas aller en cours!"
+    },
+    {
+      "start": 30.786,
+      "end": 45.47,
+      "text": "Mais non mais j'avais fait ça pour rien, je m'en souviens très bien. J'avais dégringolé l'escalier. Jusqu'au bout il y avait une porte, donc je me suis pris la porte. Ça m'a fait un mort de bruit, ma soeur elle est venue en panique, donc je lui dis que je suis dans l'escalier, elle en avait rien à foutre avec eux qui devait emmener à l'école, bah elle m'emmenait quand même. Donc je me suis fait mal pour rien."
+    },
+    {
+      "start": 45.762,
+      "end": 49.5398125,
+      "text": "Bon allez on est à faire une radio ce soir mais là il y a cours de maths donc euh... Allez."
+    }
+  ]
+}

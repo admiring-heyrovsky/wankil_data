@@ -1,0 +1,80 @@
+{
+  "text": "Что? Oh là là mais porc, porc, porc, porc et encore porc! Ouais, là je fais un régime uniquement à base de porc. Il faut qu'il y ait de la couenne et du cochon. Ha ha ha. Alors que je crois qu'en plus, ça dépend quoi mais le porc c'est vraiment une viande qui est dangereuse. Ouais c'est hyper dangereux.  Mm. C'est une verte d'homme. C'est dangereux parce que ça peut être trop puissant. Tu vas manger des pieds de cochon. Ouais ouais, la langue, l'oreille, tu peux tout manger hein. La langue de porc ça se mange. La langue de bœuf je connais, la langue de porc. Eh pourquoi pas? Eh comme on dit! Tout est bon dans le goucheur! Au resto, t'as jamais vu à la carte? Langue de porc! Ouais le trou de balle du port, c'est vrai ça! Vous avez du trou de balle rôti? Ah mon grand-père il a bouffé le trou du cul de la poule là. Le croupion. Le croupion ouais. Comme chez nous, il suffit de bien le laver.",
+  "segments": [
+    {
+      "start": 0.034,
+      "end": 0.638,
+      "text": "Что?"
+    },
+    {
+      "start": 0.866,
+      "end": 7.614,
+      "text": "Oh là là mais porc, porc, porc, porc et encore porc!"
+    },
+    {
+      "start": 7.746,
+      "end": 10.27,
+      "text": "Ouais, là je fais un régime uniquement à base de porc."
+    },
+    {
+      "start": 10.85,
+      "end": 12.446,
+      "text": "Il faut qu'il y ait de la couenne et du cochon."
+    },
+    {
+      "start": 12.642,
+      "end": 13.63,
+      "text": "Ha ha ha."
+    },
+    {
+      "start": 14.114,
+      "end": 18.334,
+      "text": "Alors que je crois qu'en plus, ça dépend quoi mais le porc c'est vraiment une viande qui est dangereuse."
+    },
+    {
+      "start": 18.466,
+      "end": 19.518,
+      "text": "Ouais c'est hyper dangereux."
+    },
+    {
+      "start": 19.682,
+      "end": 20.094,
+      "text": ""
+    },
+    {
+      "start": 21.378,
+      "end": 21.758,
+      "text": "Mm."
+    },
+    {
+      "start": 21.922,
+      "end": 25.598,
+      "text": "C'est une verte d'homme. C'est dangereux parce que ça peut être trop puissant."
+    },
+    {
+      "start": 26.21,
+      "end": 42.846,
+      "text": "Tu vas manger des pieds de cochon. Ouais ouais, la langue, l'oreille, tu peux tout manger hein. La langue de porc ça se mange. La langue de bœuf je connais, la langue de porc. Eh pourquoi pas? Eh comme on dit! Tout est bon dans le goucheur!"
+    },
+    {
+      "start": 43.138,
+      "end": 46.814,
+      "text": "Au resto, t'as jamais vu à la carte? Langue de porc!"
+    },
+    {
+      "start": 47.138,
+      "end": 52.382,
+      "text": "Ouais le trou de balle du port, c'est vrai ça! Vous avez du trou de balle rôti?"
+    },
+    {
+      "start": 52.898,
+      "end": 57.502,
+      "text": "Ah mon grand-père il a bouffé le trou du cul de la poule là. Le croupion. Le croupion ouais."
+    },
+    {
+      "start": 57.89,
+      "end": 60.254,
+      "text": "Comme chez nous, il suffit de bien le laver."
+    }
+  ]
+}

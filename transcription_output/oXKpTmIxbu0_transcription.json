@@ -1,0 +1,35 @@
+{
+  "text": "Hop c'est ouvert! Oh le supermarché de merde, il est honteux. En vrai là j'irai pas acheter hein. Bon, elle, pâte au suc, regarde. Je promets pas. Les potes. Ah juste les pattes. Prenez pas de suc avec. Bon, rendez la monnaie en veillant bien à donner le bon montant. Faut gérer la monnaie. Ah ça va être chaud. Un dollar est sorti, bah voilà, allez. Eh bah prends-la, je vais pas tout faire pour toi. Ah voilà, ça paye par carte. On en a marre des vieux qui payent avec leur monnaie de m... Vous les arnaqué ou pas? Je suis B4,99? 8,98. Ah non attends. Arrondis à 9. Allez, prix d'amis, 9. Allez, le sucre, sûrement pour les pâtes. Ah p... Le premier qui prend des pâteaux sucre il gagne une remise. Dommage! 50% pour les pâteaux sucre! Par contre je peux peut-être les arnaquer sur la monnaie, ça se teste. Hier chez le pharmacien j'ai payé 18 centimes avec ma carte bancaire. Je l'ai dit, vous pensez que ça passe? Il a dit, je sais pas. Tiens, regarde, 1 dollar. Oh ça a marché! Attends ça a marché! Je l'ai arnaqué d'un centime! Il me faut un centime là! Il pourrait pas dire regarder la monnaie. Je vais le regarder droit dans les yeux et je vais fermer ma caisse. C'est du vin là! Oh ouais bah non mais un centime fils de pu... Ça va?",
+  "segments": [
+    {
+      "start": 0.066,
+      "end": 19.294,
+      "text": "Hop c'est ouvert! Oh le supermarché de merde, il est honteux. En vrai là j'irai pas acheter hein. Bon, elle, pâte au suc, regarde. Je promets pas. Les potes. Ah juste les pattes. Prenez pas de suc avec. Bon, rendez la monnaie en veillant bien à donner le bon montant. Faut gérer la monnaie. Ah ça va être chaud. Un dollar est sorti, bah voilà, allez. Eh bah prends-la, je vais pas tout faire pour toi. Ah voilà, ça paye par carte. On en a marre des vieux qui payent avec leur monnaie de m..."
+    },
+    {
+      "start": 19.298,
+      "end": 27.614,
+      "text": "Vous les arnaqué ou pas? Je suis B4,99? 8,98. Ah non attends. Arrondis à 9. Allez, prix d'amis, 9. Allez, le sucre, sûrement pour les pâtes. Ah p..."
+    },
+    {
+      "start": 27.938,
+      "end": 43.71,
+      "text": "Le premier qui prend des pâteaux sucre il gagne une remise. Dommage! 50% pour les pâteaux sucre! Par contre je peux peut-être les arnaquer sur la monnaie, ça se teste. Hier chez le pharmacien j'ai payé 18 centimes avec ma carte bancaire. Je l'ai dit, vous pensez que ça passe? Il a dit, je sais pas. Tiens, regarde, 1 dollar."
+    },
+    {
+      "start": 43.842,
+      "end": 47.806,
+      "text": "Oh ça a marché! Attends ça a marché! Je l'ai arnaqué d'un centime! Il me faut un centime là!"
+    },
+    {
+      "start": 47.906,
+      "end": 55.23,
+      "text": "Il pourrait pas dire regarder la monnaie. Je vais le regarder droit dans les yeux et je vais fermer ma caisse. C'est du vin là! Oh ouais bah non mais un centime fils de pu..."
+    },
+    {
+      "start": 55.33,
+      "end": 55.9716875,
+      "text": "Ça va?"
+    }
+  ]
+}

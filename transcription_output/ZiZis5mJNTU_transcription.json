@@ -1,0 +1,90 @@
+{
+  "text": "Cook. Oh Vas-y va forcément. Je vais retourner là-bas. Oh là. C'est ça? Il veut poter, donne-lui Potter! Jeune garçon!   Je sens que tu sais où il est! Hola, hola, hola. la transforme Savis-tu qu'elle était transforme! Pétard! Whoa! ",
+  "segments": [
+    {
+      "start": 0.642,
+      "end": 1.502,
+      "text": "Cook."
+    },
+    {
+      "start": 2.082,
+      "end": 2.814,
+      "text": "Oh"
+    },
+    {
+      "start": 3.618,
+      "end": 4.478,
+      "text": "Vas-y va forcément."
+    },
+    {
+      "start": 5.218,
+      "end": 6.494,
+      "text": "Je vais retourner là-bas."
+    },
+    {
+      "start": 6.818,
+      "end": 7.23,
+      "text": "Oh là."
+    },
+    {
+      "start": 7.33,
+      "end": 7.838,
+      "text": "C'est ça?"
+    },
+    {
+      "start": 11.682,
+      "end": 13.438,
+      "text": "Il veut poter, donne-lui Potter!"
+    },
+    {
+      "start": 18.242,
+      "end": 19.07,
+      "text": "Jeune garçon!"
+    },
+    {
+      "start": 19.778,
+      "end": 20.126,
+      "text": ""
+    },
+    {
+      "start": 29.378,
+      "end": 29.886,
+      "text": ""
+    },
+    {
+      "start": 31.65,
+      "end": 33.598,
+      "text": "Je sens que tu sais où il est!"
+    },
+    {
+      "start": 34.05,
+      "end": 39.134,
+      "text": "Hola, hola, hola."
+    },
+    {
+      "start": 39.938,
+      "end": 43.006,
+      "text": "la transforme"
+    },
+    {
+      "start": 43.202,
+      "end": 45.63,
+      "text": "Savis-tu qu'elle était transforme!"
+    },
+    {
+      "start": 47.522,
+      "end": 50.718,
+      "text": "Pétard!"
+    },
+    {
+      "start": 51.298,
+      "end": 51.646,
+      "text": "Whoa!"
+    },
+    {
+      "start": 52.61,
+      "end": 54.142,
+      "text": ""
+    }
+  ]
+}

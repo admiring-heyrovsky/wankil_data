@@ -1,0 +1,60 @@
+{
+  "text": "Tu sais que je vais avoir besoin de faire une sieste encore. Tu veux qu'on dort? Ouais je dors un coup parce que là je vais m'évanouir sinon. Ah ça va une petite sieste et j'ai plus 20 ans hein! On bah on dort! Tu ronfles. Prends-toi! Toi tu tourneras quelqu'un qui ronfle à côté de toi? T'oserais le toucher? Oh non oui, ça dépend qui mais oui. Putain j'ai vraiment un truc avec même des gens très proches de moi, je peux pas toucher quelqu'un qui dort. Mais t'as de peur de quoi? J'aime pas déranger quelqu'un qui dort. Ah non mais c'est moi qui ai dérangé! Quand j'ai un tractopède et quand on marche à côté de moi c'est qui qui est dérangé. Je me sens trop mal de toucher quelqu'un qui dort, j'ai l'impression que je vais faire le coup. Alors je vais te dire un truc, la personne qui ronfle, qui se fait réveiller parce qu'elle ronfle, c'est elle qui est gênée. Oui, elle sera très mal à l'aise. Voilà, c'est sûr. Moi c'est pas compliqué, si je t'entends ronfler alors que j'ai des boules caisses, je te réveille, j'ai zéro souci avec ça. Ouais je me souviens quand on dormait ensemble, y'avait pas de problème avec ça. On dormait bien ensemble. Tout ronflé pas. J'ai passé mes meilleures nuits avec toi. Ha ha ha. J'ai jamais aussi bien dormi qu'avec toi. Ha ha ha. Même ma meuf que je baisse bien pourtant, je dors pas aussi bien avec toi.",
+  "segments": [
+    {
+      "start": 0.034,
+      "end": 2.846,
+      "text": "Tu sais que je vais avoir besoin de faire une sieste encore."
+    },
+    {
+      "start": 3.97,
+      "end": 10.942,
+      "text": "Tu veux qu'on dort? Ouais je dors un coup parce que là je vais m'évanouir sinon. Ah ça va une petite sieste et j'ai plus 20 ans hein! On bah on dort!"
+    },
+    {
+      "start": 11.106,
+      "end": 11.87,
+      "text": "Tu ronfles."
+    },
+    {
+      "start": 12.066,
+      "end": 12.766,
+      "text": "Prends-toi!"
+    },
+    {
+      "start": 12.898,
+      "end": 26.11,
+      "text": "Toi tu tourneras quelqu'un qui ronfle à côté de toi? T'oserais le toucher? Oh non oui, ça dépend qui mais oui. Putain j'ai vraiment un truc avec même des gens très proches de moi, je peux pas toucher quelqu'un qui dort. Mais t'as de peur de quoi? J'aime pas déranger quelqu'un qui dort. Ah non mais c'est moi qui ai dérangé!"
+    },
+    {
+      "start": 26.178,
+      "end": 38.334,
+      "text": "Quand j'ai un tractopède et quand on marche à côté de moi c'est qui qui est dérangé. Je me sens trop mal de toucher quelqu'un qui dort, j'ai l'impression que je vais faire le coup. Alors je vais te dire un truc, la personne qui ronfle, qui se fait réveiller parce qu'elle ronfle, c'est elle qui est gênée. Oui, elle sera très mal à l'aise. Voilà, c'est sûr."
+    },
+    {
+      "start": 38.53,
+      "end": 51.102,
+      "text": "Moi c'est pas compliqué, si je t'entends ronfler alors que j'ai des boules caisses, je te réveille, j'ai zéro souci avec ça. Ouais je me souviens quand on dormait ensemble, y'avait pas de problème avec ça. On dormait bien ensemble. Tout ronflé pas. J'ai passé mes meilleures nuits avec toi."
+    },
+    {
+      "start": 51.714,
+      "end": 52.51,
+      "text": "Ha ha ha."
+    },
+    {
+      "start": 52.706,
+      "end": 55.358,
+      "text": "J'ai jamais aussi bien dormi qu'avec toi."
+    },
+    {
+      "start": 55.522,
+      "end": 56.126,
+      "text": "Ha ha ha."
+    },
+    {
+      "start": 56.482,
+      "end": 60.83,
+      "text": "Même ma meuf que je baisse bien pourtant, je dors pas aussi bien avec toi."
+    }
+  ]
+}

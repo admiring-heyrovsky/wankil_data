@@ -1,0 +1,485 @@
+{
+  "text": "Pourquoi tu me menaces? Donne-moi ton freak! Regarde parce que l'autre fois j'ai sauté dans l'eau et je suis mort. No no no. Yeah. Putain, connard! T'es un fils de p... Je sais pas ce que j'ai fait alors. Tu m'as poussé. Mon diamant. Oh. Qu'est-ce que c'est? Notre premier. On fine quoi. Et clair. Yeah clear. Wait c'était quoi toi? Oh. Un gigantesque bruit. Yeah. Il y a des fruits, il y a de l'eau. Forêt plain. Oh yeah, but.  bien loin de chez nous. Dites-moi M. Frodon. On va toujours appeler de la compter. Oh y'a des diamants si, y'a des diamants, j'avais pas vu! Il y a un plastron, il y a un morceau de pain, il y a de l'obsidienne. Yeah, to be honest enroll. Tout est à moi. L'or, le diamant, tout. Tout est à moi, lui. Abruptis. Ça descend par là, oh là là il y a de l'or. Ah non est vu en premier. Non j'ai vu trois réunions. pour ça. Du monde alors que... Mais t'es Il est incroyable. Il est incroyable, il est étonnant. Étonnant! C'est marrant parce que j'ai l'impression d'être un pirate en haut d'UMA. Capitane, touloir. Moi je vois que. Mostly. Devine ce que je suis en train de regarder au loin. Vas-y. Tu ne devineras jamais. La statue de la liberté. No good. Mille fois mieux. Attends, je saute. Hmm. Fais-moi la surprise, fais-moi la surprise. Oh, le... Le temps que t'as mis pour descendre. Regarde là-bas. Whoa! Eat it.  Pétez la gueule, on va tous les tuer. Mm-hmm. C'est trop moche, je regarde son nez! Je boudin. Regarde son nez! Les boudins! Tu Tu veux quoi? É o Nick? É o Nick? Eh tu bug?  Eh t'avais rien surtout! Oh. Tiens, c'était fun. Ils ont des ateliers et tout, ils ont venu des champs. Eh enculé! C'est l'idée bleue que tu...  C'est sa maison. Reduce. Uh Olle! Sprint the home. Wow. Un soleil rouge se lève. Ou le viol a dû être commis cette nuit. Yeah. Poulet. Recule. Okay. Tu prends mon XP gros bazar Mm.  Oui. C'est sur la noyade. Inspiration. C'est trop gros!",
+  "segments": [
+    {
+      "start": 30.754,
+      "end": 31.422,
+      "text": "Pourquoi tu me menaces?"
+    },
+    {
+      "start": 32.642,
+      "end": 33.598,
+      "text": "Donne-moi ton freak!"
+    },
+    {
+      "start": 33.762,
+      "end": 35.678,
+      "text": "Regarde parce que l'autre fois j'ai sauté dans l'eau et je suis mort."
+    },
+    {
+      "start": 35.97,
+      "end": 36.542,
+      "text": "No no no."
+    },
+    {
+      "start": 36.866,
+      "end": 37.214,
+      "text": "Yeah."
+    },
+    {
+      "start": 37.474,
+      "end": 38.654,
+      "text": "Putain, connard!"
+    },
+    {
+      "start": 39.33,
+      "end": 40.158,
+      "text": "T'es un fils de p..."
+    },
+    {
+      "start": 41.314,
+      "end": 42.974,
+      "text": "Je sais pas ce que j'ai fait alors. Tu m'as poussé."
+    },
+    {
+      "start": 47.49,
+      "end": 48.382,
+      "text": "Mon diamant."
+    },
+    {
+      "start": 50.786,
+      "end": 51.07,
+      "text": "Oh."
+    },
+    {
+      "start": 51.234,
+      "end": 53.15,
+      "text": "Qu'est-ce que c'est? Notre premier."
+    },
+    {
+      "start": 54.146,
+      "end": 54.91,
+      "text": "On fine quoi."
+    },
+    {
+      "start": 55.874,
+      "end": 56.254,
+      "text": "Et clair."
+    },
+    {
+      "start": 57.538,
+      "end": 57.886,
+      "text": "Yeah clear."
+    },
+    {
+      "start": 59.01,
+      "end": 59.838,
+      "text": "Wait c'était quoi toi?"
+    },
+    {
+      "start": 60.77,
+      "end": 61.118,
+      "text": "Oh."
+    },
+    {
+      "start": 61.282,
+      "end": 62.494,
+      "text": "Un gigantesque bruit."
+    },
+    {
+      "start": 63.202,
+      "end": 63.678,
+      "text": "Yeah."
+    },
+    {
+      "start": 63.874,
+      "end": 64.862,
+      "text": "Il y a des fruits, il y a de l'eau."
+    },
+    {
+      "start": 65.154,
+      "end": 65.982,
+      "text": "Forêt plain."
+    },
+    {
+      "start": 66.722,
+      "end": 67.262,
+      "text": "Oh yeah, but."
+    },
+    {
+      "start": 67.522,
+      "end": 69.694,
+      "text": ""
+    },
+    {
+      "start": 71.842,
+      "end": 72.958,
+      "text": "bien loin de chez nous."
+    },
+    {
+      "start": 73.346,
+      "end": 74.462,
+      "text": "Dites-moi M. Frodon."
+    },
+    {
+      "start": 75.522,
+      "end": 77.022,
+      "text": "On va toujours appeler de la compter."
+    },
+    {
+      "start": 77.538,
+      "end": 79.87,
+      "text": "Oh y'a des diamants si, y'a des diamants, j'avais pas vu!"
+    },
+    {
+      "start": 80.194,
+      "end": 83.454,
+      "text": "Il y a un plastron, il y a un morceau de pain, il y a de l'obsidienne."
+    },
+    {
+      "start": 83.938,
+      "end": 85.054,
+      "text": "Yeah, to be honest enroll."
+    },
+    {
+      "start": 85.506,
+      "end": 86.174,
+      "text": "Tout est à moi."
+    },
+    {
+      "start": 86.274,
+      "end": 87.422,
+      "text": "L'or, le diamant, tout."
+    },
+    {
+      "start": 87.714,
+      "end": 89.534,
+      "text": "Tout est à moi, lui."
+    },
+    {
+      "start": 89.826,
+      "end": 91.326,
+      "text": "Abruptis."
+    },
+    {
+      "start": 92.098,
+      "end": 93.598,
+      "text": "Ça descend par là, oh là là il y a de l'or."
+    },
+    {
+      "start": 94.626,
+      "end": 95.966,
+      "text": "Ah non est vu en premier."
+    },
+    {
+      "start": 96.578,
+      "end": 98.27,
+      "text": "Non j'ai vu trois réunions."
+    },
+    {
+      "start": 100.354,
+      "end": 100.926,
+      "text": "pour ça."
+    },
+    {
+      "start": 104.322,
+      "end": 105.278,
+      "text": "Du monde alors que..."
+    },
+    {
+      "start": 105.858,
+      "end": 106.398,
+      "text": "Mais t'es"
+    },
+    {
+      "start": 107.234,
+      "end": 108.222,
+      "text": "Il est incroyable."
+    },
+    {
+      "start": 108.354,
+      "end": 109.598,
+      "text": "Il est incroyable, il est étonnant."
+    },
+    {
+      "start": 110.69,
+      "end": 111.934,
+      "text": "Étonnant!"
+    },
+    {
+      "start": 112.962,
+      "end": 116.318,
+      "text": "C'est marrant parce que j'ai l'impression d'être un pirate en haut d'UMA."
+    },
+    {
+      "start": 117.218,
+      "end": 119.07,
+      "text": "Capitane, touloir."
+    },
+    {
+      "start": 119.618,
+      "end": 120.19,
+      "text": "Moi je vois que."
+    },
+    {
+      "start": 120.546,
+      "end": 121.118,
+      "text": "Mostly."
+    },
+    {
+      "start": 123.746,
+      "end": 126.59,
+      "text": "Devine ce que je suis en train de regarder au loin."
+    },
+    {
+      "start": 128.77,
+      "end": 129.214,
+      "text": "Vas-y."
+    },
+    {
+      "start": 129.826,
+      "end": 131.23,
+      "text": "Tu ne devineras jamais."
+    },
+    {
+      "start": 132.866,
+      "end": 134.142,
+      "text": "La statue de la liberté."
+    },
+    {
+      "start": 134.466,
+      "end": 135.614,
+      "text": "No good."
+    },
+    {
+      "start": 136.482,
+      "end": 137.694,
+      "text": "Mille fois mieux."
+    },
+    {
+      "start": 138.082,
+      "end": 139.006,
+      "text": "Attends, je saute."
+    },
+    {
+      "start": 139.682,
+      "end": 140.03,
+      "text": "Hmm."
+    },
+    {
+      "start": 141.026,
+      "end": 142.27,
+      "text": "Fais-moi la surprise, fais-moi la surprise."
+    },
+    {
+      "start": 142.978,
+      "end": 143.87,
+      "text": "Oh, le..."
+    },
+    {
+      "start": 144.802,
+      "end": 147.006,
+      "text": "Le temps que t'as mis pour descendre."
+    },
+    {
+      "start": 148.002,
+      "end": 148.83,
+      "text": "Regarde là-bas."
+    },
+    {
+      "start": 150.274,
+      "end": 151.006,
+      "text": "Whoa!"
+    },
+    {
+      "start": 151.618,
+      "end": 152.062,
+      "text": "Eat it."
+    },
+    {
+      "start": 153.058,
+      "end": 153.374,
+      "text": ""
+    },
+    {
+      "start": 153.506,
+      "end": 154.814,
+      "text": "Pétez la gueule, on va tous les tuer."
+    },
+    {
+      "start": 155.65,
+      "end": 156.542,
+      "text": "Mm-hmm."
+    },
+    {
+      "start": 156.77,
+      "end": 157.758,
+      "text": "C'est trop moche, je regarde son nez!"
+    },
+    {
+      "start": 157.922,
+      "end": 158.686,
+      "text": "Je boudin."
+    },
+    {
+      "start": 158.946,
+      "end": 159.71,
+      "text": "Regarde son nez!"
+    },
+    {
+      "start": 159.938,
+      "end": 160.702,
+      "text": "Les boudins!"
+    },
+    {
+      "start": 162.018,
+      "end": 163.134,
+      "text": "Tu Tu veux quoi?"
+    },
+    {
+      "start": 164.258,
+      "end": 165.566,
+      "text": "É o Nick? É o Nick?"
+    },
+    {
+      "start": 166.53,
+      "end": 167.166,
+      "text": "Eh tu bug?"
+    },
+    {
+      "start": 167.522,
+      "end": 168.19,
+      "text": ""
+    },
+    {
+      "start": 169.026,
+      "end": 169.918,
+      "text": "Eh t'avais rien surtout!"
+    },
+    {
+      "start": 171.714,
+      "end": 172.414,
+      "text": "Oh."
+    },
+    {
+      "start": 173.538,
+      "end": 175.102,
+      "text": "Tiens, c'était fun."
+    },
+    {
+      "start": 176.066,
+      "end": 179.55,
+      "text": "Ils ont des ateliers et tout, ils ont venu des champs."
+    },
+    {
+      "start": 179.938,
+      "end": 180.798,
+      "text": "Eh enculé!"
+    },
+    {
+      "start": 182.818,
+      "end": 184.094,
+      "text": "C'est l'idée bleue que tu..."
+    },
+    {
+      "start": 184.418,
+      "end": 185.214,
+      "text": ""
+    },
+    {
+      "start": 186.242,
+      "end": 187.358,
+      "text": "C'est sa maison."
+    },
+    {
+      "start": 191.042,
+      "end": 191.422,
+      "text": "Reduce."
+    },
+    {
+      "start": 193.506,
+      "end": 193.918,
+      "text": "Uh"
+    },
+    {
+      "start": 194.21,
+      "end": 195.006,
+      "text": "Olle!"
+    },
+    {
+      "start": 196.962,
+      "end": 198.11,
+      "text": "Sprint the home."
+    },
+    {
+      "start": 198.434,
+      "end": 199.582,
+      "text": "Wow."
+    },
+    {
+      "start": 199.81,
+      "end": 200.862,
+      "text": "Un soleil rouge se lève."
+    },
+    {
+      "start": 201.538,
+      "end": 202.75,
+      "text": "Ou le viol a dû être commis cette nuit."
+    },
+    {
+      "start": 208.354,
+      "end": 208.702,
+      "text": "Yeah."
+    },
+    {
+      "start": 208.866,
+      "end": 209.342,
+      "text": "Poulet."
+    },
+    {
+      "start": 211.65,
+      "end": 212.126,
+      "text": "Recule."
+    },
+    {
+      "start": 212.418,
+      "end": 212.862,
+      "text": "Okay."
+    },
+    {
+      "start": 214.338,
+      "end": 215.678,
+      "text": "Tu prends mon XP gros bazar"
+    },
+    {
+      "start": 216.514,
+      "end": 216.766,
+      "text": "Mm."
+    },
+    {
+      "start": 216.93,
+      "end": 217.47,
+      "text": ""
+    },
+    {
+      "start": 217.826,
+      "end": 218.206,
+      "text": "Oui."
+    },
+    {
+      "start": 218.818,
+      "end": 219.678,
+      "text": "C'est sur la noyade."
+    },
+    {
+      "start": 220.29,
+      "end": 220.766,
+      "text": "Inspiration."
+    },
+    {
+      "start": 225.666,
+      "end": 226.718,
+      "text": "C'est trop gros!"
+    }
+  ]
+}
