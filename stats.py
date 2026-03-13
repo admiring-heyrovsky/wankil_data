@@ -152,7 +152,7 @@ st.title("Wankil Studio - Statistiques")
 
 st.markdown("""
 Ce dashboard analyse le catalogue vidéo de **Wankil Studio - Laink et Terracid** à partir des
-métadonnées YouTube et des transcriptions automatiques des vidéos.
+vidéos YouTube et des transcriptions par IA des vidéos. (analyse datée de mars 2026)
 
 **Fonctionnalités :**
 - 🏆 Classements par vues, durée, efficacité (vues/minute) et performance récente (vues/jour)
@@ -552,10 +552,9 @@ with tab4:
 
         query = st.text_input(
             "Mot ou expression à rechercher",
-            placeholder="ex: Pokémon, minecraft, putain...",
+            placeholder="ex: saucisse, minecraft, putain...",
         )
         case_sensitive = st.checkbox("Sensible à la casse", value=False)
-        max_results = st.slider("Résultats max", 5, 100, 20, step=5)
 
         if query:
             q = query if case_sensitive else query.lower()
@@ -583,7 +582,6 @@ with tab4:
 
             st.markdown(
                 f"**{len(results)} occurrence(s)** trouvée(s)"
-                + (f" — affichage des {max_results} premières" if len(results) > max_results else "")
             )
 
             # ── Graphique : occurrences au fil du temps ─────────────
@@ -719,6 +717,12 @@ with tab4:
                 )
                 st.caption("Occurrences / 1 000 mots transcrits ce mois — corrige les biais de longueur et de volume")
                 st.altair_chart((line_1k + points_1k + loess_1k).properties(height=300), use_container_width=True)
+
+            max_results = st.slider("Résultats max", 5, 100, 20, step=5)
+            st.markdown(
+                f"**{len(results)} occurrence(s)** trouvée(s)"
+                + (f" — affichage des {max_results} premières" if len(results) > max_results else "")
+            )
 
             for r in results[:max_results]:
                 yt_link = youtube_url_at(r["url"], r["start"])
